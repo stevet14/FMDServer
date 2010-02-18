@@ -221,9 +221,9 @@ public class SymbolLoader {
 
 			dis = new BufferedReader(new InputStreamReader(urlConn
 					.getInputStream()));
-			String s;//, name;
+			String s;// , name;
 
-//			boolean isForex = false;
+			// boolean isForex = false;
 			while ((s = dis.readLine()) != null) {
 				if (s.contains("<meta name=\"description\"")) {
 					int start = s.indexOf("content");
@@ -231,9 +231,9 @@ public class SymbolLoader {
 					if (end == -1) {
 						end = s.lastIndexOf(" ..."); // ...if not, it's a Forex.
 						start += 26;
-//						isForex = true;
+						// isForex = true;
 					}
-					//name = s.substring(start + 9, end);
+					// name = s.substring(start + 9, end);
 				}
 				if (s.contains("var dataStr"))
 					break;
@@ -358,31 +358,38 @@ public class SymbolLoader {
 	public String getSymbolData(String symbolCode) throws IOException {
 		Session session = HibernateUtil.getSessionFactory().getCurrentSession();
 		session.beginTransaction();
-/*		Symbol symbol = (Symbol) session.createQuery(
-				"from Symbol as symbol where symbol.symbol = ?").setString(0,
-				symbolCode).uniqueResult();
-*/
+		/*
+		 * Symbol symbol = (Symbol) session.createQuery(
+		 * "from Symbol as symbol where symbol.symbol = ?").setString(0,
+		 * symbolCode).uniqueResult();
+		 */
 		List<Price> prices = session
 				.createQuery(
-						"from Price as price where symbol.symbol = ? order by date asc")
+						"from Price as price where symbol.symbol = ? order by date desc")
 				.setString(0, symbolCode).list();
 
 		String data = "";
 		// CSVWriter writer = new CSVWriter(new FileWriter(symbolCode + ".csv"),
 		// ',', CSVWriter.NO_QUOTE_CHARACTER);
 
-		if (prices != null && prices.size()>0) { // skip if we don't have any prices...
+		// Skip if we don't have any prices...
+		if (prices != null && prices.size() > 0) { 
 			// We need to extract weekly entries from daily events
 			int modulus = prices.get(0).getPeriod().equals("Daily") ? 7 : 1;
-			for (int i = prices.size() - 1; i >= prices.size() % modulus; i -= modulus) {
-				Price price = prices.get(i);
+			int lastIndex = prices.size() - (prices.size() % modulus);
+			for (int i = 0; i < lastIndex; i += modulus) {
 				String[] entries = new String[5];
-				entries[0] = price.getDate().toString();
-				entries[1] = Double.toString(price.getOpen());
-				entries[2] = Double.toString(price.getHigh());
-				entries[3] = Double.toString(price.getLow());
-				entries[4] = Double.toString(price.getClose());
-				// writer.writeNext(entries);
+				if (modulus > 1) {
+					entries = getWeeklyFromDaily(prices, i, modulus);
+				} else {
+					Price price = prices.get(i);
+					entries[0] = price.getDate().toString();
+					entries[1] = Double.toString(price.getOpen());
+					entries[2] = Double.toString(price.getHigh());
+					entries[3] = Double.toString(price.getLow());
+					entries[4] = Double.toString(price.getClose());
+					// writer.writeNext(entries);
+				}
 				for (int k = 0; k < 4; k++) {
 					data += entries[k] + ",";
 				}
@@ -393,6 +400,26 @@ public class SymbolLoader {
 		session.close();
 		System.out.println("Found: " + symbolCode);
 		return data;
+	}
+
+	private String[] getWeeklyFromDaily(List<Price> prices, int i, int modulus) {
+		double high = 0;
+		double low = Double.MAX_VALUE;
+		for (int j = 0; j < modulus; j++) {
+			double newHigh = prices.get(i + j).getHigh();
+			double newLow = prices.get(i + j).getLow();
+			if (newHigh > high)
+				high = newHigh;
+			if (newLow < low)
+				low = newLow;
+		}
+		String[] entries = new String[5];
+		entries[0] = prices.get(i + modulus - 1).getDate().toString();
+		entries[1] = Double.toString(prices.get(i + modulus - 1).getOpen());
+		entries[2] = Double.toString(high);
+		entries[3] = Double.toString(low);
+		entries[4] = Double.toString(prices.get(i).getClose());
+		return entries;
 	}
 
 	private String getExchangeFileName(Exchange exchange) {
@@ -421,4 +448,3 @@ public class SymbolLoader {
 		return "";
 	}
 }
-
