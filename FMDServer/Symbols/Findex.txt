@@ -1,0 +1,329 @@
+
+
+Foreign Indices
+
+
+A3DOW - DJ LATIN AMERICA STOCK INDEX                           ^A31          13719    20010511
+Argentina Merval Index                                         ^MERV          3838    19961008
+ATDOW - DJ AUSTRIA STOCK INDEX                                 ^AT1          13720    20010511
+ATDOWD - DJ AUSTRIA STOCK INDEX USD                            ^AT2          13721    20010511
+Australia All Ordinaries Index                                 ^AORD          3800    19840803
+Austria ATX Index                                              ^ATX           3812    19921111
+Austrian Ceceeur Index                                         ^CEC          56991    20060824
+
+Baltic Dry Index                                               ^BADI         52303    20020104
+BEDOW - DJ BELGIUM STOCK INDEX                                 ^BE1          13722    20010511
+BEDOWD - DJ BELGIUM STOCK INDEX USD                            ^BE2          13723    20010511
+Brazil Bovespa Index                                           ^BVS2         85567    20080606
+Brazil Bovespa Index                                           ^BVSP          3830    19930427
+BRDOW - DJ BRAZIL STOCK INDEX                                  ^BR1          13724    20010511
+BRDOWD - DJ BRAZIL STOCK INDEX USD                             ^BR2          13725    20010511
+Brussels Bel-20 Share Index                                    ^BFX           6796    19910409
+
+CADOW - DJ CANADA STOCK INDEX                                  ^CA1          13726    20010511
+CADOWD - DJ CANADA STOCK INDEX USD                             ^CA2          13727    20010511
+CHDOW - DJ SWITZERLAND STOCK INDEX                             ^CH1          13728    20010511
+CHDOWD - DJ SWITZERLAND STOCK INDEX USD                        ^CH2          13729    20010511
+Chile SASE General Index                                       ^IGPA          3831    19970128
+Chile SASE Select Index (NEW)                                  ^IPSA          3849    20020102
+China Shanghai Composite Index                                 ^SSEC          3801    19970702
+China Shenzhen Composite Index                                 ^SZSC          3836    19911113
+CLDOW - DJ CHILE STOCK INDEX                                   ^CL1          13730    20010511
+CLDOWD - DJ CHILE STOCK INDEX USD                              ^CL2          13731    20010511
+Czech Index                                                    ^CTX          56901    20050610
+Czech Index Euro                                               ^CTXE         56904    20050610
+
+DAX NEW VOLATILITY INDEX                                       ^VIXI         56921    20051116
+DAX VOLATILITY INDEX                                           ^VDAX         56920    20051116
+DEDOW - DJ GERMANY STOCK INDEX                                 ^DE1          13732    20010511
+DEDOWD - DJ GERMANY STOCK INDEX USD                            ^DE2          13733    20010511
+Denmark KFX Index                                              ^KFX           3814    19930126
+Deutsch Bank Liquid Commodity Index                            ^DBLC         56945    20060206
+DJ ASIAN TITANS INDEX                                          ^DJAT         13734    20010511
+DJ EURO STOXX 50 US$ PRICE                                     ^SX5K         56751    20070330
+DJ Euro Stoxx50 Euro Price                                     ^SX5E         56750    20070330
+DJ HONG KONG EXTRA LIQUID INDEX                                ^XLHK         13672    20010511
+DJ ISLAMIC EXTRA LIQUID INDEX                                  ^IMXL         13799    20010511
+DJ ISLAMIC MARKET US INDEX                                     ^IMUS         13798    20010511
+DJ STOXX 50 EURO Price                                         ^SX5P         56752    20070330
+DJ STOXX 50 US$ PRICE                                          ^SX5L         56753    20070404
+DJ Stoxx 600 Euro Price                                        ^SXXP         85058    20040426
+DJAUM - DJ AUSTRALIAN MID-CAP INDEX                            ^DJ1          13736    20010511
+DJAUS - DJ AUSTRALIAN SMALL-CAP INDEX                          ^DJ2          13737    20010511
+DKDOW - DJ DENMARK STOCK INDEX                                 ^DK1          13738    20010511
+DKDOWD - DJ DENMARK STOCK INDEX USD                            ^DK2          13739    20010511
+DOW JONES AUSTRALIAN INDEX                                     ^DJAU         13735    20010511
+
+E1BSC - DJ EUROPE BASIC MATERIALS INDEX                        ^E11          13741    20010511
+E1CYC - DJ EUROPE CONSUMER CYCLICALS IND                       ^E12          13742    20010511
+E1DOW - DJ EUROPE STOCK INDEX                                  ^E13          13743    20010511
+E1ENE - DJ EUROPE ENERGY INDEX                                 ^E14          13744    20010511
+E1FIN - DJ EUROPE FINANCIAL INDEX                              ^E15          13745    20010511
+E1IDU - DJ EUROPE INDUSTRIAL INDEX                             ^E16          13746    20010511
+E1NCY - DJ EUROPE CONSUMER NON-CYCLICAL                        ^E17          13747    20010511
+E1TEC - DJ EUROPE TECHNOLOGY INDEX                             ^E18          13748    20010511
+E1UTI - DJ EUROPE UTILITIES INDEX                              ^E19          13749    20010511
+E2BSC - DJ EUROPE (EX UK) BASIC MATERIAL                       ^E21          13750    20010511
+E2CYC - DJ EUROPE (EX UK) CONSUMER CYCLI                       ^E22          13751    20010511
+E2DOW - DJ EUROPE STOCK INDEX (EXCL UK)                        ^E23          13752    20010511
+E2ENE - DJ EUROPE (EX UK) ENERGY INDEX                         ^E24          13753    20010511
+E2FIN - DJ EUROPE (EX UK) FINANCIAL INDE                       ^E25          13754    20010511
+E2IDU - DJ EUROPE (EX UK) INDUSTRIAL IND                       ^E26          13755    20010511
+E2NCY - DJ EUROPE (EX UK) CONSUMER NON-C                       ^E27          13756    20010511
+E2UTI - DJ EUROPE (EX UK) UTILITIES INDE                       ^E28          13757    20010511
+E3DOW - DJ NORDIC STOCK INDEX                                  ^E31          13758    20010511
+Egypt CMA Index                                                ^CCSI          3828    19970702
+ESDOW - DJ SPAIN STOCK INDEX                                   ^ES1          13759    20010511
+ESDOWD - DJ SPAIN STOCK INDEX USD                              ^ES2          13760    20010511
+Euronext 100 Index                                             ^N100          3843    19991231
+Euronext 150 Index                                             ^N150          3842    19991231
+
+FIDOW - DJ FINLAND STOCK INDEX                                 ^FI1          13761    20010511
+FIDOWD - DJ FINLAND STOCK INDEX USD                            ^FI2          13762    20010511
+Finland Helsinki General Index                                 ^HEX           3815    19970701
+France CAC-40 Index                                            ^FCHI          3816    19900301
+FRDOW - DJ FRANCE STOCK INDEX                                  ^FR1          13763    20010511
+FRDOWD - DJ FRANCE STOCK INDEX USD                             ^FR2          13764    20010511
+FT Techmark 100                                                ^FTTI         51037    20020319
+FT Techmark Index                                              ^FTTA         51038    20020319
+FTASX0570 Oil Equip Suppies & Drilling                         ^FTOE         63813    20060103
+FTASX2720 Gen Industrials                                      ^FTGI         63811    20060103
+FTASX3720 Household Goods                                      ^FTHO         63815    20060103
+FTASX6570 Mobile Telecom                                       ^FTMT         63814    20060103
+FTASZ7570 Gas Water and Util                                   ^FTGW         63812    20060220
+FTSE 100 Index                                                 ^FTSE          3827    19840402
+FTSE All Share Index                                           FTAS          17210    19990705
+FTSE Italia All-Share                                          ^GU15         51596    20090608
+FTSE Italia Micro Cap                                          ^GU17         51598    20090608
+FTSE Italia Mid-Cap                                            ^GU16         51597    20090608
+FTSE Italia Small Cap                                          ^GU18         51599    20090608
+FTSE Italia Star                                               ^ALLS         56915    20050822
+FTSE MIB Index                                                 ^SPM          52264    19980102
+FTSE Sector Aerospace & Defense                                ^FTAD         51312    20030103
+FTSE Sector Automobiles and Parts                              ^FTAM         51323    20030103
+FTSE Sector Banks                                              ^FTBK         51310    20030103
+FTSE Sector Beverages                                          ^FTDN         51306    20030103
+FTSE Sector Chemicals                                          ^FTCH         51327    20030103
+FTSE Sector Construction & Building Mate                       ^FTBM         51315    20030103
+FTSE Sector Electricity                                        ^FTEY         51330    20030103
+FTSE Sector Electronic & Electrical Equi                       ^FTEE         51300    20030103
+FTSE Sector Engineering & Machinery                            ^FTEN         51320    20030103
+FTSE Sector Food & Drug Retailers                              ^FTFR         51302    20030103
+FTSE Sector Food Producers & Processors                        ^FTFM         51309    20030103
+FTSE Sector Health                                             ^FTMA         51324    20030103
+FTSE Sector Household Goods & Textiles                         ^FTHG         51325    20030103
+FTSE Sector Information Technology Hardw                       ^FTTH         51303    20030103
+FTSE Sector Insurance                                          ^FTIC         51319    20030103
+FTSE Sector INV Companies                                      ^FTTU         51308    20030103
+FTSE Sector Leisure Entertainment & Hote                       ^FTHL         51311    20030103
+FTSE Sector Life Assurance                                     ^FTIL         51321    20030103
+FTSE Sector Media & Photography                                ^FTMD         51316    20030103
+FTSE Sector Mining                                             ^FTEI         51322    20030103
+FTSE Sector Oil & Gas                                          ^FTOI         51328    20030103
+FTSE Sector Personal Care & Household Pr                       ^FTPC         51307    20030103
+FTSE Sector Pharmaceuticals                                    ^FTPH         51329    20030103
+FTSE Sector Real Estate                                        ^FTPY         51326    20030103
+FTSE Sector Software & Computer Services                       ^FTCS         51305    20030103
+FTSE Sector Speciality & Other Finance                         ^FTOF         51301    20030103
+FTSE Sector Support Services                                   ^FTSS         51314    20030103
+FTSE Sector Telecommunications Services                        ^FTTN         51304    20030103
+FTSE Sector Tobacco                                            ^FTTB         51317    20030103
+FTSE Sector Transport                                          ^FTTR         51313    20030103
+FTSE techMark 100 Index                                        ^TAX          17262    20000512
+
+GBDOW - DJ UK STOCK INDEX                                      ^GB1          13765    20010511
+GBDOWD - DJ UK STOCK INDEX USD                                 ^GB2          13766    20010511
+Germany DAX Index                                              ^GDAX          3817    19901126
+GRDOW - DJ GREECE STOCK INDEX                                  ^GR1          13767    20010511
+GRDOWD - DJ GREECE STOCK INDEX USD                             ^GR2          13768    20010511
+Greece General Share Index                                     ^ATG           3818    19970701
+
+HANG SENG CHINA ENTERPRISES IND                                ^HSCE         76012    19930715
+HKDOW - DJ HONG KONG STOCK INDEX                               ^HK1          13769    20010511
+HKDOWD - DJ HONG KONG STOCK INDEX USD                          ^HK2          13770    20010511
+Hong Kong Hang Seng Index                                      ^HSI           3802    19861231
+Hungarian Index                                                ^HTX          56900    20050610
+Hungarian Index Euro                                           ^HTXE         56903    20050610
+Hungary BUX Index                                              ^BUX           3819    19970701
+
+ICE Brent Afternoon Marker 3rd Month                           ^IPE3         89034    20090130
+ICE Brent Afternoon Markers                                    ^IPEB          3850    20030103
+ICE Brent Asian Markers                                        ^IBAM          3856    20061121
+ICE Brent Singapore Markers Month 3                            ^IBS3         90005    20090908
+ICE Crude Oil Index                                            ^IPCI          3853    20030123
+ICE Gas Oil 1930 Markers Month 3                               ^IGE3         90007    20090908
+ICE Gas Oil Evening Markers                                    ^IGEM         76008    20061121
+ICE Gas Oil Night Markers                                      ^IGNM         76009    20061121
+ICE Gas Oil Singapore Markers Month 3                          ^IGS3         90003    20090908
+ICE Gasoil 1730 Markers Month 3                                ^IGO3         90004    20090908
+ICE Gasoil Singapore Markers                                   ^IGSM         86546    20080718
+ICE Natural Gas Index                                          ^IPNG          3852    20030123
+ICE WTI Singapore Markers                                      ^IWSM         86545    20080718
+IDDOW - DJ INDONESIA STOCK INDEX                               ^ID1          13789    20010511
+IDDOWD - DJ INDONESIA STOCK INDEX USD                          ^ID2          13790    20010511
+IEDOW - DJ IRELAND STOCK INDEX                                 ^IE1          13791    20010511
+IEDOWD - DJ IRELAND STOCK INDEX USD                            ^IE2          13792    20010511
+India BSE 30 Index                                             ^BSES          3803    19970701
+Indice Mexico                                                  ^INMX          3992    19931104
+IPC (MEXICO)                                                   ^IPC          13708    20010511
+Irish Stock Exchange Index                                     ^ISEQ          3840    19970710
+Israel TA-100 Index                                            ^TA10          3829    19970701
+ITDOW - DJ ITALY STOCK INDEX                                   ^IT1          13709    20010511
+ITDOWD - DJ ITALY STOCK INDEX USD                              ^IT2          13710    20010511
+
+Jakarta Composite Index                                        ^JKSE          3804    19970701
+Japan Nikkei 225 Index                                         ^N225          3805    19840104
+Jasdaq                                                         ^JSD          52302    20030516
+Johannesburg Financial Index                                   ^JSFI          3991    19931104
+Johannesburg Industrial Index                                  ^JIAI          3990    19931104
+Johannesburg Overall Index                                     ^JSAI          6791    19920610
+JPDOW - DJ JAPAN STOCK INDEX                                   ^JP1          13711    20010511
+JPDOWD - DJ JAPAN STOCK INDEX USD                              ^JP2          13712    20010511
+
+KOSPI 200 Index                                                ^KOS          52266    19960320
+KRDOW - DJ SOUTH KOREA STOCK INDEX                             ^KR1          13713    20010511
+KRDOWD - DJ SOUTH KOREA STOCK INDEX USD                        ^KR2          13714    20010511
+
+London FT 30 Industrial Index                                  ^FTII          6789    19871229
+London Gold Mines                                              ^FTGM          6790    19871229
+
+Madrid General Index                                           ^SMSI          6787    19891129
+Malaysia KLSE Composite Index                                  ^KLSE          3806    19931203
+MDAX                                                           ^MDAX         65997    19960229
+Mexico I P C                                                   ^MXX           6785    19911108
+MSCI EAFE                                                      ^XMSC          6799    19880302
+MSCI Singapore Stock Index                                     ^MSSG         52263    19921202
+MSCI Taiwan Index                                              ^MSTW         52265    19970113
+MSCI World Index                                               XMSW           3972    19720103
+MXDOW - DJ MEXICO STOCK INDEX                                  ^MX1          13715    20010511
+MXDOWD - DJ MEXICO STOCK INDEX USD                             ^MX2          13716    19981217
+MYDOW - DJ MALAYSIA STOCK INDEX                                ^MY1          13717    20010511
+MYDOWD - DJ MALAYSIA STOCK INDEX USD                           ^MY2          13718    19981218
+
+Netherlands AEX General Index                                  ^AEX           3821    19921012
+New Zealand 50 Index                                           ^NZ50          3854    20030103
+Nikkei 300                                                     ^N300         65999    20050317
+Nikkei JQ Average                                              ^NJQ          65998    20050317
+NLDOW - DJ NETHERLANDS STOCK INDEX                             ^NL1          13676    20010511
+NLDOWD - DJ NETHERLANDS STOCK INDEX USD                        ^NL2          13677    20010511
+NODOW - DJ NORWAY STOCK INDEX                                  ^NO1          13678    20010511
+NODOWD - DJ NORWAY STOCK INDEX USD                             ^NO2          13679    20010511
+NZAX All Shares Gross                                          ^NZAX         76006    20040301
+NZDOW - DJ NEW ZEALAND STOCK INDEX                             ^NZ1          13680    20010511
+NZDOWD - DJ NEW ZEALAND STOCK INDEX USD                        ^NZ2          13681    20010511
+NZX 10 Capital                                                 ^N10C         56999    19901109
+NZX 10 Gross                                                   ^N10G         56998    19901109
+NZX 15                                                         ^NZ15         56993    20040301
+NZX 50 Portfolio Capital                                       ^N50C         56995    20061110
+NZX 50 Portfolio Gross                                         ^N50G         56994    20010103
+NZX All Shares Capital                                         ^NZAC         76005    20061110
+NZX All Shares Gross                                           ^NZAG         76004    20061110
+NZX MidCap Capital                                             ^NMCC         76001    19971001
+NZX MidCap Gross                                               ^NMCG         76000    19971001
+NZX SciTech Capital                                            ^NZSC         56997    20031231
+NZX SciTech Gross                                              ^NZSG         56996    20060516
+NZX SmallCap Capital                                           ^NSCC         76003    20061110
+NZX SmallCap Gross                                             ^NSCG         76002    20061110
+
+OBX Index                                                      ^OBX          52262    20040927
+OMX Stokholm 30 Index                                          ^O30          52261    20081120
+
+P1BSC - DJ PACIFIC BASIC MATERIALS INDEX                       ^P11          13682    20010511
+P1CYC - DJ PACIFIC CONSUMER CYCLICALS IN                       ^P12          13683    20010511
+P1DOW - DJ PACIFIC STOCK INDEX                                 ^P13          13684    20010511
+P1ENE - DJ PACIFIC ENERGY INDEX                                ^P14          13685    20010511
+P1FIN - DJ PACIFIC FINANCIAL INDEX                             ^P15          13686    20010511
+P1IDU - DJ PACIFIC INDUSTRIAL INDEX                            ^P16          13687    20010511
+P1NCY - DJ PACIFIC CONSUMER NON-CYCLICAL                       ^P17          13688    20010511
+P1TEC - DJ PACIFIC TECHNOLOGY INDEX                            ^P110         13691    20010511
+P1UTI - DJ PACIFIC UTILITIES INDEX                             ^P111         13692    20010511
+P2BSC - DJ PACIFIC (EX JPN) BASIC MATERI                       ^P21          13694    20010511
+P2CYC - DJ PACIFIC (EX JPN) CONSUMER CYC                       ^P22          13695    20010511
+P2DOW - DJ PACIFIC INDEX (EXCL JAPAN)                          ^P23          13696    20010511
+P2ENE - DJ PACIFIC (EX JPN) ENERGY INDEX                       ^P24          13697    20010511
+P2FIN - DJ PACIFIC (EX JPN) FINANCIAL IN                       ^P25          13698    20010511
+P2IDU - DJ PACIFIC (EX JPN) INDUSTRIAL I                       ^P26          13699    20010511
+P2NCY - DJ PACIFIC (EX JPN) CONSUMER NON                       ^P27          13700    20010511
+P2TEC - DJ PACIFIC (EX JPN) TECHNOLOGY I                       ^P28          13701    20010511
+P2UTI - DJ PACIFIC (EX JPN) UTILITIES IN                       ^P29          13702    20010511
+P3DOW - DJ SOUTHEAST ASIA STOCK INDEX                          ^P31          13703    20010511
+Pakistan Karachi 100 Index                                     ^KSE           3834    19970702
+Peru Lima General Index                                        ^IGRA          3832    19970331
+PHDOW - DJ PHILIPPINES STOCK INDEX                             ^PH1          13704    20010511
+PHDOWD - DJ PHILIPPINES STOCK INDEX USD                        ^PH2          13705    20010511
+Philippines PSE Composite Index                                ^PSI           3835    19970702
+Polish Index                                                   ^PTX          56902    20050610
+Polish Index Euro                                              ^PTXE         56905    20050610
+PTDOW - DJ PORTUGAL STOCK INDEX                                ^PT1          13706    20010511
+PTDOWD - DJ PORTUGAL STOCK INDEX USD                           ^PT2          13707    20010511
+
+Russia Moscow Times Index                                      ^MTMS          3824    19970701
+Russian Indust Index                                           ^RUX          56744    20070330
+Russian Trading System Index                                   ^RTS          56989    20060824
+
+S&P Latin America 40                                           ^LA40         56748    20070821
+S&P/ASX 200                                                    ^AXJO          3847    19921123
+S&P/Topix USD                                                  ^SPTD         13955    20010611
+S&P/Topix Yen                                                  ^SPT          13954    20010611
+SBF 120                                                        ^S120         65995    20050317
+SBF 250                                                        ^S250         65994    20050317
+SBF 80                                                         ^S80          65996    20050317
+SEDOW - DJ SWEDEN STOCK INDEX                                  ^SE1          13640    20010511
+SEDOWD - DJ SWEDEN STOCK INDEX USD                             ^SE2          13641    20010511
+SGDOW - DJ SINGAPORE STOCK INDEX                               ^SG1          13642    20010511
+SGDOWD - DJ SINGAPORE STOCK INDEX USD                          ^SG2          13643    20010511
+Singapore Straits Times Index                                  ^STI           6797    19871228
+Slovakia SAX Index                                             ^SAX           3825    19970701
+South Korea Seoul Composite Index                              ^KS11          3808    19970701
+Spain IBEX 35 Index                                            ^IBEX          3841    19930712
+Sri Lanka All Share Index                                      ^CSE           3809    19970701
+Swiss Market Index                                             ^SSM2         85548    19901109
+Swiss Market Index                                             ^SSMI          6792    19901109
+Swiss Mid-Cap                                                  ^ESM          76073    20061208
+
+Taiwan Weighted Index                                          ^TWII          3810    19970702
+TecDAX Performance Index                                       ^TECD         56939    19980101
+TecDAX Price Index                                             ^TECP         56947    19980101
+Thailand Set 50 Index                                          ^S50          56990    20060824
+Thailand SET Index                                             ^SETI          3811    19970702
+THDOW - DJ THAILAND STOCK INDEX                                ^TH1          13644    20010511
+THDOWD - DJ THAILAND STOCK INDEX USD                           ^TH2          13645    20010511
+Tokyo Topix                                                    ^TOPX          6788    19871228
+Topix                                                          ^JTI          52301    20030516
+Topix 100                                                      ^T100         56747    20070404
+Topix 300                                                      ^JNW          52300    20030516
+Topix Index                                                    ^JTI2         85566    20080606
+TSE S&P Completion Index                                       ^TXMX         26988    19990830
+TSE S&P Smallcap Index                                         ^TXSX         26989    19990830
+Turkey ISE National 100                                        ^XU10          3837    19970701
+TWDOW - DJ TAIWAN STOCK INDEX                                  ^TW1          13646    20010511
+TWDOWD - DJ TAIWAN STOCK INDEX USD                             ^TW2          13647    20010511
+
+Venezuela IBC Index                                            ^IBC           3833    19970331
+VSTOXX                                                         ^EVS          76074    20061208
+
+W1BSC - DJ WORLD BASIC MATERIALS INDEX                         ^W11          13650    20010511
+W1CYC - DJ WORLD CONSUMER CYCLICALS INDE                       ^W12          13651    20010511
+W1DOW - DJ WORLD STOCK INDEX                                   ^W13          13652    20010511
+W1ENE - DJ WORLD ENERGY INDEX                                  ^W14          13653    20010511
+W1FIN - DJ WORLD FINANCIAL INDEX                               ^W15          13654    20010511
+W1IDU - DJ WORLD INDUSTRIAL INDEX                              ^W16          13655    20010511
+W1NCY - DJ WORLD CONSUMER NON-CYCLICALS                        ^W17          13656    20010511
+W1SGI - DJ WORLD GROUP INDEX COMPOSITE                         ^W18          13657    20010511
+W1SUS - DJ WORLD GROUP INDEX excl TOB/AL                       ^W19          13658    20010511
+W1TEC - DJ WORLD TECHNOLOGY INDEX                              ^W110         13659    20010511
+W1UTI - DJ WORLD UTILITIES INDEX                               ^W111         13660    20010511
+W2BSC - DJ WORLD (EX US) BASIC MATERIALS                       ^W21          13662    20010511
+W2CYC - DJ WORLD (EX US) CONSUMER CYCLIC                       ^W22          13663    20010511
+W2DOW - DJ WORLD STOCK INDEX (EXCL US)                         ^W23          13664    20010511
+W2ENE - DJ WORLD (EX US) ENERGY INDEX                          ^W24          13665    20010511
+W2FIN - DJ WORLD (EX US) FINANCIAL INDEX                       ^W25          13666    20010511
+W2IDU - DJ WORLD (EX US) INDUSTRIAL INDE                       ^W26          13667    20010511
+W2NCY - DJ WORLD (EX US) CONSUMER NON-CY                       ^W27          13668    20010511
+W2TEC - DJ WORLD (EX US) TECHNOLOGY INDE                       ^W28          13669    20010511
+W2UTI - DJ WORLD (EX US) UTILITIES INDEX                       ^W29          13670    20010511
+
+XLAUS - DJ AUSTRALIA EXTRA LIQUID INDEX                        ^XL1          13671    20010511
+
+ZADOW - DJ SOUTH AFRICA STOCK INDEX                            ^ZA1          13674    20010511
+ZADOWD - DJ SOUTH AFRICA STOCK INDEX USD                       ^ZA2          13675    20010511
