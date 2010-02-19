@@ -405,6 +405,13 @@ public class SymbolLoader {
 	private String[] getWeeklyFromDaily(List<Price> prices, int i, int modulus) {
 		double high = 0;
 		double low = Double.MAX_VALUE;
+		Calendar breakDate = Calendar.getInstance();
+		breakDate.setTime(prices.get(i).getDate());
+		breakDate.add(Calendar.DATE, 1-modulus);
+		while(prices.get(i+modulus-1).getDate().after(breakDate.getTime())) {
+			//If we have any missing trading days in the data we need to shorten the week.
+			modulus--;
+		}
 		for (int j = 0; j < modulus; j++) {
 			double newHigh = prices.get(i + j).getHigh();
 			double newLow = prices.get(i + j).getLow();
