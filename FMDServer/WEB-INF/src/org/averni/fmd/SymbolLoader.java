@@ -55,18 +55,29 @@ public class SymbolLoader {
 			while ((line = br.readLine()) != null) {
 				session = HibernateUtil.getSessionFactory().getCurrentSession();
 				session.beginTransaction();
-				if (line.length() < 64)
-					continue; // skip lines without symbols...
-				String symbolCode = line.substring(63, 77).trim().replace('-',
-						'~').replace('.', '-').replace('~', '.');
+				String symbolCode = "";
+				String description = "";
+				if (exchange.equals(Exchange.FINDEX)) {
+					String[] entries = line.split(",");
+					symbolCode = entries[0];
+					description = entries[1];
+				} else {
+					if (line.length() < 64)
+						continue; // skip lines without symbols...
+					symbolCode = line.substring(63, 77).trim()
+							.replace('-', '~').replace('.', '-').replace('~',
+									'.');
+					description = line.substring(0, 63).trim();
+				}
 				Symbol symbol = (Symbol) session.createQuery(
 						"from Symbol as symbol where symbol.symbol = ?")
 						.setString(0, symbolCode).uniqueResult();
+
 				if (symbol == null) {
 					symbol = new Symbol();
 					symbol.setExchange(exchange.toString());
 					symbol.setSymbol(symbolCode);
-					symbol.setDescription(line.substring(0, 63).trim());
+					symbol.setDescription(description);
 					symbol.setMarketType("<unknown>");
 				}
 				session.save(symbol);
@@ -373,7 +384,7 @@ public class SymbolLoader {
 		// ',', CSVWriter.NO_QUOTE_CHARACTER);
 
 		// Skip if we don't have any prices...
-		if (prices != null && prices.size() > 0) { 
+		if (prices != null && prices.size() > 0) {
 			// We need to extract weekly entries from daily events
 			int modulus = prices.get(0).getPeriod().equals("Daily") ? 7 : 1;
 			int lastIndex = prices.size() - (prices.size() % modulus);
@@ -407,9 +418,10 @@ public class SymbolLoader {
 		double low = Double.MAX_VALUE;
 		Calendar breakDate = Calendar.getInstance();
 		breakDate.setTime(prices.get(i).getDate());
-		breakDate.add(Calendar.DATE, 1-modulus);
-		while(prices.get(i+modulus-1).getDate().after(breakDate.getTime())) {
-			//If we have any missing trading days in the data we need to shorten the week.
+		breakDate.add(Calendar.DATE, 1 - modulus);
+		while (prices.get(i + modulus - 1).getDate().after(breakDate.getTime())) {
+			// If we have any missing trading days in the data we need to
+			// shorten the week.
 			modulus--;
 		}
 		for (int j = 0; j < modulus; j++) {
@@ -436,7 +448,7 @@ public class SymbolLoader {
 		case CVE:
 			return "Symbols\\CVE.txt";
 		case FINDEX:
-			return "Symbols\\Findex.txt";
+			return "Symbols\\ForeignIndices.csv";
 		case INDEX:
 			return "Symbols\\Index.txt";
 		case LSE:
