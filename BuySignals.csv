@@ -1,62 +1,139 @@
+^CH1,CHDOW - DJ SWITZERLAND STOCK INDEX,Buy
+^IGPA,Chile SASE General Index,Buy
+^FTOE,FTASX0570 Oil Equip Suppies & Drilling,Buy
+^FTHO,FTASX3720 Household Goods,Buy
+^FTEE,FTSE Sector Electronic & Electrical Equi,Buy
+^FTFM,FTSE Sector Food Producers & Processors,Buy
 ^FTMA,FTSE Sector Health,Buy
+^FTIC,FTSE Sector Insurance,Buy
+^FTHL,FTSE Sector Leisure Entertainment & Hote,Buy
+^FTPC,FTSE Sector Personal Care & Household Pr,Buy
 ^FTTB,FTSE Sector Tobacco,Buy
+^SSM2,Swiss Market Index,Buy
+^SSMI,Swiss Market Index,Buy
 LE,CME Live Cattle (LE, Globex) ,Buy
 PR,Propane (PN, NYMEX) ,Buy
-DJU64,DJUSHB - DJ US HOME CONSTRUCTION INDEX,Buy
+@AMB6,A.M. Best's Glbl Ins Brkr Idx (AMBGB),Buy
+@AMB4,A.M. Best's Glbl N/L Ins Idx (AMBGNL),Buy
+@AMB2,A.M. Best's Glbl Reins Idx (AMBGR),Buy
+@AM15,A.M. Best's US Ins Brkr Idx (AMBUB),Buy
+@AM11,A.M. Best's US P/C Ins Idx (AMBUPC),Buy
+BTD,BIOTECH BOXES INDICATIVE VALUE INDEX,Buy
+DJU21,DJUSAI - DJ US ADV. INDUSTRIAL EQUIP IND,Buy
+DJU53,DJUSFD - DJ US FOOD RETAILERS & WHOLESAL,Buy
+DJU56,DJUSFP - DJ US FOOD PRODUCTS INDEX,Buy
+DJU67,DJUSHN - DJ US HOUSEWARES PRODUCTS NON-D,Buy
+DJU76,DJUSIP - DJ US INSURANCE PROPERTY & CASU,Buy
+DJU91,DJUSOE - DJ US OFFICE EQUIPMENT INDEX,Buy
+DJV9,DJUSRU - DJ US RESTAURANTS INDEX,Buy
+DJV25,DJUSTY - DJ US TOYS INDEX,Buy
+@GT94,GDPDIST S&P Distributors,Buy
 @GS54,GSPALI - S&P Airlines,Buy
-@GS69,GSPHOME - S&P Homebuilding,Buy
+@GT26,GSPBIOT - S&P Biotechnology,Buy
+@GT87,GSPELCE - S&P SI Elect. Comp. & Equip,Buy
+@GS35,GSPELQ - S&P Electrical Equipment,Buy
+@GT7,GSPFDPR - S&P Food Products,Buy
+@GT9,GSPFOOD - S&P Foods,Buy
+@GT39,GSPINPC - S&P Insurance (Property-Casual,Buy
+@GT36,GSPINSU - S&P Insurance Brokers,Buy
 @GS72,GSPLEP - S&P Leisure Equipment & Product,Buy
+@GT1,GSPRETF - S&P Retail (Food Chains),Buy
 @GS73,GSPTOYS - S&P Leisure Time (Products),Buy
+MFX,KBW Mortgage Finance Index,Buy
+SPSPV,S&P 600/CG Pure Value,Buy
+SPSPVTR,S&P 600/CG Pure Value TR,Buy
+GSPHCT,S&P Health Care Technology,Buy
+^TS16,S&P TSX Food and Staple Retailers,Buy
+^TS24,S&P TSX Media,Buy
 ^TS33,S&P TSX Publishing,Buy
+^TS34,S&P TSX Real Estate,Buy
 ^TS37,S&P TSX Software and Services,Buy
+^TTCD,S&P/TSX CDN CONS DISCRET,Buy
+^TTRE,S&P/TSX CDN REAL ESTATE,Buy
 ^TTTK,TSE S&P Information Tech Index,Buy
+ABAA.L,Abrdn All Asia,Buy
+ADM.L,ADMIRAL GROUP GB,Buy
+AFN.L,ADVFN,Buy
+AMEI.L,African Medical Investments,Buy
+AAPV.L,ALBION PRCT VCT,Buy
 ATST.L,Alliance Trust,Buy
 AN.L,ALT NETWORKS,Buy
+AEX.L,Aminex,Buy
+AML.L,AMLIN,Buy
+ANGM.L,ANGEL MINING,Buy
 ABF.L,Assoc Brit Foods plc,Buy
 BGS.L,Baill. G. Shin.,Buy
+BAE.L,BEALE plc,Buy
+BEZ.L,BEAZLEY GROUP,Buy
+BII.L,Biocompatibles Int'l plc,Buy
 BIOG.L,Biotech Growth Trust,Buy
 BLCK.L,BLACKSTAR GROUP,Buy
 BATS.L,BRITISH AMERICAN TOBACCO PLC,Buy
-CCS.L,CLARITY COMMERCE SOLUT ORD 25P,Buy
-CFX.L,COLEFAX GROUP,Buy
+CCL.L,CARNIVAL,Buy
+CMX.L,Catalyst Med Group,Buy
+CGL.L,Catlin Group,Buy
+CIN.L,City Lon. Pr. Group,Buy
+CZA.L,Coal Of Africa,Buy
+CPG.L,Compass Group plc,Buy
 CSR.L,CSR,Buy
-DMGO.L,Daily Mail and General Trust plc,Buy
-DL.L,DEALOGIC HLDGS GB,Buy
+DTE.L,DATONG ELECTRON,Buy
 DVO.L,Devro Int'l plc,Buy
 DTY.L,DIGNITY (WI) GB,Buy
-DDT.L,Dimension Data,Buy
 DME.L,Discovery Metals,Buy
+XSDR.L,DJ Stoxx 600 Health Care,Buy
+DNO.L,Domino Printing Sciences plc,Buy
+DOM.L,DOMINO'S PIZZA,Buy
 DNE.L,Dunedin Ent. I.T.,Buy
-ENV.L,Enova Systems,Buy
+EGS.L,EG SOLUTIONS,Buy
+ELE.L,ELECTRIC WORD PLC ORD 1P,Buy
+ECM.L,Electrocomponents plc Ord 10p,Buy
 ET.L,Establishment Investment Trust,Buy
-FGN.L,Futuragene,Buy
-GLI.L,GLISTEN,Buy
-GO.L,GlobeOp Financial Services S.A.,Buy
+FSC.L,F&C US SMALL CO,Buy
+FXPO.L,Ferrexpo,Buy
+FDSA.L,Fidessa Group,Buy
+GFRD.L,GALLIFORD TRY,Buy
+GHH.L,GOOCH & HOUSEGO,Buy
 HMS.L,HALLIN MARINE,Buy
 HL.L,Hargreaves Ls,Buy
+HSP.L,HARGREAVES SERV,Buy
+HTIG.L,Hightex Group,Buy
 HSX.L,Hiscox,Buy
-IAE.L,Ithaca Energy,Buy
-JQV.L,Jacques Vert plc,Buy
-KFX.L,Kofax,Buy
-LUD.L,Ludorum,Buy
+HDT.L,Holders Tech.,Buy
+KBC.L,KBC Adv Tech PLC,Buy
+KIT.L,Keystone Investment Trust,Buy
+LAM.L,Lamprell,Buy
 MAJE.L,Majedie Inv.,Buy
-MOG.L,MEDIT OIL & GAS,Buy
-MTH.L,Mithras Inv. Trust,Buy
-MTVW.L,MOUNTVIEW ESTS,Buy
+MCB.L,McBride plc,Buy
+MLC.L,Millennium & Cop,Buy
+MAB.L,MITCHELLS & BUT,Buy
+MGCR.L,Morgan Crucible Co plc,Buy
 MYI.L,Murray Investment Trust,Buy
 NAM.L,NORTH AMER BANK,Buy
 NVR.L,Nviro Cleantech,Buy
 ONL.L,On-Line PLC,Buy
-PEN.L,Pennant Intl Grp Plc Ord,Buy
-PTD.L,Pittards,Buy
-PST.L,Portrait Soft,Buy
-PFL.L,Premier Farnell Electronics plc,Buy
-PMHL.L,Prosperity Minerals Holdings,Buy
-RR.L,Rolls-Royce plc,Buy
-ROL.L,Rotala,Buy
+PANR.L,Pantheon Resources,Buy
+PTS.L,PATSYSTEMS,Buy
+PTMN.L,Petmin,Buy
+PTR.L,Petroneft Resources,Buy
+PGB.L,PILAT MEDIA GBL,Buy
+PDX.L,PURSUIT DYNAMICS PLC ORD 1P P,Buy
+RE.L,R.E.A. HLDGS PLC ORD 25P,Buy
+RGD.L,Real Good Food Company,Buy
+RB.L,Reckitt Benckiser,Buy
+RTO.L,Rentokil Group plc,Buy
+RMV.L,Rightmove,Buy
+RSA.L,Royal & Sun Alliance Insurance Group,Buy
+SUS.L,S & U plc,Buy
 SAND.L,SANDVINE,Buy
-UAVT.L,Unicorn AIM VCT II,Buy
+SCAM.L,Scotland American Invest,Buy
+SHG.L,SHANTA GOLD,Buy
+SHP.L,Shire Pharmaceutical,Buy
+SIG.L,SIGNET JEWELERS,Buy
+SIA.L,Soco Int'l,Buy
+SOLO.L,SOLO OIL,Buy
+SOG.L,STATPRO GRP PLC ORD 1P,Buy
+TIGT.L,TROY INC & GRW,Buy
 UU.L,United Utilities plc,Buy
-WLF.L,Wolfson Microelectronics,Buy
-WYN.L,WYNNSTAY GROUP GB,Buy
+VTG.L,VT GROUP,Buy
+WSP.L,WYNNSTAY PROPS,Buy
 ZTR.L,ZETAR GB,Buy

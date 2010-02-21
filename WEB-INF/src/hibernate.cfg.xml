@@ -5,6 +5,7 @@
 <hibernate-configuration>
 	<session-factory>
 		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+		<property name="connection.provider_class">org.hibernate.connection.C3P0ConnectionProvider</property>
 		<property name="hibernate.connection.url">jdbc:mysql://localhost:3310/averni</property>
 		<property name="hibernate.connection.username">averni</property>
 		<property name="hibernate.connection.password">seidokan</property>
@@ -16,7 +17,7 @@
 		<!-- C3P0 Stuff -->
 		<property name="hibernate.c3p0.acquire_increment">3</property>
 		<property name="hibernate.c3p0.idle_test_period">1800</property>
-		<property name="hibernate.c3p0.timeout">3600</property>
+		<property name="hibernate.c3p0.timeout">30</property>
 		<property name="hibernate.c3p0.max_size">15</property>
 		<property name="hibernate.c3p0.min_size">3</property>
 		<property name="hibernate.c3p0.max_statements">0</property>
@@ -24,6 +25,9 @@
 
 		<!-- Enable Hibernate's automatic session context management -->
 		<property name="current_session_context_class">thread</property>
+
+		<property name="hibernate.cache.use_second_level_cache">false</property>
+		<property name="hibernate.cache.use_query_cache">false</property>
 
 		<!-- Disable the second-level cache -->
 		<property name="cache.provider_class">org.hibernate.cache.NoCacheProvider</property>
