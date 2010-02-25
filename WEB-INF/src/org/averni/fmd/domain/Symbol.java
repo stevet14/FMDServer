@@ -9,7 +9,16 @@ public class Symbol {
 	private String description;
 	private String marketType;
 	private String exchange;
-	private Set<Price> prices; 
+	private Set<Price> prices;
+	private Set<Signal> signals;
+
+	public Set<Signal> getSignals() {
+		return signals;
+	}
+
+	public void setSignals(Set<Signal> signals) {
+		this.signals = signals;
+	}
 
 	public Set<Price> getPrices() {
 		return prices;

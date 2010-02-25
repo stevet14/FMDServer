@@ -37,6 +37,6 @@
 
 		<mapping resource="Symbol.hbm.xml" />
 		<mapping resource="Price.hbm.xml" />
-
+		<mapping resource="Signal.hbm.xml" />
 	</session-factory>
 </hibernate-configuration>
