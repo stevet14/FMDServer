@@ -16,5 +16,9 @@
 			<key column="symbolId" />
 			<one-to-many class="Price" />
 		</set>
+		<set name="signals" inverse="true" cascade="all" order-by="buyDate desc">
+			<key column="symbolId" />
+			<one-to-many class="Signal" />
+		</set>
 	</class>
 </hibernate-mapping>
