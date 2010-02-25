@@ -2,12 +2,14 @@ package org.averni.fmd;
 
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
 
 import org.apache.log4j.Logger;
 import org.averni.fmd.domain.Price;
+import org.averni.fmd.domain.Signal;
 import org.averni.fmd.domain.Symbol;
 import org.averni.fmd.util.HibernateUtil;
 import org.hibernate.Query;
@@ -60,12 +62,12 @@ public class BuySignals {
 					entries[0] = symbol.getSymbol();
 					entries[1] = symbol.getDescription();
 					entries[2] = breakoutSignal;
-					writer.writeNext(entries);
+					writer.writeNext(entries);					
 				}
 				session.evict(symbol);
 
-				System.out.println(symbol.getExchange() + " - "
-						+ symbol.getSymbol());
+//				System.out.println(symbol.getExchange() + " - "
+//						+ symbol.getSymbol());
 			}
 		session.clear();
 		}
@@ -76,7 +78,8 @@ public class BuySignals {
 	private static String getBreakoutSignal(Set<Price> prices) {
 		double current40WeekMA = getMovingAverage(prices, 1, 40);
 		double previous40WeekMA = getMovingAverage(prices, 2, 41);
-		double close = prices.iterator().next().getClose();
+		Price price = prices.iterator().next();
+		double close = price.getClose();
 		double high = get12WeekHigh(prices);
 		String breakoutSignal = (close > current40WeekMA)
 				&& (current40WeekMA > previous40WeekMA) && (close > high) ? "Buy"
@@ -88,6 +91,22 @@ public class BuySignals {
 					+ previous40WeekMA);
 			System.out.println("Breakout Signal: " + breakoutSignal
 					+ "    (Previous 12-wk high: " + high + ")");
+			
+			//Generate signal.
+			Signal signal = new Signal();
+			signal.setSymbol(price.getSymbol());
+			signal.setSignalType("Breakout");
+			signal.setBuyDate(price.getDate());
+			signal.setBuyPrice(price.getClose());
+			session.save(signal);
+			
+			Symbol symbol = price.getSymbol();
+			Set<Signal> signals = symbol.getSignals();
+			if (signals==null) signals = new HashSet<Signal>();
+			signals.add(signal);
+			symbol.setSignals(signals);
+			session.save(symbol);
+			session.flush();
 		}
 		return breakoutSignal;
 	}
