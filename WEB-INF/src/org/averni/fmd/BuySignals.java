@@ -93,6 +93,7 @@ public class BuySignals {
 					+ "    (Previous 12-wk high: " + high + ")");
 			
 			//Generate signal.
+			//TODO...Need to check for pre-existing signals...
 			Signal signal = new Signal();
 			signal.setSymbol(price.getSymbol());
 			signal.setSignalType("Breakout");
