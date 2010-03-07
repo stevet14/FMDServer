@@ -15,6 +15,12 @@ public class FMDServer extends HttpServlet {
 	 */
 	private static final long serialVersionUID = 1L;
 
+	public FMDServer() throws Exception {
+		UpdateScheduler scheduler = new UpdateScheduler();
+		scheduler.run();
+		System.out.println("Scheduler running...");
+	}
+	
 	public void doGet(HttpServletRequest request,
                       HttpServletResponse response)
         throws IOException, ServletException
