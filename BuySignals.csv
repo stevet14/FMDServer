@@ -1,139 +1,369 @@
+^BE1,BEDOW - DJ BELGIUM STOCK INDEX,Buy
 ^CH1,CHDOW - DJ SWITZERLAND STOCK INDEX,Buy
-^IGPA,Chile SASE General Index,Buy
+^KFX,Denmark KFX Index,Buy
+^DK1,DKDOW - DJ DENMARK STOCK INDEX,Buy
+^FI1,FIDOW - DJ FINLAND STOCK INDEX,Buy
+^FTTI,FT Techmark 100,Buy
+^FTTA,FT Techmark Index,Buy
 ^FTOE,FTASX0570 Oil Equip Suppies & Drilling,Buy
-^FTHO,FTASX3720 Household Goods,Buy
+^FTGI,FTASX2720 Gen Industrials,Buy
+^FTMT,FTASX6570 Mobile Telecom,Buy
+^FTGW,FTASZ7570 Gas Water and Util,Buy
+^FTAD,FTSE Sector Aerospace & Defense,Buy
+^FTCH,FTSE Sector Chemicals,Buy
 ^FTEE,FTSE Sector Electronic & Electrical Equi,Buy
+^FTEN,FTSE Sector Engineering & Machinery,Buy
+^FTFR,FTSE Sector Food & Drug Retailers,Buy
 ^FTFM,FTSE Sector Food Producers & Processors,Buy
 ^FTMA,FTSE Sector Health,Buy
-^FTIC,FTSE Sector Insurance,Buy
+^FTTH,FTSE Sector Information Technology Hardw,Buy
 ^FTHL,FTSE Sector Leisure Entertainment & Hote,Buy
+^FTMD,FTSE Sector Media & Photography,Buy
 ^FTPC,FTSE Sector Personal Care & Household Pr,Buy
+^FTCS,FTSE Sector Software & Computer Services,Buy
+^FTSS,FTSE Sector Support Services,Buy
 ^FTTB,FTSE Sector Tobacco,Buy
+^TAX,FTSE techMark 100 Index,Buy
+^JSFI,Johannesburg Financial Index,Buy
+^S80,SBF 80,Buy
 ^SSM2,Swiss Market Index,Buy
 ^SSMI,Swiss Market Index,Buy
-LE,CME Live Cattle (LE, Globex) ,Buy
+^TA100,TA-100 (Israel),Buy
+OMXC20.CO,OMX Copenhagen 20 (Denmark),Buy
+PD,CME Pork Bellies (PD, Globex) ,Buy
 PR,Propane (PN, NYMEX) ,Buy
+RB_,NYMEX NYH RBOB Gasoline (RB, Globex) ,Buy
+OJ,Orange Juice (OJ, ICE [NYBOT]) ,Buy
+PA_,NYMEX Palladium (PA, Globex) ,Buy
+ND_,CME Nasdaq 100 (ND, Globex) ,Buy
+RJ,Russell 2000 Mini (ICE [NYBOT]) ,Buy
+NA,NASDAQ Composite Index ,Buy
+RW,Russell 2000 Index ,Buy
 @AMB6,A.M. Best's Glbl Ins Brkr Idx (AMBGB),Buy
 @AMB4,A.M. Best's Glbl N/L Ins Idx (AMBGNL),Buy
 @AMB2,A.M. Best's Glbl Reins Idx (AMBGR),Buy
 @AM15,A.M. Best's US Ins Brkr Idx (AMBUB),Buy
+@AMB9,A.M. Best's US Ins Cmp Idx (AMBUS),Buy
 @AM11,A.M. Best's US P/C Ins Idx (AMBUPC),Buy
+IXR,Amex Consumer Staples Sector Index,Buy
+IXY,Amex Cyclical/Transport Sector Index,Buy
+NWX,Amex Networking Index,Buy
 BTD,BIOTECH BOXES INDICATIVE VALUE INDEX,Buy
+TRGSPD,Consumer Discretionary Total Return Inde,Buy
+TRGSPS,Consumer Staples TR Index,Buy
+A1CYC,DJ AMERICAS CONSUMER CYCLICAL INDEX,Buy
+A1NCY,DJ AMERICAS CONSUMER NON-CYCLICAL IN,Buy
+DJSVC,DJ Internet Service Index,Buy
+DJU16,DJ US Biotechnology Index,Buy
+DJU2,DJ US Consumer Cyclical Index,Buy
+DJUSNC,DJ US Consumer Goods,Buy
+DJU3,DJ US Consumer Non-Cyclical Index,Buy
+DJUSCY,DJ US Consumer Service,Buy
+@DJ5,DJ US Media,Buy
+DJUSS,DJ US Small-Cap Index,Buy
+DJT15,DJTRET - DJ SECTOR TITANS RETAIL INDEX,Buy
+DJU19,DJUSAE - DJ US AEROSPACE INDEX,Buy
 DJU21,DJUSAI - DJ US ADV. INDUSTRIAL EQUIP IND,Buy
+DJU24,DJUSAP - DJ US AUTO MANUFACTURERS & PART,Buy
+DJU26,DJUSAT - DJ US AUTO PARTS INDEX,Buy
+DJU27,DJUSAU - DJ US AUTOMOBILES INDEX,Buy
+DJU29,DJUSBC - DJ US BROADCASTING INDEX,Buy
+DJU34,DJUSCE - DJ US CONSUMER ELECTRONICS INDE,Buy
+DJU35,DJUSCF - DJ US CLOTHING/FABRICS INDEX,Buy
+DJU44,DJUSCX - DJ US Chemicals Specialty Index,Buy
 DJU53,DJUSFD - DJ US FOOD RETAILERS & WHOLESAL,Buy
+DJU55,DJUSFH - DJ US FURNISHINGS INDEX,Buy
 DJU56,DJUSFP - DJ US FOOD PRODUCTS INDEX,Buy
-DJU67,DJUSHN - DJ US HOUSEWARES PRODUCTS NON-D,Buy
+DJU59,DJUSFT - DJ US FOOTWEAR INDEX,Buy
+DJU61,DJUSGM - DJ US MID-CAP GROWTH INDEX,Buy
 DJU76,DJUSIP - DJ US INSURANCE PROPERTY & CASU,Buy
+DJU77,DJUSIR - DJ US INSURANCE INDEX,Buy
 DJU91,DJUSOE - DJ US OFFICE EQUIPMENT INDEX,Buy
-DJV9,DJUSRU - DJ US RESTAURANTS INDEX,Buy
+DJV2,DJUSRA - DJ US Retailers Apparel Index,Buy
+DJV3,DJUSRB - DJ US Retailers Broadline Index,Buy
+DJV4,DJUSRD - DJ US Retailers Drug-based Inde,Buy
+DJV5,DJUSRP - DJ US RECREATIONAL PRODUCTS & S,Buy
+DJV8,DJUSRT - DJ US RETAILERS INDEX,Buy
+DJV18,DJUSTB - DJ US TOBACCO INDEX,Buy
 DJV25,DJUSTY - DJ US TOYS INDEX,Buy
-@GT94,GDPDIST S&P Distributors,Buy
-@GS54,GSPALI - S&P Airlines,Buy
-@GT26,GSPBIOT - S&P Biotechnology,Buy
-@GT87,GSPELCE - S&P SI Elect. Comp. & Equip,Buy
-@GS35,GSPELQ - S&P Electrical Equipment,Buy
+DJV28,DJUSVS - DJ US SMALL-CAP VALUE INDEX,Buy
+DJCI,Dow Jones Corporate Bond Index,Buy
+^DWMI,DOW JONES WILSHIRE US MICRO CAP,Buy
+ILJ,Dynamic Mid Cap Growth Intellidex,Buy
+DYO,DYNAMIC OTC INTELLIDEX INDEX,Buy
+ILK,Dynamic Small Cap Growth Intellidex,Buy
+ILZ,Dynamic Small Cap Value Intellidex,Buy
+@GS30,GSPAED - S&P Aerospace & Defense,Buy
+@GS70,GSPAPPL - S&P Household Appliances,Buy
+@GS59,GSPAU - S&P Automobiles & Components,Buy
+@GS60,GSPAUC - S&P Auto Components,Buy
+@GS64,GSPAUTM - S&P Automobile Manufacturers,Buy
+@GS63,GSPAUTO - S&P Automobiles,Buy
+@GS61,GSPAUTP - S&P Auto Parts & Equip,Buy
+@GS58,GSPD - S&P Consumer Discretionary,Buy
+@GT59,GSPELCI - S&P Electronics (Instrument),Buy
+@GT2,GSPFBT - S&P Food Beverage & Tobacco,Buy
 @GT7,GSPFDPR - S&P Food Products,Buy
 @GT9,GSPFOOD - S&P Foods,Buy
+@GT22,GSPHCSS - S&P Health Care (Specialized S,Buy
+@GT11,GSPHHPE - S&P Household & Personal Produ,Buy
 @GT39,GSPINPC - S&P Insurance (Property-Casual,Buy
-@GT36,GSPINSU - S&P Insurance Brokers,Buy
+@GT35,GSPINSC - S&P Insurance,Buy
 @GS72,GSPLEP - S&P Leisure Equipment & Product,Buy
+@GS66,GSPLP - S&P Consumer Durables & Apparel,Buy
+@GS82,GSPME - S&P Media,Buy
+@GS87,GSPMS - S&P Retailing,Buy
+@GS88,GSPMULR - S&P Multiline Retail,Buy
+@GT58,GSPOFEL - S&P Office Electronics,Buy
+@GS92,GSPRETA - S&P Retail (Specialty-Apparel),Buy
+@GS89,GSPRETD - S&P Retail (Department Stores),Buy
 @GT1,GSPRETF - S&P Retail (Food Chains),Buy
+@GS90,GSPRETM - S&P Retail (General Merchandis,Buy
+@GS96,GSPS - S&P Consumer Staples,Buy
+@GS75,GSPTEX - S&P Textiles & Apparel,Buy
+@GS42,GSPTKCD - S&P Electronics (Compo Distrib,Buy
+@GT46,GSPTKCS - S&P Services (Computer Systems,Buy
+@GT10,GSPTOBA - S&P Tobacco,Buy
 @GS73,GSPTOYS - S&P Leisure Time (Products),Buy
-MFX,KBW Mortgage Finance Index,Buy
+@GS41,GSPTRA - S&P Trading Companies & Distrib,Buy
+YIH,INTERNET INFRASTRUCT INDEX,Buy
+KIX,KBW INSURANCE INDEX,Buy
+RMN,Mini Russell 2000,Buy
+IXHC,NASDAQ Healthcare Index,Buy
+SPK,S&P 1000 Mid-Small Cap,Buy
+SPCPG,S&P 1500/CG Pure Growth,Buy
+SPCPGTR,S&P 1500/CG Pure Growth TR,Buy
+SPCPV,S&P 1500/CG Pure Value,Buy
+SPCPVTR,S&P 1500/CG Pure Value TR,Buy
+MGD,S&P 400 Midcap Growth Index,Buy
+TRGSPC,S&P 400 TR Index,Buy
+SPMGTR,S&P 400/CG Growth TR,Buy
+SPMPG,S&P 400/CG Pure Growth,Buy
+SPMPGTR,S&P 400/CG Pure Growth TR,Buy
+SPMPV,S&P 400/CG Pure Value,Buy
+SPMPVTR,S&P 400/CG Pure Value TR,Buy
+SPMVTR,S&P 400/CG Value TR,Buy
+SPXPVTR,S&P 500/CG Pure Value TR,Buy
+CVK,S&P 600 Smallcap Value Index,Buy
+TR6GSPC,S&P 600 TR Index,Buy
+SPSGTR,S&P 600/CG Growth TR,Buy
+SPSPGTR,S&P 600/CG Pure Growth TR,Buy
 SPSPV,S&P 600/CG Pure Value,Buy
 SPSPVTR,S&P 600/CG Pure Value TR,Buy
-GSPHCT,S&P Health Care Technology,Buy
-^TS16,S&P TSX Food and Staple Retailers,Buy
+SPSVTR,S&P 600/CG Value TR,Buy
+GSPLSCI,S&P Life Science Tools & Services,Buy
+^TS03,S&P TSX Banks,Buy
+^TS06,S&P TSX Capital Goods,Buy
 ^TS24,S&P TSX Media,Buy
-^TS33,S&P TSX Publishing,Buy
-^TS34,S&P TSX Real Estate,Buy
+^TS28,S&P TSX Multi-Utilities,Buy
 ^TS37,S&P TSX Software and Services,Buy
-^TTCD,S&P/TSX CDN CONS DISCRET,Buy
-^TTRE,S&P/TSX CDN REAL ESTATE,Buy
-^TTTK,TSE S&P Information Tech Index,Buy
+^SBRIN,Sabrient Insider Index,Buy
+^TTFS,TSE S&P Financials Index,Buy
+^DCWPF,Wilshire 4500,Buy
+3IN.L,3I Infrastructure,Buy
+AAIF.L,Aberdeen Asian Income Fund,Buy
 ABAA.L,Abrdn All Asia,Buy
-ADM.L,ADMIRAL GROUP GB,Buy
 AFN.L,ADVFN,Buy
-AMEI.L,African Medical Investments,Buy
+AGK.L,Aggreko,Buy
+ACS.L,AI Claims Sol,Buy
 AAPV.L,ALBION PRCT VCT,Buy
-ATST.L,Alliance Trust,Buy
-AN.L,ALT NETWORKS,Buy
-AEX.L,Aminex,Buy
 AML.L,AMLIN,Buy
-ANGM.L,ANGEL MINING,Buy
+AND.L,Andor Technology,Buy
+AYM.L,Angelesey Mining,Buy
+AEP.L,Anglo-Eastern Plantations plc,Buy
+ARM.L,Arm Holdings,Buy
+ARI.L,Arriva Plc,Buy
 ABF.L,Assoc Brit Foods plc,Buy
+AVE.L,Avis Europe,Buy
+BA.L,BAE SYSTEMS PLC,Buy
+BGFD.L,Baill. G. Jap.,Buy
 BGS.L,Baill. G. Shin.,Buy
-BAE.L,BEALE plc,Buy
-BEZ.L,BEAZLEY GROUP,Buy
-BII.L,Biocompatibles Int'l plc,Buy
+BARC.L,Barclays plc,Buy
+BHGG.L,BH Global,Buy
 BIOG.L,Biotech Growth Trust,Buy
 BLCK.L,BLACKSTAR GROUP,Buy
+BAY.L,British Airways plc,Buy
 BATS.L,BRITISH AMERICAN TOBACCO PLC,Buy
+BVIC.L,BRITVIC WI,Buy
+BNZL.L,Bunzl plc,Buy
+BRBY.L,BURBERRY GRP PLC ORD 0.05P,Buy
+CUK.L,Care UK plc,Buy
 CCL.L,CARNIVAL,Buy
-CMX.L,Catalyst Med Group,Buy
-CGL.L,Catlin Group,Buy
-CIN.L,City Lon. Pr. Group,Buy
-CZA.L,Coal Of Africa,Buy
+CBAY.L,CBaySystems Holdings,Buy
+CTR.L,Charles Taylor,Buy
+CHG.L,Chemring Group plc,Buy
+CHLD.L,Chloride Group plc,Buy
+CINE.L,Cineworld Group,Buy
+CCS.L,CLARITY COMMERCE SOLUT ORD 25P,Buy
+CKN.L,Clarkson (Horace) plc,Buy
+CRK.L,Clerkenwell Ventures,Buy
+CFX.L,COLEFAX GROUP,Buy
 CPG.L,Compass Group plc,Buy
-CSR.L,CSR,Buy
-DTE.L,DATONG ELECTRON,Buy
-DVO.L,Devro Int'l plc,Buy
-DTY.L,DIGNITY (WI) GB,Buy
+CCC.L,Computacenter,Buy
+CKSN.L,COOKSON GROUP,Buy
+CWK.L,Cranswick plc,Buy
+CRDA.L,Croda Int'l plc,Buy
+DMGO.L,Daily Mail and General Trust plc,Buy
+DVW.L,Dee Valley Group,Buy
+DLTA.L,Delta plc,Buy
+DDT.L,Dimension Data,Buy
 DME.L,Discovery Metals,Buy
 XSDR.L,DJ Stoxx 600 Health Care,Buy
-DNO.L,Domino Printing Sciences plc,Buy
-DOM.L,DOMINO'S PIZZA,Buy
-DNE.L,Dunedin Ent. I.T.,Buy
+EZJ.L,EASYJET PLC ORD 25P,Buy
+EUS.L,Edin US Tracker,Buy
+EDIN.L,Edinburgh Investment Trust,Buy
+ENI.L,Edinburgh New Income Trust,Buy
 EGS.L,EG SOLUTIONS,Buy
-ELE.L,ELECTRIC WORD PLC ORD 1P,Buy
 ECM.L,Electrocomponents plc Ord 10p,Buy
+ETQ.L,Energy Tech.,Buy
+ENV.L,Enova Systems,Buy
 ET.L,Establishment Investment Trust,Buy
+ENRC.L,Eurasian Natural Resources Corp,Buy
+EXPN.L,Experian Group,Buy
 FSC.L,F&C US SMALL CO,Buy
 FXPO.L,Ferrexpo,Buy
 FDSA.L,Fidessa Group,Buy
-GFRD.L,GALLIFORD TRY,Buy
+FLTR.L,Filtrona,Buy
+FGT.L,Finsbury Growth,Buy
+FRCL.L,Foreign Colonial Investment Trust,Buy
+GLD.L,Gladstone Plc Ord 0.01p,Buy
+GO.L,GlobeOp Financial Services S.A.,Buy
+GOG.L,Go-Ahead Group plc,Buy
+GSDO.L,Goldman Sachs Dynamic Opp,Buy
+GRL.L,Goldstone Res,Buy
 GHH.L,GOOCH & HOUSEGO,Buy
+GMNT.L,Gottex Market Neutral Trust,Buy
+GKO.L,Greenko Group,Buy
+GFS.L,Grp 4 Securicor,Buy
+GWP.L,GW PHARMA PLC ORD 0.1P,Buy
+HFD.L,HALFORDS GROUP GB,Buy
 HMS.L,HALLIN MARINE,Buy
+HLMA.L,Halma plc,Buy
 HL.L,Hargreaves Ls,Buy
-HSP.L,HARGREAVES SERV,Buy
-HTIG.L,Hightex Group,Buy
-HSX.L,Hiscox,Buy
-HDT.L,Holders Tech.,Buy
-KBC.L,KBC Adv Tech PLC,Buy
+HGM.L,HIGHLAND GOLD MINING LD ORD,Buy
+HIK.L,HIKMA PHARMA WI,Buy
+HICL.L,HSBC Infrastructure Company,Buy
+HTG.L,Hunting plc,Buy
+HNT.L,Huntsworth Plc,Buy
+HCM.L,Hutchison China Meditech,Buy
+HVX.L,HUVEAUX ORD 10P,Buy
+HYDG.L,Hydrogen Group,Buy
+IMI.L,I M I plc,Buy
+IGG.L,IG GRP HLDGS,Buy
+IIM.L,IIMIA INVESTMENT GB,Buy
+IMT.L,Imperial Tobacco Group,Buy
+IGC.L,India Capital Growth Fund,Buy
+INF.L,INFORMA,Buy
+ISAT.L,Inmarsat,Buy
+IAM.L,INTEGRATED ASSET MANAGEMENT,Buy
+ITRK.L,INTERTEK TESTING SVC ORD 1P,Buy
+IHG.L,INTRCONT HOTELS,Buy
+ISYS.L,Invensys plc ord 25p,Buy
+INVP.L,INVESTEC,Buy
+IDBT.L,Ishares,Buy
+IBGL.L,Ishares Euro Government Bond 15-30,Buy
+IBGX.L,Ishares Euro Government Bond 3-5,Buy
+IBGM.L,Ishares Euro Government Bond 7-10,Buy
+IASP.L,Ishares FTSE Epra Nareit Asia,Buy
+ISUS.L,iShares II PLC,Buy
+IEMI.L,Ishares S&P Emerging Mkts Infrastructure,Buy
+IBTM.L,Ishares US Treasury Bond 7-10,Buy
+ITPS.L,Ishares USD Tips,Buy
+JRIC.L,Japan Residential Inv. Co.,Buy
+JLT.L,Jardine Lloyd Thompson,Buy
+JMAT.L,Johnson Mathey plc,Buy
+JAM.L,JP Morgan Amer Invest,Buy
+JMO.L,JPM Fleming Overseas Investors,Buy
+JFJ.L,JPMF Japan Investors,Buy
+JRS.L,JPMorgan Fleming Russian Secs PLC Ord 1p,Buy
+JPU.L,JPMorgan Fleming US Disc IT,Buy
+JEO.L,JUPITER EURO OPPS TR PLC ORD1P,Buy
+KBT.L,K3 Bus Tech Grp,Buy
+KYGA.L,Kerry Group 'A',Buy
 KIT.L,Keystone Investment Trust,Buy
-LAM.L,Lamprell,Buy
+KSK.L,KSK Power Ventur,Buy
+LGNG.L,LEGION GROUP,Buy
+LID.L,LIDCO GRP PLC ORD 0.5P,Buy
+LOQ.L,LO-Q,Buy
+MPO.L,Macau Property Opp. Fund,Buy
 MAJE.L,Majedie Inv.,Buy
+MJW.L,MAJESTIC WINE PLC ORD 30P,Buy
+MARL.L,Mariana Resources,Buy
 MCB.L,McBride plc,Buy
-MLC.L,Millennium & Cop,Buy
-MAB.L,MITCHELLS & BUT,Buy
-MGCR.L,Morgan Crucible Co plc,Buy
+MEC.L,MECOM GROUP,Buy
+MGGT.L,Meggitt plc,Buy
+MJT.L,Melchior Japan Investment Trust,Buy
+MRO.L,MELROSE PLC,Buy
+MTT.L,METAL-TECH,Buy
+MSY.L,Misys plc,Buy
+MDG.L,Mobile Doctors Group,Buy
+MNDI.L,Mondi Plc,Buy
+MRW.L,Morrison (Wm) Supermarkets plc,Buy
+MTVW.L,MOUNTVIEW ESTS,Buy
+MWE.L,MTI Wireless Edge,Buy
+MUL.L,MULBERRY GROUP,Buy
+MUT.L,Murray Intl,Buy
 MYI.L,Murray Investment Trust,Buy
-NAM.L,NORTH AMER BANK,Buy
+EQQQ.L,NASDAQ-100 EUROPEAN TRACKER SHS NPV,Buy
+NII.L,New India Inv,Buy
+NVTA.L,Noventa,Buy
 NVR.L,Nviro Cleantech,Buy
+OML.L,Old Mutual Plc Ord 10p,Buy
 ONL.L,On-Line PLC,Buy
-PANR.L,Pantheon Resources,Buy
-PTS.L,PATSYSTEMS,Buy
+OCG.L,Oxford Catalysts Group,Buy
+PRTY.L,Partygaming,Buy
+PSON.L,Pearson plc,Buy
 PTMN.L,Petmin,Buy
-PTR.L,Petroneft Resources,Buy
 PGB.L,PILAT MEDIA GBL,Buy
+PST.L,Portrait Soft,Buy
 PDX.L,PURSUIT DYNAMICS PLC ORD 1P P,Buy
-RE.L,R.E.A. HLDGS PLC ORD 25P,Buy
-RGD.L,Real Good Food Company,Buy
+QFI.L,Quardr Fuel Intl,Buy
+RNK.L,Rank Organisation plc,Buy
+RTT.L,RCM Technology,Buy
 RB.L,Reckitt Benckiser,Buy
 RTO.L,Rentokil Group plc,Buy
+RTN.L,Restaurants Group plc,Buy
 RMV.L,Rightmove,Buy
-RSA.L,Royal & Sun Alliance Insurance Group,Buy
-SUS.L,S & U plc,Buy
+RCP.L,RIT Capital Part,Buy
+RR.L,Rolls-Royce plc,Buy
+ROR.L,Rotork plc,Buy
+SAB.L,SAB Miller,Buy
+SGE.L,Sage Group plc,Buy
 SAND.L,SANDVINE,Buy
+SVS.L,Savills plc,Buy
+SJG.L,Schroder Japan,Buy
+SDRC.L,Schroders N/V,Buy
+SDR.L,Schroders plc,Buy
 SCAM.L,Scotland American Invest,Buy
-SHG.L,SHANTA GOLD,Buy
+SMT.L,Scotland Mtge Trust,Buy
+SDL.L,Sdl Plc Ord 1p,Buy
+STS.L,Secs Trust of Scotland,Buy
+SNR.L,Senior Engineering Group plc,Buy
+SRP.L,Serco Group plc,Buy
+SVT.L,Severn Trent Water plc,Buy
 SHP.L,Shire Pharmaceutical,Buy
 SIG.L,SIGNET JEWELERS,Buy
+SN.L,Smith & Nephew Cos plc ord 10p,Buy
 SIA.L,Soco Int'l,Buy
-SOLO.L,SOLO OIL,Buy
-SOG.L,STATPRO GRP PLC ORD 1P,Buy
+SRT.L,Software Radio Technology,Buy
+SXS.L,Spectris PLC,Buy
+SPX.L,Spirax-Sarco Engineering plc,Buy
+SPT.L,SPIRENT PLC ORD 3 1/3P,Buy
+STAN.L,Standard Chartered plc,Buy
+SCE.L,SURFACE TRNFORM,Buy
+TSCO.L,Tesco plc,Buy
 TIGT.L,TROY INC & GRW,Buy
+TT.L,TUI TRAVEL,Buy
+UKCM.L,UK Commercial Property Plc,Buy
+ULE.L,Ultra Elec.,Buy
+UBM.L,UNITED BUSINESS MEDIA PLC 25P,Buy
+UDG.L,United Drugs,Buy
 UU.L,United Utilities plc,Buy
+UEM.L,UTILICO EM MKTS,Buy
+VOD.L,Vodafone Group plc,Buy
 VTG.L,VT GROUP,Buy
-WSP.L,WYNNSTAY PROPS,Buy
-ZTR.L,ZETAR GB,Buy
+WCC.L,West China Cement,Buy
+WTB.L,Whitbread plc,Buy
+WG.L,WOOD GRP (JOHN) ORD 3 1/3P,Buy
+WORK.L,Work Group,Buy
+WPP.L,WPP Group plc,Buy
