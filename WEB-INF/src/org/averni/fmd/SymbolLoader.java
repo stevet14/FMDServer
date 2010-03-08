@@ -3,7 +3,9 @@ package org.averni.fmd;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.io.Reader;
 import java.net.InetAddress;
 import java.net.URL;
 import java.net.URLConnection;
@@ -48,8 +50,10 @@ public class SymbolLoader {
 		String exchangeFileName = getExchangeFileName(exchange);
 
 		try {
-			FileReader fr = new FileReader(exchangeFileName);
-			BufferedReader br = new BufferedReader(fr);
+			InputStream resource = this.getClass().getResourceAsStream("/resource/" + exchangeFileName);
+			InputStreamReader isr = new InputStreamReader(resource);
+			BufferedReader br = new BufferedReader(isr);
+			
 			String line;
 
 			while ((line = br.readLine()) != null) {
@@ -92,7 +96,7 @@ public class SymbolLoader {
 				System.out.println("Saved symbol and prices for: "
 						+ symbol.getDescription());
 			}
-			fr.close();
+			isr.close();
 
 		} catch (Exception e) {
 			System.out.println(e.getMessage());

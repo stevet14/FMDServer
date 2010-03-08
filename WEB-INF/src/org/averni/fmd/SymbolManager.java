@@ -12,7 +12,7 @@ import org.quartz.JobExecutionException;
 
 public class SymbolManager implements Job {
 
-    private static Log _log = LogFactory.getLog(SymbolManager.class);
+    private static Log log = LogFactory.getLog(SymbolManager.class);
 
     /**
      * Empty constructor for job initilization
@@ -36,7 +36,7 @@ public class SymbolManager implements Job {
         // This job simply prints out its job name and the
         // date and time that it is running
         String jobName = context==null?"":context.getJobDetail().getFullName();
-        _log.info("SymbolManager - job name: " + jobName + " executing at " + new Date());
+        log.info("SymbolManager - job name: " + jobName + " executing at " + new Date());
 
 //      HibernateUtil.getSessionFactory().getCurrentSession();
 		loadAndStoreSymbols();
