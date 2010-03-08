@@ -7,6 +7,7 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.quartz.JobDetail;
 import org.quartz.Scheduler;
+import org.quartz.SchedulerException;
 import org.quartz.SchedulerFactory;
 import org.quartz.SimpleTrigger;
 import org.quartz.TriggerUtils;
@@ -14,6 +15,8 @@ import org.quartz.impl.StdSchedulerFactory;
 
 public class UpdateScheduler {
 
+	private Scheduler sched;
+	
     public static void main(String[] args) throws Exception {
     	UpdateScheduler scheduler = new UpdateScheduler();
 		scheduler.run();
@@ -24,7 +27,7 @@ public class UpdateScheduler {
 
 		// First we must get a reference to a scheduler
 		SchedulerFactory sf = new StdSchedulerFactory();
-		Scheduler sched = sf.getScheduler();
+		sched = sf.getScheduler();
 
 		log.info("------- Scheduling Jobs ----------------");
 
@@ -50,5 +53,9 @@ public class UpdateScheduler {
 		sched.start();
 
 		log.info("------- Started Scheduler -----------------");
+	}
+	
+	public void shutdown() throws SchedulerException {
+		sched.shutdown();
 	}
 }

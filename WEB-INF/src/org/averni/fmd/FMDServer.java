@@ -17,14 +17,6 @@ public class FMDServer extends HttpServlet {
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
-	private static Log log = LogFactory.getLog(FMDServer.class);
-
-
-	public FMDServer() throws Exception {
-		UpdateScheduler scheduler = new UpdateScheduler();
-		scheduler.run();
-		log.info("Scheduler running...");
-	}
 	
 	public void doGet(HttpServletRequest request,
                       HttpServletResponse response)
