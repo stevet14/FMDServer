@@ -21,10 +21,8 @@
 	<classpathentry kind="lib" path="WEB-INF/lib/opencsv-2.1.jar"/>
 	<classpathentry kind="lib" path="WEB-INF/lib/slf4j-api-1.5.10.jar"/>
 	<classpathentry kind="lib" path="WEB-INF/lib/slf4j-jdk14-1.5.10.jar"/>
-	<classpathentry kind="var" path="TOMCAT_HOME/common/lib/servlet-api.jar"/>
-	<classpathentry kind="var" path="TOMCAT_HOME/common/lib/jasper-runtime.jar"/>
-	<classpathentry kind="var" path="TOMCAT_HOME/common/lib/jsp-api.jar"/>
 	<classpathentry kind="lib" path="WEB-INF/lib/c3p0-0.9.1.jar"/>
 	<classpathentry kind="lib" path="WEB-INF/lib/quartz-1.7.3.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="WEB-INF/classes"/>
 </classpath>
