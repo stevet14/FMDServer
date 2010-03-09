@@ -1,0 +1,34 @@
+<project name="FMDServer" basedir="." default="archive">
+
+	<property name="WEB-INF" value="${basedir}/WEB-INF" />
+	<property name="OUT" value="${basedir}/out" />
+	<property name="WAR_FILE_NAME" value="FMDServer.war" />
+
+	<target name="init">
+		<delete dir="${WEB-INF}/classes" />
+		<mkdir dir="${WEB-INF}/classes" />
+	</target>
+
+	<path id="libs">
+		<fileset includes="*.jar" dir="${WEB-INF}/lib" />
+	</path>
+
+	<target name="compile" depends="init">
+		<javac srcdir="${WEB-INF}/src" destdir="${WEB-INF}/classes" classpathref="libs">
+		</javac>
+	</target>
+
+	<target name="archive" depends="compile">
+		<copy todir="${WEB-INF}/classes" includeemptydirs="false">
+			<fileset dir="${WEB-INF}/src" excludes="hibernate.cfg.xml,**/*.java,**/*.groovy" />
+		</copy>
+		<copy file="${basedir}/hibernate.cfg.xml" todir="${WEB-INF}/classes"/>
+		<delete dir="${OUT}" />
+		<mkdir dir="${OUT}" />
+		<war destfile="${OUT}/${WAR_FILE_NAME}" webxml="${WEB-INF}/web.xml" duplicate="preserve" compress="true" update="true">
+			<classes dir="${WEB-INF}/classes" />
+			<lib dir="${WEB-INF}/lib" excludes="servlet-api*.jar,*.src.jar" />
+		</war>
+	</target>
+
+</project>
