@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+	"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="org.averni.fmd.domain">
+	<class name="Symbol" table="symbols">
+		<id name="id" column="id">
+			<generator class="increment" />
+		</id>
+		<property name="symbol" />
+		<property name="description" />
+		<property name="marketType" />
+		<property name="exchange" />
+
+		<set name="prices" inverse="true" cascade="all" order-by="date desc">
+			<key column="symbolId" />
+			<one-to-many class="Price" />
+		</set>
+		<set name="signals" inverse="true" cascade="all" order-by="buyDate desc">
+			<key column="symbolId" />
+			<one-to-many class="Signal" />
+		</set>
+	</class>
+</hibernate-mapping>

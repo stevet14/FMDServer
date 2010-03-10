@@ -5,7 +5,6 @@ import java.util.Date;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.averni.fmd.SymbolLoader.Exchange;
-import org.averni.fmd.util.HibernateUtil;
 import org.quartz.Job;
 import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;
@@ -37,10 +36,7 @@ public class SymbolManager implements Job {
         // date and time that it is running
         String jobName = context==null?"":context.getJobDetail().getFullName();
         log.info("SymbolManager - job name: " + jobName + " executing at " + new Date());
-
-//      HibernateUtil.getSessionFactory().getCurrentSession();
 		loadAndStoreSymbols();
-//		HibernateUtil.getSessionFactory().close();
     }
 
     public static void main(String[] args) throws Exception {
