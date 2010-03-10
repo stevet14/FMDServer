@@ -48,6 +48,7 @@ DJ ISLAMIC MARKET US INDEX                                     ^IMUS         137
 DJ STOXX 50 EURO Price                                         ^SX5P         56752    20070330
 DJ STOXX 50 US$ PRICE                                          ^SX5L         56753    20070404
 DJ Stoxx 600 Euro Price                                        ^SXXP         85058    20040426
+DJ STOXX 600 Index                                             ^6DJ           3783    20090414
 DJAUM - DJ AUSTRALIAN MID-CAP INDEX                            ^DJ1          13736    20010511
 DJAUS - DJ AUSTRALIAN SMALL-CAP INDEX                          ^DJ2          13737    20010511
 DKDOW - DJ DENMARK STOCK INDEX                                 ^DK1          13738    20010511
@@ -122,7 +123,6 @@ FTSE Sector Mining                                             ^FTEI         513
 FTSE Sector Oil & Gas                                          ^FTOI         51328    20030103
 FTSE Sector Personal Care & Household Pr                       ^FTPC         51307    20030103
 FTSE Sector Pharmaceuticals                                    ^FTPH         51329    20030103
-FTSE Sector Real Estate                                        ^FTPY         51326    20030103
 FTSE Sector Software & Computer Services                       ^FTCS         51305    20030103
 FTSE Sector Speciality & Other Finance                         ^FTOF         51301    20030103
 FTSE Sector Support Services                                   ^FTSS         51314    20030103

@@ -1,42 +1,54 @@
 ^A31,A3DOW - DJ LATIN AMERICA STOCK INDEX
-^AEX,Netherlands AEX General Index
-^ALLS,FTSE Italia Star
-^AORD,Australia All Ordinaries Index
+^MERV,Argentina Merval Index
 ^AT1,ATDOW - DJ AUSTRIA STOCK INDEX
 ^AT2,ATDOWD - DJ AUSTRIA STOCK INDEX USD
-^ATG,Greece General Share Index
+^AORD,Australia All Ordinaries Index
 ^ATX,Austria ATX Index
-^AXJO,S&P/ASX 200
+^CEC,Austrian Ceceeur Index
 ^BADI,Baltic Dry Index
 ^BE1,BEDOW - DJ BELGIUM STOCK INDEX
 ^BE2,BEDOWD - DJ BELGIUM STOCK INDEX USD
-^BFX,Brussels Bel-20 Share Index
-^BR1,BRDOW - DJ BRAZIL STOCK INDEX
-^BR2,BRDOWD - DJ BRAZIL STOCK INDEX USD
-^BSESN,BSE 30 (India)
-^BUX,Hungary BUX Index
 ^BVS2,Brazil Bovespa Index
 ^BVSP,Brazil Bovespa Index
+^BR1,BRDOW - DJ BRAZIL STOCK INDEX
+^BR2,BRDOWD - DJ BRAZIL STOCK INDEX USD
+^BFX,Brussels Bel-20 Share Index
+^BSESN,BSE 30 (India)
 ^CA1,CADOW - DJ CANADA STOCK INDEX
 ^CA2,CADOWD - DJ CANADA STOCK INDEX USD
-^CCSI,Egypt CMA Index
-^CEC,Austrian Ceceeur Index
 ^CH1,CHDOW - DJ SWITZERLAND STOCK INDEX
 ^CH2,CHDOWD - DJ SWITZERLAND STOCK INDEX USD
+^IGPA,Chile SASE General Index
+^IPSA,Chile SASE Select Index (NEW)
+^SSEC,China Shanghai Composite Index
+^SZSC,China Shenzhen Composite Index
 ^CL1,CLDOW - DJ CHILE STOCK INDEX
 ^CL2,CLDOWD - DJ CHILE STOCK INDEX USD
-^CSE,Sri Lanka All Share Index
 ^CTX,Czech Index
 ^CTXE,Czech Index Euro
-^DBLC,Deutsch Bank Liquid Commodity Index
+^GDAXI,DAX (Germany)
+^VIXI,DAX NEW VOLATILITY INDEX
+^VDAX,DAX VOLATILITY INDEX
 ^DE1,DEDOW - DJ GERMANY STOCK INDEX
 ^DE2,DEDOWD - DJ GERMANY STOCK INDEX USD
+^KFX,Denmark KFX Index
+^DBLC,Deutsch Bank Liquid Commodity Index
+^DJAT,DJ ASIAN TITANS INDEX
+^SX5K,DJ EURO STOXX 50 US$ PRICE
+^SX5E,DJ Euro Stoxx50 Euro Price
+^XLHK,DJ HONG KONG EXTRA LIQUID INDEX
+^IMXL,DJ ISLAMIC EXTRA LIQUID INDEX
+^IMUS,DJ ISLAMIC MARKET US INDEX
+^SX5P,DJ STOXX 50 EURO Price
+^SX5L,DJ STOXX 50 US$ PRICE
+^SXXP,DJ Stoxx 600 Euro Price
+^6DJ,DJ STOXX 600 Index
 ^DJ1,DJAUM - DJ AUSTRALIAN MID-CAP INDEX
 ^DJ2,DJAUS - DJ AUSTRALIAN SMALL-CAP INDEX
-^DJAT,DJ ASIAN TITANS INDEX
-^DJAU,DOW JONES AUSTRALIAN INDEX
 ^DK1,DKDOW - DJ DENMARK STOCK INDEX
 ^DK2,DKDOWD - DJ DENMARK STOCK INDEX USD
+^DJAU,DOW JONES AUSTRALIAN INDEX
+^JP1,Dow Jones Japan Index
 ^E11,E1BSC - DJ EUROPE BASIC MATERIALS INDEX
 ^E12,E1CYC - DJ EUROPE CONSUMER CYCLICALS IND
 ^E13,E1DOW - DJ EUROPE STOCK INDEX
@@ -55,156 +67,163 @@
 ^E27,E2NCY - DJ EUROPE (EX UK) CONSUMER NON-C
 ^E28,E2UTI - DJ EUROPE (EX UK) UTILITIES INDE
 ^E31,E3DOW - DJ NORDIC STOCK INDEX
+^CCSI,Egypt CMA Index
 ^ES1,ESDOW - DJ SPAIN STOCK INDEX
 ^ES2,ESDOWD - DJ SPAIN STOCK INDEX USD
-^ESM,Swiss Mid-Cap
-^EVS,VSTOXX
-^FCHI,France CAC-40 Index
+^N100,Euronext 100 Index
+^N150,Euronext 150 Index
 ^FI1,FIDOW - DJ FINLAND STOCK INDEX
 ^FI2,FIDOWD - DJ FINLAND STOCK INDEX USD
+^HEX,Finland Helsinki General Index
+^FCHI,France CAC-40 Index
 ^FR1,FRDOW - DJ FRANCE STOCK INDEX
 ^FR2,FRDOWD - DJ FRANCE STOCK INDEX USD
+^FTTI,FT Techmark 100
+^FTTA,FT Techmark Index
+^FTOE,FTASX0570 Oil Equip Suppies & Drilling
+^FTGI,FTASX2720 Gen Industrials
+^FTHO,FTASX3720 Household Goods
+^FTMT,FTASX6570 Mobile Telecom
+^FTGW,FTASZ7570 Gas Water and Util
+^FTSE,FTSE 100 Index
+FTAS,FTSE All Share Index
+^GU15,FTSE Italia All-Share
+^GU17,FTSE Italia Micro Cap
+^GU16,FTSE Italia Mid-Cap
+^GU18,FTSE Italia Small Cap
+^ALLS,FTSE Italia Star
+^SPM,FTSE MIB Index
 ^FTAD,FTSE Sector Aerospace & Defense
 ^FTAM,FTSE Sector Automobiles and Parts
 ^FTBK,FTSE Sector Banks
-^FTBM,FTSE Sector Construction & Building Mate
-^FTCH,FTSE Sector Chemicals
-^FTCS,FTSE Sector Software & Computer Services
 ^FTDN,FTSE Sector Beverages
-^FTEE,FTSE Sector Electronic & Electrical Equi
-^FTEI,FTSE Sector Mining
-^FTEN,FTSE Sector Engineering & Machinery
+^FTCH,FTSE Sector Chemicals
+^FTBM,FTSE Sector Construction & Building Mate
 ^FTEY,FTSE Sector Electricity
-^FTFM,FTSE Sector Food Producers & Processors
+^FTEE,FTSE Sector Electronic & Electrical Equi
+^FTEN,FTSE Sector Engineering & Machinery
 ^FTFR,FTSE Sector Food & Drug Retailers
-^FTGI,FTASX2720 Gen Industrials
-^FTGW,FTASZ7570 Gas Water and Util
-^FTHG,FTSE Sector Household Goods & Textiles
-^FTHL,FTSE Sector Leisure Entertainment & Hote
-^FTHO,FTASX3720 Household Goods
-^FTIC,FTSE Sector Insurance
-^FTIL,FTSE Sector Life Assurance
+^FTFM,FTSE Sector Food Producers & Processors
 ^FTMA,FTSE Sector Health
+^FTHG,FTSE Sector Household Goods & Textiles
+^FTTH,FTSE Sector Information Technology Hardw
+^FTIC,FTSE Sector Insurance
+^FTTU,FTSE Sector INV Companies
+^FTHL,FTSE Sector Leisure Entertainment & Hote
+^FTIL,FTSE Sector Life Assurance
 ^FTMD,FTSE Sector Media & Photography
-^FTMT,FTASX6570 Mobile Telecom
-^FTOE,FTASX0570 Oil Equip Suppies & Drilling
-^FTOF,FTSE Sector Speciality & Other Finance
+^FTEI,FTSE Sector Mining
 ^FTOI,FTSE Sector Oil & Gas
 ^FTPC,FTSE Sector Personal Care & Household Pr
 ^FTPH,FTSE Sector Pharmaceuticals
 ^FTPY,FTSE Sector Real Estate
-^FTSE,FTSE 100 Index
+^FTCS,FTSE Sector Software & Computer Services
+^FTOF,FTSE Sector Speciality & Other Finance
 ^FTSS,FTSE Sector Support Services
-^FTTA,FT Techmark Index
-^FTTB,FTSE Sector Tobacco
-^FTTH,FTSE Sector Information Technology Hardw
-^FTTI,FT Techmark 100
 ^FTTN,FTSE Sector Telecommunications Services
+^FTTB,FTSE Sector Tobacco
 ^FTTR,FTSE Sector Transport
-^FTTU,FTSE Sector INV Companies
+^TAX,FTSE techMark 100 Index
 ^GB1,GBDOW - DJ UK STOCK INDEX
 ^GB2,GBDOWD - DJ UK STOCK INDEX USD
-^GDAXI,DAX (Germany)
+^GDAX,Germany DAX Index
 ^GR1,GRDOW - DJ GREECE STOCK INDEX
 ^GR2,GRDOWD - DJ GREECE STOCK INDEX USD
-^GSPC,S&P 500 (USA)
-^GSPTSE,S&P TSX Composite (Canada)
-^HEX,Finland Helsinki General Index
+^ATG,Greece General Share Index
+^HSCE,HANG SENG CHINA ENTERPRISES IND
 ^HK1,HKDOW - DJ HONG KONG STOCK INDEX
 ^HK2,HKDOWD - DJ HONG KONG STOCK INDEX USD
-^HSCE,HANG SENG CHINA ENTERPRISES IND
 ^HSI,Hong Kong Hang Seng Index
 ^HTX,Hungarian Index
 ^HTXE,Hungarian Index Euro
+^BUX,Hungary BUX Index
+^IPE3,ICE Brent Afternoon Marker 3rd Month
+^IPEB,ICE Brent Afternoon Markers
 ^IBAM,ICE Brent Asian Markers
-^IBC,Venezuela IBC Index
-^IBEX,Spain IBEX 35 Index
+^IBS3,ICE Brent Singapore Markers Month 3
+^IPCI,ICE Crude Oil Index
+^IGE3,ICE Gas Oil 1930 Markers Month 3
+^IGEM,ICE Gas Oil Evening Markers
+^IGNM,ICE Gas Oil Night Markers
+^IGS3,ICE Gas Oil Singapore Markers Month 3
+^IGO3,ICE Gasoil 1730 Markers Month 3
+^IGSM,ICE Gasoil Singapore Markers
+^IPNG,ICE Natural Gas Index
+^IWSM,ICE WTI Singapore Markers
 ^ID1,IDDOW - DJ INDONESIA STOCK INDEX
 ^ID2,IDDOWD - DJ INDONESIA STOCK INDEX USD
 ^IE1,IEDOW - DJ IRELAND STOCK INDEX
 ^IE2,IEDOWD - DJ IRELAND STOCK INDEX USD
-^IETP,ISEQ20 (Ireland)
-^IGEM,ICE Gas Oil Evening Markers
-^IGNM,ICE Gas Oil Night Markers
-^IGPA,Chile SASE General Index
-^IGRA,Peru Lima General Index
-^IGSM,ICE Gasoil Singapore Markers
-^IMUS,DJ ISLAMIC MARKET US INDEX
-^IMXL,DJ ISLAMIC EXTRA LIQUID INDEX
+^BSES,India BSE 30 Index
 ^INMX,Indice Mexico
 ^IPC,IPC (MEXICO)
-^IPCI,ICE Crude Oil Index
-^IPEB,ICE Brent Afternoon Markers
-^IPNG,ICE Natural Gas Index
-^IPSA,Chile SASE Select Index (NEW)
 ^ISEQ,Irish Stock Exchange Index
+^IETP,ISEQ20 (Ireland)
+^TA10,Israel TA-100 Index
 ^IT1,ITDOW - DJ ITALY STOCK INDEX
 ^IT2,ITDOWD - DJ ITALY STOCK INDEX USD
-^IWSM,ICE WTI Singapore Markers
 ^JKSE,Jakarta Composite Index
-^JNW,Topix 300
-^JP1,Dow Jones Japan Index
-^JP2,JPDOWD - DJ JAPAN STOCK INDEX USD
+^N225,Japan Nikkei 225 Index
 ^JSD,Jasdaq
 ^JSFI,Johannesburg Financial Index
-^JTI,Topix
-^JTI2,Topix Index
-^KFX,Denmark KFX Index
-^KLSE,Malaysia KLSE Composite Index
+^JIAI,Johannesburg Industrial Index
+^JSAI,Johannesburg Overall Index
+^JP1,JPDOW - DJ JAPAN STOCK INDEX
+^JP2,JPDOWD - DJ JAPAN STOCK INDEX USD
 ^KOS,KOSPI 200 Index
 ^KR1,KRDOW - DJ SOUTH KOREA STOCK INDEX
 ^KR2,KRDOWD - DJ SOUTH KOREA STOCK INDEX USD
-^KS11,South Korea Seoul Composite Index
-^KSE,Pakistan Karachi 100 Index
-^LA40,S&P Latin America 40
+^FTII,London FT 30 Industrial Index
+^FTGM,London Gold Mines
+^SMSI,Madrid General Index
+^KLSE,Malaysia KLSE Composite Index
 ^MDAX,MDAX
-^MERV,Argentina Merval Index
+^MXX,Mexico I P C
+^XMSC,MSCI EAFE
 ^MSSG,MSCI Singapore Stock Index
 ^MSTW,MSCI Taiwan Index
-^MTMS,Russia Moscow Times Index
+XMSW,MSCI World Index
 ^MX1,MXDOW - DJ MEXICO STOCK INDEX
 ^MX2,MXDOWD - DJ MEXICO STOCK INDEX USD
-^MXX,Mexico I P C
 ^MY1,MYDOW - DJ MALAYSIA STOCK INDEX
 ^MY2,MYDOWD - DJ MALAYSIA STOCK INDEX USD
-^N100,Euronext 100 Index
-^N10C,NZX 10 Capital
-^N10G,NZX 10 Gross
-^N150,Euronext 150 Index
-^N225,Japan Nikkei 225 Index
+^AEX,Netherlands AEX General Index
+^NZ50,New Zealand 50 Index
 ^N300,Nikkei 300
-^N50C,NZX 50 Portfolio Capital
-^N50G,NZX 50 Portfolio Gross
 ^NJQ,Nikkei JQ Average
 ^NL1,NLDOW - DJ NETHERLANDS STOCK INDEX
 ^NL2,NLDOWD - DJ NETHERLANDS STOCK INDEX USD
-^NMCC,NZX MidCap Capital
 ^NO1,NODOW - DJ NORWAY STOCK INDEX
 ^NO2,NODOWD - DJ NORWAY STOCK INDEX USD
-^NSCC,NZX SmallCap Capital
-^NSCG,NZX SmallCap Gross
+^NZAX,NZAX All Shares Gross
 ^NZ1,NZDOW - DJ NEW ZEALAND STOCK INDEX
-^NZ15,NZX 15
 ^NZ2,NZDOWD - DJ NEW ZEALAND STOCK INDEX USD
-^NZ50,New Zealand 50 Index
+^N10C,NZX 10 Capital
+^N10G,NZX 10 Gross
+^NZ15,NZX 15
+^N50C,NZX 50 Portfolio Capital
+^N50G,NZX 50 Portfolio Gross
 ^NZAC,NZX All Shares Capital
 ^NZAG,NZX All Shares Gross
-^NZAX,NZAX All Shares Gross
+^NMCC,NZX MidCap Capital
+^NMCG,NZX MidCap Gross
 ^NZSC,NZX SciTech Capital
 ^NZSG,NZX SciTech Gross
-^O30,OMX Stokholm 30 Index
+^NSCC,NZX SmallCap Capital
+^NSCG,NZX SmallCap Gross
 ^OBX,OBX Index
+OMXC20.CO,OMX Copenhagen 20 (Denmark)
 ^OMXSPI,OMX Stockholm 30 (Sweden)
-^OSEAX,Total Share (Norway)
+^O30,OMX Stokholm 30 Index
 ^P11,P1BSC - DJ PACIFIC BASIC MATERIALS INDEX
-^P110,P1TEC - DJ PACIFIC TECHNOLOGY INDEX
-^P111,P1UTI - DJ PACIFIC UTILITIES INDEX
 ^P12,P1CYC - DJ PACIFIC CONSUMER CYCLICALS IN
 ^P13,P1DOW - DJ PACIFIC STOCK INDEX
 ^P14,P1ENE - DJ PACIFIC ENERGY INDEX
 ^P15,P1FIN - DJ PACIFIC FINANCIAL INDEX
 ^P16,P1IDU - DJ PACIFIC INDUSTRIAL INDEX
 ^P17,P1NCY - DJ PACIFIC CONSUMER NON-CYCLICAL
+^P110,P1TEC - DJ PACIFIC TECHNOLOGY INDEX
+^P111,P1UTI - DJ PACIFIC UTILITIES INDEX
 ^P21,P2BSC - DJ PACIFIC (EX JPN) BASIC MATERI
 ^P22,P2CYC - DJ PACIFIC (EX JPN) CONSUMER CYC
 ^P23,P2DOW - DJ PACIFIC INDEX (EXCL JAPAN)
@@ -215,58 +234,64 @@
 ^P28,P2TEC - DJ PACIFIC (EX JPN) TECHNOLOGY I
 ^P29,P2UTI - DJ PACIFIC (EX JPN) UTILITIES IN
 ^P31,P3DOW - DJ SOUTHEAST ASIA STOCK INDEX
+^KSE,Pakistan Karachi 100 Index
+^IGRA,Peru Lima General Index
 ^PH1,PHDOW - DJ PHILIPPINES STOCK INDEX
 ^PH2,PHDOWD - DJ PHILIPPINES STOCK INDEX USD
 ^PSI,Philippines PSE Composite Index
+^PTX,Polish Index
+^PTXE,Polish Index Euro
 ^PSI20,PSI 20 (Portugal)
 ^PT1,PTDOW - DJ PORTUGAL STOCK INDEX
 ^PT2,PTDOWD - DJ PORTUGAL STOCK INDEX USD
-^PTX,Polish Index
-^PTXE,Polish Index Euro
-^RTS,Russian Trading System Index
+^MTMS,Russia Moscow Times Index
 ^RUX,Russian Indust Index
+^RTS,Russian Trading System Index
+^GSPC,S&P 500 (USA)
+^LA40,S&P Latin America 40
+^SPMIB,S&P Mib (Italy)
+^GSPTSE,S&P TSX Composite (Canada)
+^AXJO,S&P/ASX 200
+^SPTD,S&P/Topix USD
+^SPT,S&P/Topix Yen
 ^S120,SBF 120
 ^S250,SBF 250
-^S50,Thailand Set 50 Index
 ^S80,SBF 80
-^SAX,Slovakia SAX Index
 ^SE1,SEDOW - DJ SWEDEN STOCK INDEX
 ^SE2,SEDOWD - DJ SWEDEN STOCK INDEX USD
 ^SG1,SGDOW - DJ SINGAPORE STOCK INDEX
 ^SG2,SGDOWD - DJ SINGAPORE STOCK INDEX USD
-^SMSI,Madrid General Index
-^SPM,FTSE MIB Index
-^SPMIB,S&P Mib (Italy)
-^SPT,S&P/Topix Yen
-^SPTD,S&P/Topix USD
-^SSEC,China Shanghai Composite Index
+000001.SS,Shanghai Composite (China)
+^STI,Singapore Straits Times Index
+^SAX,Slovakia SAX Index
+^KS11,South Korea Seoul Composite Index
+^IBEX,Spain IBEX 35 Index
+^CSE,Sri Lanka All Share Index
 ^SSM2,Swiss Market Index
 ^SSMI,Swiss Market Index
-^STI,Singapore Straits Times Index
-^SX5E,DJ Euro Stoxx50 Euro Price
-^SX5K,DJ EURO STOXX 50 US$ PRICE
-^SX5L,DJ STOXX 50 US$ PRICE
-^SX5P,DJ STOXX 50 EURO Price
-^SXXP,DJ Stoxx 600 Euro Price
-^SZSC,China Shenzhen Composite Index
-^T100,Topix 100
+^ESM,Swiss Mid-Cap
 ^TA100,TA-100 (Israel)
-^TAX,FTSE techMark 100 Index
+^TWII,Taiwan Weighted Index
 ^TECD,TecDAX Performance Index
 ^TECP,TecDAX Price Index
+^S50,Thailand Set 50 Index
+^SETI,Thailand SET Index
 ^TH1,THDOW - DJ THAILAND STOCK INDEX
 ^TH2,THDOWD - DJ THAILAND STOCK INDEX USD
 ^TOPX,Tokyo Topix
-^TW1,TWDOW - DJ TAIWAN STOCK INDEX
-^TW2,TWDOWD - DJ TAIWAN STOCK INDEX USD
-^TWII,Taiwan Weighted Index
+^JTI,Topix
+^T100,Topix 100
+^JNW,Topix 300
+^JTI2,Topix Index
+^OSEAX,Total Share (Norway)
 ^TXMX,TSE S&P Completion Index
 ^TXSX,TSE S&P Smallcap Index
-^VDAX,DAX VOLATILITY INDEX
-^VIXI,DAX NEW VOLATILITY INDEX
+^XU10,Turkey ISE National 100
+^TW1,TWDOW - DJ TAIWAN STOCK INDEX
+^TW2,TWDOWD - DJ TAIWAN STOCK INDEX USD
+^IBC,Venezuela IBC Index
+^EVS,VSTOXX
 ^W11,W1BSC - DJ WORLD BASIC MATERIALS INDEX
-^W110,W1TEC - DJ WORLD TECHNOLOGY INDEX
-^W111,W1UTI - DJ WORLD UTILITIES INDEX
 ^W12,W1CYC - DJ WORLD CONSUMER CYCLICALS INDE
 ^W13,W1DOW - DJ WORLD STOCK INDEX
 ^W14,W1ENE - DJ WORLD ENERGY INDEX
@@ -275,6 +300,8 @@
 ^W17,W1NCY - DJ WORLD CONSUMER NON-CYCLICALS
 ^W18,W1SGI - DJ WORLD GROUP INDEX COMPOSITE
 ^W19,W1SUS - DJ WORLD GROUP INDEX excl TOB/AL
+^W110,W1TEC - DJ WORLD TECHNOLOGY INDEX
+^W111,W1UTI - DJ WORLD UTILITIES INDEX
 ^W21,W2BSC - DJ WORLD (EX US) BASIC MATERIALS
 ^W22,W2CYC - DJ WORLD (EX US) CONSUMER CYCLIC
 ^W23,W2DOW - DJ WORLD STOCK INDEX (EXCL US)
@@ -285,11 +312,5 @@
 ^W28,W2TEC - DJ WORLD (EX US) TECHNOLOGY INDE
 ^W29,W2UTI - DJ WORLD (EX US) UTILITIES INDEX
 ^XL1,XLAUS - DJ AUSTRALIA EXTRA LIQUID INDEX
-^XLHK,DJ HONG KONG EXTRA LIQUID INDEX
-^XMSC,MSCI EAFE
 ^ZA1,ZADOW - DJ SOUTH AFRICA STOCK INDEX
 ^ZA2,ZADOWD - DJ SOUTH AFRICA STOCK INDEX USD
-000001.SS,Shanghai Composite (China)
-FTAS,FTSE All Share Index
-OMXC20.CO,OMX Copenhagen 20 (Denmark)
-XMSW,MSCI World Index

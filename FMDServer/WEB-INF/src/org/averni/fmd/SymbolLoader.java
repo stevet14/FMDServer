@@ -18,6 +18,8 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
 import org.averni.fmd.domain.Price;
 import org.averni.fmd.domain.Symbol;
 import org.averni.fmd.util.HibernateUtil;
@@ -30,6 +32,7 @@ import de.hdtconsulting.yahoo.finance.csv.connection.YHost;
 
 public class SymbolLoader {
 
+	private Log log = LogFactory.getLog(SymbolLoader.class);
 	private Yapi yapi;
 	private Session session;
 
@@ -48,29 +51,19 @@ public class SymbolLoader {
 		String exchangeFileName = getExchangeFileName(exchange);
 
 		try {
-			InputStream resource = this.getClass().getResourceAsStream("/resource/" + exchangeFileName);
+			InputStream resource = this.getClass().getResourceAsStream(
+					"/resource/Symbols/FMD/" + exchangeFileName);
 			InputStreamReader isr = new InputStreamReader(resource);
 			BufferedReader br = new BufferedReader(isr);
-			
-			String line;
 
+			String line;
 			while ((line = br.readLine()) != null) {
+				String[] entries = line.split(",");
+				String symbolCode = entries[0];
+				String description = entries[1];
+
 				session = HibernateUtil.getSessionFactory().getCurrentSession();
 				session.beginTransaction();
-				String symbolCode = "";
-				String description = "";
-				if (exchange.equals(Exchange.FINDEX)) {
-					String[] entries = line.split(",");
-					symbolCode = entries[0];
-					description = entries[1];
-				} else {
-					if (line.length() < 64)
-						continue; // skip lines without symbols...
-					symbolCode = line.substring(63, 77).trim()
-							.replace('-', '~').replace('.', '-').replace('~',
-									'.');
-					description = line.substring(0, 63).trim();
-				}
 				Symbol symbol = (Symbol) session.createQuery(
 						"from Symbol as symbol where symbol.symbol = ?")
 						.setString(0, symbolCode).uniqueResult();
@@ -87,17 +80,19 @@ public class SymbolLoader {
 					addPrices(symbol);
 				} catch (Exception e) {
 					// skip the symbol if we can't get any prices.
-					System.out.println(e.getMessage());
+					log.error(e.getMessage() + symbol.getSymbol() + " - " + symbol.getDescription());
 					continue;
 				}
 				session.getTransaction().commit();
-				System.out.println("Saved symbol and prices for: "
+				log.info("Saved symbol and prices for: "
 						+ symbol.getDescription());
 			}
+			br.close();
 			isr.close();
+			resource.close();
 
 		} catch (Exception e) {
-			System.out.println(e.getMessage());
+			log.error(e.getMessage());
 		}
 	}
 
@@ -119,54 +114,46 @@ public class SymbolLoader {
 	}
 
 	private Set<Price> getFuturesPrices(Symbol symbol) throws Exception {
-
 		Set<Price> prices = new HashSet<Price>();
 
 		String urlString = "http://futures.tradingcharts.com/chart/"
 				+ symbol.getSymbol()
 				+ "/W/?saveprefs=t&xshowdata=t&xCharttype=b&xhide_specs=f&xhide_analysis=f&xhide_survey=f&xhide_news=f";
-		URL url;
-		URLConnection urlConn;
-		BufferedReader dis;
 
-		url = new URL(urlString);
-		urlConn = url.openConnection();
+		String[] lines = getSymbolDatafromURL(urlString);
+		getPricesFromText(symbol, prices, lines);
+
+		log.info("Found: " + symbol.getSymbol());
+		return prices;
+	}
+
+	private String[] getSymbolDatafromURL(String urlString)
+			throws Exception {
+		BufferedReader dis;
+		URL url = new URL(urlString);
+		URLConnection urlConn = url.openConnection();
 		urlConn.setDoInput(true);
 		urlConn.setUseCaches(false);
 		urlConn
 				.setRequestProperty(
 						"User-Agent",
 						"Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.64 Safari/532.5");
-
 		dis = new BufferedReader(
 				new InputStreamReader(urlConn.getInputStream()));
-		String s;
 
+		String s;
 		while ((s = dis.readLine()) != null) {
-			if (s.contains("<meta name=\"description\"")) {
-				int start = s.indexOf("content");
-				int end = s.indexOf(" -");
-				symbol.setDescription(s.substring(start + 9, end));
-			}
 			if (s.contains("var dataStr"))
 				break;
 		}
 		dis.close();
 
 		if (s == null || !s.contains("|"))
-			throw new Exception("Could not find symbol: " + symbol.getSymbol());
+			throw new Exception("Could not find symbol: ");
 		// Bug out if we can't grab the data.
 
 		s = s.substring(s.indexOf('\'') + 1, s.lastIndexOf('\''));
-		// System.out.println(s);
-
-		String[] lines = s.split("\\|");
-		getPricesFromText(symbol, prices, lines);
-
-		System.out.println("Found: " + symbol.getSymbol());
-
-		return prices;
-
+		return s.split("\\|");
 	}
 
 	private Set<Price> getForexPrices(Symbol symbol) throws Exception {
@@ -177,11 +164,11 @@ public class SymbolLoader {
 		// We need to iterate a few times to get all the data we need...
 		for (int i = 1; i < 4; i++) {
 			Calendar cal = Calendar.getInstance();
-			cal.add(Calendar.DATE, -cal.get(Calendar.DAY_OF_WEEK)); // Start
-			// with
-			// last Friday's
-			// close...
-			// System.out.println("Today is: " + cal.get(Calendar.DAY_OF_WEEK));
+			// Start with last Friday's 'Close'...
+			if(cal.get(Calendar.DAY_OF_WEEK)>Calendar.SUNDAY && cal.get(Calendar.DAY_OF_WEEK)<Calendar.SATURDAY)
+				cal.add(Calendar.DATE, -cal.get(Calendar.DAY_OF_WEEK) - 1);
+			else
+				cal.add(Calendar.DATE, (-cal.get(Calendar.DAY_OF_WEEK)%7) - 1);
 
 			int endYear = cal.get(Calendar.YEAR);
 			String endMonth = monthName[cal.get(Calendar.MONTH)];
@@ -194,11 +181,6 @@ public class SymbolLoader {
 			int startYear = cal.get(Calendar.YEAR);
 			String startMonth = monthName[cal.get(Calendar.MONTH)];
 			int startDay = cal.get(Calendar.DATE);
-
-			// System.out.println("Date: " + startDay + "/" + startMonth + "/" +
-			// startYear);
-			// System.out.println("Date: " + endDay + "/" + endMonth + "/" +
-			// endYear);
 
 			String urlString = "http://forex.tradingcharts.com/charts/index.php?sym="
 					+ symbol.getSymbol()
@@ -217,54 +199,12 @@ public class SymbolLoader {
 					+ "&eyear="
 					+ endYear
 					+ "&ehour=&emin=&Img+Type=png&drsi=0&ma1=0&dmacd=0&ma2=0&bol=0&dstoch=0&Submit=Submit";
-			// System.out.println("URL: " + urlString);
 
-			URL url;
-			URLConnection urlConn;
-			BufferedReader dis;
-
-			url = new URL(urlString);
-			urlConn = url.openConnection();
-			urlConn.setDoInput(true);
-			urlConn.setUseCaches(false);
-			urlConn
-					.setRequestProperty(
-							"User-Agent",
-							"Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.64 Safari/532.5");
-
-			dis = new BufferedReader(new InputStreamReader(urlConn
-					.getInputStream()));
-			String s;// , name;
-
-			// boolean isForex = false;
-			while ((s = dis.readLine()) != null) {
-				if (s.contains("<meta name=\"description\"")) {
-					int start = s.indexOf("content");
-					int end = s.lastIndexOf(" -"); // Assume its a Future...
-					if (end == -1) {
-						end = s.lastIndexOf(" ..."); // ...if not, it's a Forex.
-						start += 26;
-						// isForex = true;
-					}
-					// name = s.substring(start + 9, end);
-				}
-				if (s.contains("var dataStr"))
-					break;
-			}
-			dis.close();
-
-			if (s == null || !s.contains("|"))
-				throw new Exception("Could not find symbol: "
-						+ symbol.getSymbol());
-			// Bug out if we can't grab the data.
-
-			s = s.substring(s.indexOf('\'') + 1, s.lastIndexOf('\''));
-			// System.out.println(s);
-			String[] lines = s.split("\\|");
+			String[] lines = getSymbolDatafromURL(urlString);
 			getPricesFromText(symbol, prices, lines);
 		}
-		System.out.println("Found: " + symbol.getSymbol());
 
+		log.info("Found: " + symbol.getSymbol());
 		return prices;
 	}
 
@@ -294,10 +234,6 @@ public class SymbolLoader {
 				price.setSymbol(symbol);
 				prices.add(price);
 				session.save(price);
-				// System.out.println("Symbol: " + symbol.getSymbol() +
-				// " - "
-				// + price.getDate() + " : Vol. : "
-				// + price.getVolume());
 			}
 		}
 	}
@@ -336,15 +272,12 @@ public class SymbolLoader {
 				price.setPeriod("Weekly");
 				price.setSymbol(symbol);
 				prices.add(price);
-				// System.out.println("Symbol: " + symbol.getSymbol() + " - "
-				// + price.getDate() + " : Vol. : "
-				// + price.getVolume());
 			}
 		}
 		return prices;
 	}
 
-	public void checkProxyServer() {
+	private void checkProxyServer() {
 		try {
 			if (InetAddress.getLocalHost().getHostAddress().startsWith("10.")) {
 				// log.debug("using proxy");
@@ -411,7 +344,7 @@ public class SymbolLoader {
 		}
 		// writer.close();
 		session.close();
-		System.out.println("Found: " + symbolCode);
+		log.info("Found: " + symbolCode);
 		return data;
 	}
 
@@ -445,26 +378,16 @@ public class SymbolLoader {
 
 	private String getExchangeFileName(Exchange exchange) {
 		switch (exchange) {
-		case AMEX:
-			return "Symbols\\AMEX.txt";
-		case CVE:
-			return "Symbols\\CVE.txt";
 		case FINDEX:
-			return "Symbols\\ForeignIndices.csv";
+			return "Findex.csv";
 		case INDEX:
-			return "Symbols\\Index.txt";
+			return "Index.csv";
 		case LSE:
-			return "Symbols\\LSE.txt";
-		case NASDAQ:
-			return "Symbols\\NASDAQ.txt";
-		case NYSE:
-			return "Symbols\\nyse.txt";
-		case TSX:
-			return "Symbols\\TSX.txt";
+			return "LSE.csv";
 		case FOREX:
-			return "Symbols\\Forex.txt";
+			return "Forex.csv";
 		case FUTURES:
-			return "Symbols\\Futures.txt";
+			return "Futures.csv";
 		}
 		return "";
 	}

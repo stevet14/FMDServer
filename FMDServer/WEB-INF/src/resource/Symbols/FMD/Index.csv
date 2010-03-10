@@ -1,0 +1,818 @@
+NDXE,100 Equal Weighted Index
+@COFI,11th Dist MWA COFI
+@TCMR,1-yr Treas Const Maturity Rate
+@AMB8,A.M. Best's A/P Ins Cmp Idx (AMBAP)
+@AMB7,A.M. Best's Eur Ins Cmp Idx (AMBEUR)
+@AMB6,A.M. Best's Glbl Ins Brkr Idx (AMBGB)
+@AMB1,A.M. Best's Glbl Ins Cmp Idx (AMBG)
+@AMB5,A.M. Best's Glbl Life Ins Idx (AMBGL)
+@AMB3,A.M. Best's Glbl M/L Ins Idx (AMBGML)
+@AMB4,A.M. Best's Glbl N/L Ins Idx (AMBGNL)
+@AMB2,A.M. Best's Glbl Reins Idx (AMBGR)
+@AM14,A.M. Best's US Hlth Ins Idx (AMBUH)
+@AM15,A.M. Best's US Ins Brkr Idx (AMBUB)
+@AMB9,A.M. Best's US Ins Cmp Idx (AMBUS)
+@AM12,A.M. Best's US L/H Ins Idx (AMBULH)
+@AM13,A.M. Best's US Life Ins Idx (AMBUL)
+@AM10,A.M. Best's US M/L Ins Idx (AMBUML)
+@AM11,A.M. Best's US P/C Ins Idx (AMBUPC)
+@AGIE,AGI Europe EUR
+@AGIM,AGI Europe Extra Liquid EUR
+@AEX,AGI Europe Extra Liquid USD
+@AGE,AGI Europe USD
+&AGIN,AGI North America
+@AGIA,AGI North America Extra Liquid EUR
+@ANX,AGI North America Extra Liquid USD
+@AGN,AGI North America USD
+AMZ,Alerian MLP Index
+DFI,AMERICAN - DEFENSE INDEX
+ADR,AMERICAN - INTERNATIONAL MARKET INDEX
+@ADR,American Depository Receipt Index
+XMI,"Amex 20 Stock Index (g,o)"
+ISSA,"Amex Adv,Dec,Unch,Up/Dn Vol (d)"
+XAL,Amex Airline Index
+IXB,Amex Basic Industries Sector Index
+BTK,Amex Biotech Index
+XDH,AMEX BROADBOND HLDRS
+XBD,Amex Broker/Dealer Index
+XAX,Amex Composite Index
+HWI,AMEX COMPUTER HARDWARE INDEX
+XCI,Amex Computer Technology Index (o)
+IXV,Amex Consumer Service Sector Index
+IXR,Amex Consumer Staples Sector Index
+CTN,Amex CSFB Technology Index
+IXY,Amex Cyclical/Transport Sector Index
+@DFII,Amex Defense Index
+DDX,Amex Disk Drive Index
+DRG,Amex Drug Index
+RPE,Amex Electric Power & Natural Gas
+IXE,Amex Energy Sector Index
+@AXES,AMEX ENVIRONMENTAL SERVICE
+DGE,AMEX EQUAL WEIGHTED PHARMACEUTICAL INDEX
+IXM,Amex Financial Sector Index
+HUI,Amex Gold Bugs
+HKX,Amex Hong Kong 30 Index
+HKO,Amex Hong Kong Options Index
+IXI2,Amex Industrial Sector Index
+JPN,Amex Japan Index
+MXY,Amex Mexico Index
+CMR,Amex MS Consumer Index
+HMO,Amex MS Healthcare Payer Index
+RXP,Amex MS Healthcare Products Index
+RXH,Amex MS Healthcare Providers Index
+MSH,Amex MS Hi-Tech 35 Index
+RMZ,Amex MS REIT Index
+XNG,Amex Natural Gas Index
+NWX,Amex Networking Index
+XOI,Amex Oil & Gas Index (o)
+DYL,AMEX PHARM BOXES INDICATIVE VALUE INDEX
+QQV,AMEX QQQ VOLATILITY INDEX
+SIS,AMEX SEMICONDUCTOR IDX
+@STTL,AMEX STEEL INDEX
+IXT,Amex Technology Sector Index
+PHN,AMEX TELECOM INDEX
+XTC,Amex Telecomm Index
+IXU,Amex Utility Sector Index
+@AGG,Ardour Global Index
+@AGIG,Ardour Global Index EUR
+&AGIZ,Ardour Global Index Extra Liquid
+@AGX,Ardour Global Index Extra Liquid
+BUX,B2B INTERNET HOLDRS INDEX
+@BTEM,Bank of NY Emerging Markets 50 ADR
+BTD,BIOTECH BOXES INDICATIVE VALUE INDEX
+IBH,BIOTECH HOLDRS INDEX
+@BKAD,BKADR - BONY ADR Index
+@BKAS,BKAS - BONY Asia ADR Index
+@BKEU,BKEUR - BONY Europe ADR Index
+@BKLA,BKLA - BONY Lat Am ADR Index
+CAL1,CALVIN - DJ CALVERT SOCIAL INDEX
+TNX,CBOE 10-year Yield
+IRX,CBOE 13-week Yield
+TYX,CBOE 30-year Yield
+FVX,CBOE 5-year Yield
+BXM,CBOE BUYWRITE MONTHLY INDEX SM
+@CYX,CBOE China Index
+VXD,CBOE DJIA VOLATILITY INDEX
+GOX,CBOE Gold Index
+INX,CBOE Internet Index
+VXN,CBOE NASDAQ MARKET VOLATILITY INDEX
+VXO,CBOE OEX Market Volatility Index
+OIX,CBOE Oil Index
+VIX,CBOE SPX Market Volatility Index
+TXX,CBOE Technology Index
+TRGSPD,Consumer Discretionary Total Return Inde
+TRGSPS,Consumer Staples TR Index
+DJSAA,DJ 65 Composite Ave Actual (f)
+DJSA,DJ 65 Composite Ave Theoretical (m)
+DJAS,DJ 65 Stock Ave Theoretical (f)
+A1BSC,DJ AMERICAS BASIC MATERIALS INDEX
+A1CYC,DJ AMERICAS CONSUMER CYCLICAL INDEX
+A1NCY,DJ AMERICAS CONSUMER NON-CYCLICAL IN
+A1ENE,DJ AMERICAS ENERGY INDEX
+A1FIN,DJ AMERICAS FINANCIAL INDEX
+A1IDU,DJ AMERICAS INDUSTRIAL INDEX
+A1DOW,DJ AMERICAS STOCK INDEX
+A1TEC,DJ AMERICAS TECHNOLOGY INDEX
+A1UTI,DJ AMERICAS UTILITIES INDEX
+@B400,DJ Barrons 400
+@B40T,DJ Barrons 400 Total Return
+DJUSBM,DJ BASIC MATERIALS
+DJC,DJ COMPOSITE AVERAGE
+DJU12,DJ Composite Internet
+^RCI,DJ COMPOSITE REIT INDEX
+RCIT,DJ COMPOSITE REIT TOTAL RETURN INDEX
+DJCTR,DJ Composite Total Return
+DJREI,DJ EQUITY REIT INDEX
+REIT,DJ EQUITY REIT TOTAL RETURN INDEX
+GDOW,DJ Global Industrial Index
+DJGTE,DJ GLOBAL TITANS 50 - EURO
+DJGT,DJ GLOBAL TITANS INDEX
+MUT,DJ High Yield Sel 10 Index
+DJITR,DJ Indust Total Return
+DJIAA,DJ Industrial Ave Actual (f)
+DJAI,DJ Industrial Ave Theoretical (f)
+DJIA,DJ Industrial Ave Theoretical (m)
+DJCOM,DJ Internet Commerce Index
+DJNET,DJ Internet Composite Index
+DJSVC,DJ Internet Service Index
+DJIM,DJ ISLAMIC MARKET INDEX
+@DJGS,DJ Precious Mtls
+DJUSSC,DJ SEMICONDUCTORS
+DJUSTC,DJ TECHNOLOGY
+DJUSTL,DJ Telecomm
+DJTTR,DJ Trans Total Return
+DJTAA,DJ Transportation Ave Actual (f)
+DJAT,DJ Transportation Ave Theoretical (f)
+DJTA,DJ Transportation Ave Theoretical (m)
+DJCA3,DJ UBS Commodity Index
+DJU1,DJ US Basic Material Index
+@DJ1,DJ US Basic Resources
+@DJ6,DJ US Beverage
+DJU16,DJ US Biotechnology Index
+DJUS,DJ US Broad Market Index
+DJU2,DJ US Consumer Cyclical Index
+DJUSNC,DJ US Consumer Goods
+DJU3,DJ US Consumer Non-Cyclical Index
+DJUSCY,DJ US Consumer Service
+@DJ2,DJ US Cyclical Goods & Svcs
+@DJ7,DJ US Diversified Tech Svcs
+DJU4,DJ US Energy Index
+DJU5,DJ US Financial Index
+@DJ3,DJ US Financial Svcs
+DJUSFN,DJ US Financials
+@DJ8,DJ US Food
+DJUSHC,DJ US HealthCare
+DJU6,DJ US Healthcare Index
+DJUSIN,DJ US Industrial
+@DJ4,DJ US Industrial Goods & Svcs
+DJU7,DJ US Industrial Index
+@DJ14,DJ US Internet Svcs
+DJUSL,DJ US Large-Cap Index
+@DJ5,DJ US Media
+DJUSM,DJ US Mid-Cap Index
+DJUSEN,DJ US Oil & Gas
+@DJ12,DJ US Oil Drilling Eq & Svcs
+DJU15,DJ US Pharmaceuticals Index
+DJU14,DJ US Precious Metals Index
+DJUSRE,DJ US REAL ESTATE
+DJU11,DJ US Real Estate Index
+DJU13,DJ US Semiconductors Index
+DJUSS,DJ US Small-Cap Index
+DJU8,DJ US Technology Index
+DJU9,DJ US Telecommunications Index
+@DJ13,DJ US Transportation Svcs
+DJU10,DJ US Utilities Index
+DJU17,DJ US Wireless Comm Index
+DJUSUT,DJ Utilities
+DJUTR,DJ Utilities Total Return
+DJUAA,DJ Utility Ave Actual (f)
+DJAU,DJ Utility Ave Theoretical (f)
+DJUA,DJ Utility Ave Theoretical (m)
+DJT1,DJTATO - DJ SECTOR TITANS AUTOMOBILES IN
+DJT2,DJTBAK - DJ SECTOR TITANS BANKS INDEX
+DJT3,DJTBAS - DJ SECTOR TITANS BASIC RESOURCE
+DJT4,DJTCGS - DJ SECTOR TITANS CYCLICAL GDS &
+DJT5,DJTCHE - DJ SECTOR TITANS CHEMICALS INDE
+DJT6,DJTCNS - DJ SECTOR TITANS CONSTRUCTION I
+DJT7,DJTENG - DJ SECTOR TITANS ENERGY INDEX
+DJT8,DJTFOB - DJ SECTOR TITANS FOOD & BEVERAG
+DJT9,DJTFVS - DJ SECTOR TITANS FINANCIAL SVCS
+DJT10,DJTHCA - DJ SECTOR TITANS HEALTHCARE IND
+DJT11,DJTIGS - DJ SECTOR TITANS INDUSTRIAL GOO
+DJT12,DJTINN - DJ SECTOR TITANS INSURANCE INDE
+DJT13,DJTMDI - DJ SECTOR TITANS MEDIA INDEX
+DJT14,DJTNCG - DJ SECTOR TITANS NON-CYCLICAL G
+DJT15,DJTRET - DJ SECTOR TITANS RETAIL INDEX
+DJT16,DJTSEC - DJ SECTOR TITANS COMPOSITE
+@DWC,DJTSM US FULL CAP
+DJT17,DJTTEL - DJ SECTOR TITANS TELECOMMUNICAT
+DJT18,DJTTHE - DJ SECTOR TITANS TECHNOLOGY IND
+DJT19,DJTUTS - DJ SECTOR TITANS UTILITIES INDE
+DJU19,DJUSAE - DJ US AEROSPACE INDEX
+DJU20,DJUSAF - DJ US AIR FREIGHT INDEX
+DJU21,DJUSAI - DJ US ADV. INDUSTRIAL EQUIP IND
+DJU22,DJUSAL - DJ US ALUMINUM INDEX
+DJU23,DJUSAM - DJ US ADV. MEDICAL DEVICES INDE
+DJU24,DJUSAP - DJ US AUTO MANUFACTURERS & PART
+DJU25,DJUSAR - DJ US AIRLINES INDEX
+DJU26,DJUSAT - DJ US AUTO PARTS INDEX
+DJU27,DJUSAU - DJ US AUTOMOBILES INDEX
+DJU28,DJUSAV - DJ US ADVERTISING INDEX
+DJU29,DJUSBC - DJ US BROADCASTING INDEX
+DJU30,DJUSBD - DJ U.S. BUILDING MATERIALS INDE
+DJU31,DJUSBK - DJ U.S. BANKS INDEX
+DJU32,DJUSCA - DJ US CASINOS INDEX
+DJU33,DJUSCC -  DJ US Chemicals Commodity Inde
+DJU34,DJUSCE - DJ US CONSUMER ELECTRONICS INDE
+DJU35,DJUSCF - DJ US CLOTHING/FABRICS INDEX
+DJU36,DJUSCH - DJ US CHEMICALS INDEX
+DJU37,DJUSCL - DJ US COAL INDEX
+DJU38,DJUSCM - DJ US COSMETICS INDEX
+DJU39,DJUSCN - DJ US US CONSTRUCTION & MATERIA
+DJU40,DJUSCP - DJ US CONTAINERS & PACKAGING IN
+DJU41,DJUSCR - DJ US COMPUTERS INDEX
+DJU42,DJUSCS - DJ US CONSUMER SERVICES
+DJU43,DJUSCT - DJ US COMMUNICATIONS TECHNOLOGY
+DJU44,DJUSCX - DJ US Chemicals Specialty Index
+DJU45,DJUSDB - DJ US DISTILLER & BREWERS INDEX
+DJU47,DJUSEC - DJ US ELECTRIC COMPONENTS & EQU
+DJU50,DJUSEU - DJ US ELECTIC UTILITIES INDEX
+DJU51,DJUSFB - DJ US FOOD & BEVERAGE INDEX
+DJU52,DJUSFC - DJ US FIXED LINE COMMUNICATIONS
+DJU53,DJUSFD - DJ US FOOD RETAILERS & WHOLESAL
+DJU54,DJUSFE - DJ US FACTORY EQUIPMENT INDEX
+DJU55,DJUSFH - DJ US FURNISHINGS INDEX
+DJU56,DJUSFP - DJ US FOOD PRODUCTS INDEX
+DJU57,DJUSFR - DJ US FOREST PRODUCTS & PAPER I
+DJU59,DJUSFT - DJ US FOOTWEAR INDEX
+DJU60,DJUSGL - DJ US LARGE-CAP GROWTH INDEX
+DJU61,DJUSGM - DJ US MID-CAP GROWTH INDEX
+DJU62,DJUSGS - DJ US SMALL-CAP GROWTH INDEX
+DJU63,DJUSGU - DJ US GAS UTILITIES INDEX
+DJU64,DJUSHB - DJ US HOME CONSTRUCTION INDEX
+DJU65,DJUSHD - DJ US HOUSEWARES DURABLES INDEX
+DJU67,DJUSHN - DJ US HOUSEWARES PRODUCTS NON-D
+DJU69,DJUSHP - DJ US HEALTHCARE PROVIDERS INDE
+DJU70,DJUSHR - DJ US HEAVY MACHINERY INDEX
+DJU71,DJUSHV - DJ US HEAVY CONSTRUCTION INDEX
+DJU72,DJUSID - DJ US Ind Diversified Index
+DJU74,DJUSIF - DJ US INSURANCE FULL LINE
+DJU75,DJUSIL - DJ US INSURANCE LIFE INDEX
+DJU76,DJUSIP - DJ US INSURANCE PROPERTY & CASU
+DJU77,DJUSIR - DJ US INSURANCE INDEX
+DJU78,DJUSIS - DJ US GENERAL INDUSTRIAL SERVIC
+DJU79,DJUSIT - DJ US INDUSTRIAL TRANSPORTATION
+DJU80,DJUSIV - DJ US INDUSTRIAL SERVICES INDEX
+DJU81,DJUSLG - DJ US LODGING INDEX
+DJU83,DJUSLW - DJ U.S. LOW CAP INDEX
+DJU87,DJUSMS - DJ US MEDICAL SUPPLIES INDEX
+DJU88,DJUSMT - DJ US MARINE TRANSPORT INDEX
+DJU89,DJUSNF - DJ US NON-FERROUS (ex ALUMINUM)
+DJU91,DJUSOE - DJ US OFFICE EQUIPMENT INDEX
+DJU93,DJUSOL - DJ US OIL COMPANIES MAJOR INDEX
+DJU95,DJUSOS - DJ US Oil Cp Secondary Idx
+DJU96,DJUSPB - DJ US PUBLISHING INDEX
+DJU97,DJUSPC - DJ US POLLUTION CONTROL INDEX
+DJU99,DJUSPL - DJ U.S. PIPELINES INDEX
+DJV1,DJUSPP - DJ US PAPER PRODUCTS INDEX
+DJV2,DJUSRA - DJ US Retailers Apparel Index
+DJV3,DJUSRB - DJ US Retailers Broadline Index
+DJV4,DJUSRD - DJ US Retailers Drug-based Inde
+DJV30,DJUSRE - DJ US Real Estate Index
+DJV5,DJUSRP - DJ US RECREATIONAL PRODUCTS & S
+DJV6,DJUSRR - DJ US RAILROADS INDEX
+DJV7,DJUSRS - DJ US Retailers Specialty Index
+DJV8,DJUSRT - DJ US RETAILERS INDEX
+DJV9,DJUSRU - DJ US RESTAURANTS INDEX
+DJV10,DJUSSB - DJ Investment Services
+DJV31,DJUSSC - Dow Jones U.S. Semiconductors I
+DJV11,DJUSSD - DJ US SOFT DRINKS INDEX
+DJV15,DJUSST - DJ US STEEL INDEX
+DJV16,DJUSSW - DJ US Software Index
+DJV18,DJUSTB - DJ US TOBACCO INDEX
+DJV21,DJUSTK - DJ US TRUCKING INDEX
+DJV22,DJUSTP - DOW JONES U.S. TOP CAP INDEX
+DJV23,DJUSTR - DJ US TIRES INDEX
+DJV25,DJUSTY - DJ US TOYS INDEX
+DJV26,DJUSVL - DJ US LARGE-CAP VALUE INDEX
+DJV27,DJUSVM - DJ US MID-CAP VALUE INDEX
+DJV28,DJUSVS - DJ US SMALL-CAP VALUE INDEX
+DJV29,DJUSWU - DJ US WATER UTILITIES INDEX
+@GU14,Dow 10 Price Return
+@GU13,Dow 10 Total Return
+@GU11,Dow 5 Price Return
+@GU12,Dow 5 Total Return
+DJCA,Dow Jones Commodity Ave (a)
+DJCI,Dow Jones Corporate Bond Index
+^DWCOGS,Dow Jones Wilshire U.S. Oil & Gas Index
+^DWMI,DOW JONES WILSHIRE US MICRO CAP
+ILH,Dynamic Large Cap Growth Intellidex
+ILW,Dynamic Large Cap Value Intellidex
+DYI,DYNAMIC MARKET INTELLIDEX INDEX
+ILJ,Dynamic Mid Cap Growth Intellidex
+ILP,Dynamic Mid Cap Value Intellidex
+DYO,DYNAMIC OTC INTELLIDEX INDEX
+ILK,Dynamic Small Cap Growth Intellidex
+ILZ,Dynamic Small Cap Value Intellidex
+TRGSPE,Energy TR Index
+EKI,EUROPE 2001 HOLDERS INDEX
+TRGSPF,Finance TR Index
+@GT94,GDPDIST S&P Distributors
+GDM,Gold Miners Index
+@GSCI,Goldman Sachs Commodity Index
+@GSBZ,GSCI Brent Excess Return
+@GSCZ,GSCI Excess Return Index
+@GSGZ,GSCI Gasoil Excess Return
+@GGDZ,GSCI Gold Excess Return
+@GSHZ,GSCI HO Excess Return
+@GYX,GSCI Industrial Metal Index
+@GTX,GSCI Total Return Index
+@GSWZ,GSCI WTI Excess Return
+@GT16,GSPA - S&P Health Care Sector
+@GS52,GSPAC - S&P Air Freight & Couriers
+@GS30,GSPAED - S&P Aerospace & Defense
+@GS25,GSPAFP - S&P Paper & Forest Products
+@GS54,GSPALI - S&P Airlines
+@GS21,GSPALUM - S&P Aluminium
+@GU3,GSPAMCB - S&P SI Asset Mgmt&Custody Bnks
+@GS70,GSPAPPL - S&P Household Appliances
+@GS59,GSPAU - S&P Automobiles & Components
+@GS60,GSPAUC - S&P Auto Components
+@GS64,GSPAUTM - S&P Automobile Manufacturers
+@GS63,GSPAUTO - S&P Automobiles
+@GS61,GSPAUTP - S&P Auto Parts & Equip
+@GT89,GSPAUTR - S&P Automotive Retail
+@GT4,GSPBEVA - S&P Beverages (Alcohol)
+@GT6,GSPBEVS - S&P Beverages (Non-Alco)
+@GT26,GSPBIOT - S&P Biotechnology
+@GT30,GSPBK - S&P Banks
+@GT78,GSPBKS - S&P Ind Commercial Banks
+@GT8,GSPBMAG - S&P Agricultural Products
+@GT98,GSPBNKS - S&P SI Regional Banks
+@GS31,GSPBUI - S&P Building Products
+@GS32,GSPBULD - S&P Building Materials
+@GT3,GSPBVGS - S&P Beverages
+@GT28,GSPCARD - S&P Health Care (Drugs- Major
+@GT97,GSPCARE - S&P SI Health Care Svcs
+@GT27,GSPCARG - S&P Health Care (Drugs-Generic
+@GS83,GSPCCAM - S&P Services (Advertising/Mark
+@GS93,GSPCCCE - S&P Retail (Computers & Electr
+@GS79,"GSPCCGL - S&P Gaming, Lottery & Parimutu"
+@GS95,GSPCCRS - S&P Retail (Specialty)
+@GS16,GSPCEMT - S&P Construct (Cement & Aggreg
+@GT81,GSPCFI - S&P Ind Consumer Finance
+@GT85,GSPCHFA - S&P SI Fertilizers&Agri Chem
+@GT82,GSPCMK - S&P Ind Capital Markets
+@GT48,GSPCMSF - S&P Computers (Software&Svc)
+@GT51,GSPCOEQ - S&P Communications Equipment
+@GS15,GSPCOM - S&P Construction Materials
+@GT53,GSPCOMM - S&P Communications Equip
+@GT55,GSPCOMP - S&P Computers (Hardware)
+@GT15,GSPCOMS - S&P Personal Care
+@GS18,GSPCONM - S&P Containers (Metl&Glas)
+@GS19,GSPCONP - S&P Contain & Pack (paper)
+@GS34,GSPCONT - S&P Engineer & Construct
+@GS17,GSPCOP - S&P Containers & Packaging
+@GT54,GSPCOPE - S&P Computers & Peripherals
+@GS43,GSPCS - S&P Communications Services
+@GT67,GSPCSCP - S&P Telecommunications (Cellul
+@GS33,GSPCSE - S&P Construction & Engineering
+@GS44,GSPCSS - S&P Commercial Services & Suppl
+@GS58,GSPD - S&P Consumer Discretionary
+@GT93,GSPDCS S&P Diver Consumer Services
+@GT32,GSPDF - S&P Diversified Financials
+@GT80,GSPDIFN - S&P Ind Divers Fincl Svcs
+@GT5,GSPDSVN - S&P Distillers & Vintners
+@GT64,GSPDTES - S&P Diversified Telecommunicat
+@GT76,GSPDVFS S&P Div Finan
+@GS1,GSPE - S&P Energy
+@GT92,GSPEDUS S&P Education Services
+@GU9,GSPEEIS - S&P SI Elect Equip Manu
+@GT87,GSPELCE - S&P SI Elect. Comp. & Equip
+@GT59,GSPELCI - S&P Electronics (Instrument)
+@GT62,GSPELCS - S&P Electronics (Semicond)
+@GT70,GSPELEC - S&P Electric Companies
+@GT57,GSPELEQ - S&P Electronic Equipment & Ins
+@GU10,GSPELMS - S&P SI Elect Manu Svcs
+@GS35,GSPELQ - S&P Electrical Equipment
+@GT69,GSPELUT - S&P Electric Utilities
+@GS2,GSPEN - S&P Energy Sector
+@GS9,GSPENRM - S&P Oil & Gas (Refining & Mark
+@GS3,GSPENS - S&P Energy Equipment & Services
+@GS85,GSPENTE - S&P Entertainment
+@GU8,GSPENTS - S&P SI Home Ent. S/W
+@GS98,GSPETR - S&P Retail (Drug Stores)
+@GT29,GSPF - S&P FINANCIAL
+@GT2,GSPFBT - S&P Food Beverage & Tobacco
+@GS97,GSPFD - S&P Food & Drug Retailing
+@GT7,GSPFDPR - S&P Food Products
+@GS99,GSPFODW - S&P Distributors (Food & Healt
+@GT9,GSPFOOD - S&P Foods
+@GS26,GSPFRPD - S&P Forest Products
+@GS68,GSPFURN - S&P Household Furn. & Applianc
+@GT71,GSPGAUT - S&P Gas Utilities
+@GS23,GSPGOLD - S&P Gold & Precious Metals Min
+@GT17,GSPHC - S&P Health Care Equipment & Serv
+@GT18,GSPHCEQ - S&P Health Care Equipment & Su
+@GT23,GSPHCLT - S&P Health Care (Long Term Car
+@GT21,GSPHCPS - S&P Health Care Providers & Se
+@GT22,GSPHCSS - S&P Health Care (Specialized S
+@GS67,GSPHHD - S&P Household Durables
+@GT11,GSPHHPE - S&P Household & Personal Produ
+@GT24,GSPHMO - S&P Managed Health Care
+@GT91,GSPHMRT S&P Homefurnishing Retail
+@GS69,GSPHOME - S&P Homebuilding
+@GT12,GSPHOPR - S&P Household Products
+@GS80,GSPHOTL - S&P Lodging-Hotels
+@GS78,GSPHR - S&P Hotels Restaurants & Leisure
+@GS71,GSPHWAR - S&P Housewares
+@GT96,GSPHYSC - S&P SI Hypermkts & Super Cntrs
+@GS28,GSPI - S&P Industrials
+@GS29,GSPIC - S&P Capital Goods
+@GS36,GSPICON - S&P Industrial Conglomerates
+@GS40,GSPINDM - S&P Industrial Machinery
+@GT39,GSPINPC - S&P Insurance (Property-Casual
+@GT77,GSPINR - S&P Ind Internet & Cat Retail
+@GT95,GSPINRT - S&P SI Internet Retail
+@GT35,GSPINSC - S&P Insurance
+@GT38,GSPINSM - S&P Insurance (Multi-Line)
+@GU7,GSPINSS - S&P SI Internet S/W & Svcs
+@GT36,GSPINSU - S&P Insurance Brokers
+@GT44,GSPINTS - S&P Internet Software & Servic
+@GU4,GSPINVB - S&P SI Inv Banking & Brokerage
+@GT43,GSPIS - S&P Software & Services
+@GT45,GSPITCS - S&P IT Consulting & Services
+@GT63,GSPL - S&P Telecommunication Services
+@GS72,GSPLEP - S&P Leisure Equipment & Product
+@GT37,GSPLIFE - S&P Insurance (Life/Health)
+@GS66,GSPLP - S&P Consumer Durables & Apparel
+@GS10,GSPM - S&P Materials
+@GS38,GSPMAC - S&P Machinery
+@GS37,GSPMAND - S&P Manufacturing (Diversified
+@GS39,GSPMCHD - S&P Machinery (Diversified)
+@GS82,GSPME - S&P Media
+@GT19,GSPMED - S&P Health Care (Medical Produc
+@GS84,"GSPMEDA - S&P Broadcasting (TV,Rad,M"
+@GS22,GSPMETL - S&P Metals Mining
+@GS65,GSPMOTR - S&P Motorcycle Manufacturers
+@GS87,GSPMS - S&P Retailing
+@GS20,GSPMTM - S&P Metals & Mining
+@GS88,GSPMULR - S&P Multiline Retail
+@GT73,GSPMUUT - S&P Multi-Utilities
+@GT72,GSPNGAS - S&P Natural Gas
+@GT58,GSPOFEL - S&P Office Electronics
+@GS50,GSPOFFS - S&P Office Equipment & Supplie
+@GS6,GSPOIG - S&P Oil & Gas
+@GS4,GSPOILD - S&P Oil (Domestic Integrated)
+@GS7,GSPOILI - S&P Oil (International Integra
+@GS8,GSPOILP - S&P Oil & Gas (Exploration & P
+@GT88,GSPOILS - S&P Oil and Gas Storage and Tr
+@GS5,GSPOILW - S&P Oil & Gas (Drilling & Equi
+@GS27,GSPPAPR - S&P Paper & Forest Products
+@GT14,GSPPEPR - S&P Personal Products
+@GT33,GSPPERS - S&P Consumer Finance
+@GT25,GSPPHB - S&P Pharmaceuticals & Biotechno
+@GS11,GSPPM - S&P Chemicals Composite
+@GT74,GSPPPIN - S&P Power Producers (Independe
+@GS45,GSPPRNT - S&P Specialty Printing
+@GT13,GSPPROD - S&P Household Products (Non-Du
+@GS49,GSPPROP - S&P Waste Management
+@GS86,GSPPUBL - S&P Publishing
+@GS56,GSPRAIL - S&P Railroads
+@GS55,GSPRAR - S&P Road & Rail
+@GT31,GSPRBNK - S&P Banks (Major Regional)
+@GT40,GSPREC - S&P Real Estate
+@GT41,GSPREITS - S&P Real Estate Investment Tr
+@GS81,GSPREST - S&P Restaurants
+@GS92,GSPRETA - S&P Retail (Specialty-Apparel)
+@GS89,GSPRETD - S&P Retail (Department Stores)
+@GT1,GSPRETF - S&P Retail (Food Chains)
+@GS90,GSPRETM - S&P Retail (General Merchandis
+@GS94,GSPRETS - S&P Retail (Building Supplies)
+@GS96,GSPS - S&P Consumer Staples
+@GT90,GSPSCSV S&P Spec Consumer Service
+@GS57,GSPSE - S&P IG Semiconductors & Equip.
+@GT60,GSPSEQP - S&P Semiconductor Equipment &
+@GS77,GSPSHOE - S&P Footwear
+@GS74,GSPSHOT - S&P Photography/Imaging
+@GT47,GSPSOFW - S&P Software
+@GU2,GSPSPFI - S&P SI Spec Finance
+@GS91,GSPSPR - S&P Specialty Retail
+@GS24,GSPSTEEL - S&P Iron & Steel
+@GT49,GSPSYSF - S&P Systems Software
+@GT42,GSPT - S&P Information Technology
+@GT50,GSPTEHW - S&P Technology Hardware & Equi
+@GT65,GSPTELP - S&P Telephone
+@GS75,GSPTEX - S&P Textiles & Apparel
+@GS76,GSPTEXT - S&P Textiles (Apparel)
+@GS62,GSPTIRE - S&P Tires & Rubber
+@GS42,GSPTKCD - S&P Electronics (Compo Distrib
+@GT46,GSPTKCS - S&P Services (Computer Systems
+@GS46,GSPTKDP - S&P Services (Data Processing)
+@GT56,GSPTKPR - S&P Computers (Peripherals)
+@GT61,GSPTKSM - S&P Equipment (Semicond)
+@GT79,GSPTMF - S&P Ind Thrifts & Mort Finance
+@GT99,GSPTMFN - S&P SI Thrifts&Mort Finance
+@GT10,GSPTOBA - S&P Tobacco
+@GS73,GSPTOYS - S&P Leisure Time (Products)
+@GS41,GSPTRA - S&P Trading Companies & Distrib
+@GS51,GSPTRN - S&P Transportation
+@GS53,GSPTRNM - S&P Air Freight
+@GT68,GSPU - S&P UTILITIES
+@GT66,GSPWTES - S&P Wireless Telecommunication
+TRGSPA,Health Care Total Return Index
+^IMEC,ICE Middle East Sour Crude Markers
+TRGSPI,Industrials TR Index
+TRGSPT,Information Technology TR Index
+XII,Institutional Index (o)
+IIX,Inter@ctive Internet Index
+HHI,INTERNET AND HOLDRS INDEX
+XAH,INTERNET ARCHITECT INDEX
+YIH,INTERNET INFRASTRUCT INDEX
+IXZ,ISE 250
+RND,ISE Bio-Pharmaceuticals
+HSX,ISE CCM Homeland Security
+HVY,ISE Gold
+RUF,ISE Homebuilders
+OOG,ISE Oil and Gas Services
+BYT,ISE Semiconductors
+SIN,ISE SINdex
+JLO,ISE U.S. Regional Banks
+TNY,ISE-CCM Nanotechnology Index
+RDG,ISHARES TR RUSSELL MID CAP GROWTH INDEX
+RMC,ISHARES TR RUSSELL MID CAP INDEX
+RMV,ISHARES TR RUSSELL MID CAP VALUE INDEX
+KSX,KBW Capital Markets Index
+KIX,KBW INSURANCE INDEX
+MFX,KBW Mortgage Finance Index
+KRX,KBW Regional Banking Index
+XKH,MARKET 2000 + HLDRS INDEX
+TRGSPM,Materials TR Index
+MLO,MERRILL LYNCH TECHNOLOGY 100 INDEX
+MNX,"Mini Nasdaq 100 Index (n,q)"
+RMN,Mini Russell 2000
+EUX,ML & Co Major II Intl Index
+MOX,MORGAN STAN INTERNET IDX
+CYC,Morgan Stanley Cyclical Index
+CRX,MS Commodity Related Equity Index
+NFT,MS Multi-National Company Index
+IXBK,Nasd Banks Index
+IXBT,Nasd Biotech Index
+IXK,Nasd Computer Index
+IXF,Nasd Financial Index
+IXID,Nasd Industrial Index
+IXIS,Nasd Insurance Index
+IXFN,Nasd Other Financial Index
+IXTC,Nasd Telecommunications Index
+IXTR,Nasd Transportation Index
+&TRIQ,Nasd TRIN
+NDXX,NASDAQ 100 Ex Tech Sector Index
+NDX,"Nasdaq 100 Index (n,q)"
+NDXT,NASDAQ 100 Technology sector Index
+NQHL,"Nasdaq Adv,Dec,Unch,New Hi/Lo"
+NASD,"Nasdaq Adv,Dec,Unch,Up/Dn Vol (d)"
+COMP,"Nasdaq Composite Index (n,q)"
+COMPZ,"Nasdaq Composite Index /10 (n,q)"
+QCX,NASDAQ Composite Ix Full-Size Cntrt OP
+QCE,NASDAQ Composite Ix Mini Cntrt
+DIVQ,NASDAQ Dividend Achievers Index
+DVQT,NASDAQ Dividend Achievers TR Index
+NQGM,NASDAQ Global Market Composite Index
+NQGS,NASDAQ Global Select Market Composite In
+DTEC,NASDAQ Greater Dallas Chamber Index
+IXHC,NASDAQ Healthcare Index
+@QNET,NASDAQ INTERNET INDEX
+NETR,NASDAQ-100 Equal Weighted TR Index
+NXTR,NASDAQ-100 Ex-Tech Sector TR Index
+NTTR,NASDAQ-100 Technology Sector TR Index
+NQUD,"NMS Adv, Dec, Unch, UpVol, DnVol"
+MKST,NYSE - New Hi And Low (c)
+NYA,NYSE Composite Index
+NYEID,NYSE Energy
+NYKID,NYSE Financial
+NYPID,NYSE Health Care
+NYIID,NYSE Intl 100 Index
+UVDV,"NYSE Sum-Up-Down-Unch,Up/Dn Vol (d)"
+NYYID,NYSE TMT Index
+NYID,NYSE US 100 Index
+NYLID,NYSE World Leaders Index
+@PSE,Pacific Technology Index (l)
+DFX,PHILADELPHIA DEFENSE INDEX
+BKX,Phlx Banking Index (p)
+RXS,PHLX DRUG INDEX
+XEX,PHLX Europe Sector
+XAU,Phlx Gold & Silver Index (p)
+HGX,PHLX Housing Sector
+OSX,Phlx Oil Services Index
+SOX,Phlx Semiconductor Index
+UTY,Phlx Utility Index
+FZM,PowerShares Dynamic Market Portfolio IIV
+FZO,PowerShares Dynamic OTC Portfolio IIV
+@CR,RJ/CRB Index
+^RCT,Rogers Commodity Index
+RLG,RUSSELL 1000 GROWTH
+RUI,Russell 1000 Index
+RLV,RUSSELL 1000 VALUE
+RUO,RUSSELL 2000 GROWTH INDEX
+RUT,Russell 2000 Index
+RUJ,RUSSELL 2000 VALUE INDEX
+RAG,RUSSELL 3000 GROWTH INDEX
+RUA,Russell 3000 Index
+RAV,RUSSELL 3000 VALUE INDEX
+@AAE,S&P  Custom/ABN AMRO Renewable
+OEX,"S&P 100 Index (OEX) (j,m)"
+TRGSPO,S&P 100 Total Return Index
+SPK,S&P 1000 Mid-Small Cap
+SPGL1,S&P 1200 Global
+SPSUP,S&P 1500 Supercomposite
+TR15GSPC,S&P 1500 TR Index
+SPCG,S&P 1500/CG Growth
+SPCGTR,S&P 1500/CG Growth TR
+SPCPG,S&P 1500/CG Pure Growth
+SPCPGTR,S&P 1500/CG Pure Growth TR
+SPCPV,S&P 1500/CG Pure Value
+SPCPVTR,S&P 1500/CG Pure Value TR
+SPCV,S&P 1500/CG Value
+SPCVTR,S&P 1500/CG Value TR
+MGD,S&P 400 Midcap Growth Index
+MID,S&P 400 Mid-Cap Index
+MUV,S&P 400 Midcap Value Index
+TRGSPC,S&P 400 TR Index
+SPMG,S&P 400/CG Growth
+SPMGTR,S&P 400/CG Growth TR
+SPMPG,S&P 400/CG Pure Growth
+SPMPGTR,S&P 400/CG Pure Growth TR
+SPMPV,S&P 400/CG Pure Value
+SPMPVTR,S&P 400/CG Pure Value TR
+SPMV,S&P 400/CG Value
+SPMVTR,S&P 400/CG Value TR
+SPXEW,S&P 500 Equal Weight Index
+SPXEWTR,S&P 500 Equal Weight TR
+SGX,S&P 500 Growth Index
+SPX,"S&P 500 Index (m,r)"
+SPXZ,S&P 500 Index/10
+SPXOS,S&P 500 O-Strip
+@GU6,S&P 500 Total Return
+SPIV,S&P 500 Value Index
+SPXG,S&P 500/CG Growth
+SPXGTR,S&P 500/CG Growth TR
+SPXPG,S&P 500/CG Pure Growth
+SPXPGTR,S&P 500/CG Pure Growth TR
+SPXPV,S&P 500/CG Pure Value
+SPXPVTR,S&P 500/CG Pure Value TR
+SPXV,S&P 500/CG Value
+SPXVTR,S&P 500/CG Value TR
+SML,S&P 600 Small Cap Index
+CKG,S&P 600 Smallcap Growth Index
+CVK,S&P 600 Smallcap Value Index
+TR6GSPC,S&P 600 TR Index
+SPSG,S&P 600/CG Growth
+SPSGTR,S&P 600/CG Growth TR
+SPSPG,S&P 600/CG Pure Growth
+SPSPGTR,S&P 600/CG Pure Growth TR
+SPSPV,S&P 600/CG Pure Value
+SPSPVTR,S&P 600/CG Pure Value TR
+SPSVTR,S&P 600/CG Value TR
+@SPY,S&P 900 Index
+BIX,S&P Bank Index
+SVX,S&P Barra Value Index
+@SBR,S&P BRIC 40
+@SBE,S&P BRIC 40 EURO
+@GS12,S&P Chemicals (Diverse)
+@GS14,S&P Chemicals (Special)
+CEX,S&P CHEMICALS INDEX
+GSPCOAL,S&P Coal and Consumable Fuel
+SPCMI,S&P Completion Index
+@GT75,S&P Composite - Utilities
+@AAI,S&P Custom/ABN AMRO India
+@AAW,S&P Custom/ABN AMRO Total
+@AAM,S&P Custom/AMRO Metal & Mining
+GSPREID,S&P Diversified REITS
+@SGD,S&P Global 1200 Consumer Discretionary I
+@SGS,S&P Global 1200 Consumer Staples Index
+@SGE,S&P GLOBAL 1200 Energy Sector
+@SGF,S&P GLOBAL 1200 Financial Sector
+@SGH,S&P GLOBAL 1200 Health Care Sector
+@SGN,S&P Global 1200 Industrials Index
+@SGI,S&P GLOBAL 1200 Info Tech Sector
+@SGM,S&P Global 1200 Materials Index
+@SGT,S&P GLOBAL 1200 Telecom Sector
+@SGU,S&P Global 1200 Utilities Index
+GTC,S&P GSTI Composite Index
+GHA,S&P GSTI Hardware Index
+GIN,S&P GSTI Internet Index
+GIP,S&P GSTI Networking Index
+&GSM,S&P GSTI Semiconductor Index
+GSV,S&P GSTI Services Index
+GSO,S&P GSTI Software Index
+GSPHCT,S&P Health Care Technology
+HCX,S&P HEALTHCARE INDEX
+@SPI,S&P Indust Comp
+@GS13,S&P Industrial Gases
+GSPREII,S&P Industrial REITS
+IUX,S&P INSURANCE INDEX
+GSPLSCI,S&P Life Science Tools & Services
+GSPREIO,S&P Office REITS
+GSPREMG,S&P Real Estate Management & Development
+GSPREIR,S&P Residential REITS
+RLX,S&P Retail Index
+GSPRER,S&P Retail REITS
+GSPRESP,S&P Specialized REITS
+&SPTM,S&P Total Market Index
+^TS02,S&P TSX Automobiles and Components
+^TS03,S&P TSX Banks
+^TS05,S&P TSX Broadcast & Cable TV
+^TS06,S&P TSX Capital Goods
+^TS07,S&P TSX Chemicals
+^TS08,S&P TSX Communication Service Suppliers
+^TS10,S&P TSX Consumer Durables & Apparels
+^TS11,S&P TSX Containers & Packaging
+^TS12,S&P TSX Diversified Financials
+^TS13,S&P TSX Diversified Metals Mining
+^TS14,S&P TSX Electric Utilities
+^TS15,S&P TSX Energy Equipment Services
+^TS16,S&P TSX Food and Staple Retailers
+^TS17,S&P TSX Food Beverage Tobacco
+^TS18,S&P TSX Food Products
+^TS19,S&P TSX Gold
+^TS20,S&P TSX Health Care Equipment & Services
+^TS21,"S&P TSX Hotels, Restaurants & Leisure"
+^TS22,S&P TSX Insurance
+^TS23,S&P TSX Integrated Oil and Gas
+^TS24,S&P TSX Media
+^TS25,S&P TSX Metals and Mining
+^TS27,S&P TSX Multiline Retailers
+^TS28,S&P TSX Multi-Utilities
+^TS29,S&P TSX Oil and Gas
+^TS30,S&P TSX Paper and Forest Products
+^TS31,S&P TSX Pharmaceuticals and Biotech
+^TS32,S&P TSX Precious Metals and Mining
+^TS33,S&P TSX Publishing
+^TS34,S&P TSX Real Estate
+^TS35,S&P TSX Retailing
+^TS37,S&P TSX Software and Services
+^TS38,S&P TSX Specialty Retailers
+^TS39,S&P TSX Steel
+^TS42,S&P TSX Transports
+^CDNX,S&P/TSE CDNX Composite
+^TXSC,S&P/TSX 60 COMPOSITE
+^TXTC,S&P/TSX CAPPED COMPOSITE
+^TTCD,S&P/TSX CDN CONS DISCRET
+^TTCS,S&P/TSX CDN CONS STAPLES
+^TTMN,S&P/TSX CDN DV MET & MNG
+^TTHC,S&P/TSX CDN HEALTH CARE
+^TTIN,S&P/TSX CDN INDUSTRIALS
+^TTMT,S&P/TSX CDN MATERIALS
+^TTRE,S&P/TSX CDN REAL ESTATE
+^TTTS,S&P/TSX CDN TELECOM SVCS
+^TTUT,S&P/TSX CDN UTILITIES
+TCMP,S&P/TSX Composite Index
+^SBRIN,Sabrient Insider Index
+^SBRST,Sabrient Stealth Index
+XSH,SEMICONDUCTOR HLDG INDEX
+^TRIN,Short-Term Trading Index
+SCP,SIG Coal Producers Index
+EPX,SIG Oil Production & Exploration Index
+NYAC,Six Most Active Stocks
+DXS,Spade Defense Index
+SXV,SPDR Underlying
+TRGSPL,Telecommunications TR Index
+@TICA,Tick Amex
+@TICQ,Tick Nasdaq
+@TICN,Tick NYSE
+TRGSPTRN,Transports TR Index
+^TXLX,TSE S&P 60 Index
+^TTEN,TSE S&P Energy Index
+^TTFS,TSE S&P Financials Index
+^TTGD,TSE S&P Gold Index
+^TTTK,TSE S&P Information Tech Index
+USLX,US 60 Stock Index
+@DXY,US DOLLAR INDEX
+TRGSPU,Utilities TR Index
+VAY,Value Line Arithmetic Index
+VLIC,Value Line Geometric Index (p)
+@WSDP,Wachovia ELCD 153
+ECO,WILDERHILL CLEAN ENERGY IND
+NEX,WilderHill New Energy Global Innovation
+@WBHT,William Blair Health Care IT
+^DCWPF,Wilshire 4500
+^W450,Wilshire 4500 Completion Index
+^WIL5,Wilshire 5000 Index
+^W5000,WILSHIRE 5000 TMI FULL CAP
+^W5000FLT,Wilshire 5000 Total Market Index
+^WXRESI,Wilshire exUS Real Estate Securities In
+^WXREIT,Wilshire exUS REIT Index
+^WGRESI,Wilshire Global Real Estate Securities I
+^WGREIT,Wilshire Global REIT Index
+^W5KLCG,Wilshire US Large-Cap Growth Index
+^W5KL,Wilshire US Large-Cap Index
+^W5KLCV,Wilshire US Large-Cap Value Index
+^W5KMICRO,Wilshire US Micro-Cap Index
+^W5KMCG,Wilshire US Mid-Cap Growth Index
+^W5KM,Wilshire US Mid-Cap Index
+^W5KMCV,Wilshire US Mid-Cap Value Index
+^WILRESI,Wilshire US Real Estate Securities Index
+^WILREIT,Wilshire US REIT Index
+^W5KSCG,Wilshire US Small-Cap Growth Index
+^W5KS,Wilshire US Small-Cap Index
+^W5KSCV,Wilshire US Small-Cap Value Index
