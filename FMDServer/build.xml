@@ -1,4 +1,4 @@
-<project name="FMDServer" basedir="." default="archive">
+<project name="FMDServer" basedir="." default="package">
 
 	<property name="WEB-INF" value="${basedir}/WEB-INF" />
 	<property name="OUT" value="${basedir}/out" />
@@ -24,6 +24,7 @@
 	<target name="archive" depends="init" >
 		<copy todir="${TEMP}" includeemptydirs="false">
 			<fileset dir="${WEB-INF}/src" excludes="hibernate.cfg.xml,**/*.java,**/*.groovy" />
+			<fileset dir="${WEB-INF}/classes" includes="**/*.class" />
 		</copy>
 		<copy file="${basedir}/hibernate.cfg.xml" todir="${TEMP}"/>
 		<delete dir="${OUT}" />
@@ -32,6 +33,10 @@
 			<classes dir="${TEMP}" />
 			<lib dir="${WEB-INF}/lib" excludes="servlet-api*.jar,*.src.jar" />
 		</war>
+	</target>
+
+	<target name="package">
+		<delete dir="${TEMP}" />
 	</target>
 
 </project>
