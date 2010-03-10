@@ -24,5 +24,6 @@
 	<classpathentry kind="lib" path="WEB-INF/lib/c3p0-0.9.1.jar"/>
 	<classpathentry kind="lib" path="WEB-INF/lib/quartz-1.7.3.jar"/>
 	<classpathentry kind="lib" path="WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/yapi.jar"/>
 	<classpathentry kind="output" path="WEB-INF/classes"/>
 </classpath>
