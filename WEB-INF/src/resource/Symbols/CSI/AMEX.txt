@@ -6,12 +6,10 @@ American Stock Exchange
 Aberdeen Asia                                                  FAX            5820    19880210
 Aberdeen Australia Equity Fund Inc                             IAF            5822    19880225
 Aberdeen Global                                                FCO            6558    19920312
-Ableauctions.com Inc                                           AAC           33857    19990823
 Accelr8 Technology Corp                                        AXK           18402    19961119
 Acme United Cp                                                 ACU            3009    19840907
 Adam Resources & Energy Inc                                    AE             3012    19840907
 ADCARE HEALTH SYSTEM                                           ADK           56647    20061221
-Adelante Shares RE Shelter                                     AQS           58281    20071015
 Adelante Shares RE Value                                       AVU           57798    20070928
 Adeona Pharma                                                  AEN           74514    20061218
 Advanced Photonix Inc Class A                                  API            3611    19910212
@@ -22,6 +20,7 @@ Aerosonics Cp                                                  AIM            21
 Alabama Power Co                                               ALZ           56529    20060412
 Alcoa pf                                                       AA+            3023    19920326
 ALEXCO RESOURCE                                                AXU           74086    20060908
+Allied Nevada Gold Corp                                        ANV           69445    20070510
 ALMADEN MINERALS LTD                                           AAU           56493    20051220
 ALON USA ENERGY INC                                            ALJ           56453    20050728
 Alpha Pro Tech Ltd                                             APT           43042    19990216
@@ -38,11 +37,8 @@ Antares Pharma                                                 AIS           181
 APOLLO GOLD CP                                                 AGT           56087    20030904
 Arcadia Resource                                               KAD           55772    20040219
 Argan Inc Comm                                                 AGX           12655    19950818
-Armour Resd Reit                                               ARR           83139    20071203
 Arrhythia Research Technology                                  HRT            6581    19920309
-Asia Special Situation Acquisition Corp                        CIO           83211    20080213
 ATC Healthcare                                                 AHNA           9677    19900326
-Atlas Acquisition Holdings Corp                                AXG           83273    20080214
 ATS Corporation                                                ATSC          68297    20051206
 AUGUSTA RESOURCE CP                                            AZC           68279    20051125
 AURIZON MINES LTD                                              AZK           49929    20030715
@@ -70,7 +66,6 @@ BLACKROCK MD MUNI BD TR                                        BZM           136
 BLACKROCK MUNI INCM TR II                                      BLE           13962    20020730
 BlackRock MuniVest Fund Inc                                    MVF            6508    19900222
 BlackRock MuniYield Arizona Fund Inc                           MZA           13071    19950818
-BlackRock MuniYield Insured Fund Inc                           MYI            6524    19920421
 Blackrock NJ Inv Qual Muni Tr                                  RNJ           13099    19950818
 BLACKROCK NJ MUNI BD TR                                        BLJ           13616    20020426
 Blackrock NY Inv Qual Muni Tr                                  RNY           13100    19950818
@@ -94,6 +89,7 @@ Broadband HOLDRs Trust                                         BDH           134
 Cagles Inc Cl A                                                CGLA           3099    19920317
 CANADIAN SUPERIOR ENERGY                                       SNG           56015    20021022
 CANO PETROLEUM INC                                             CFW           60410    20040604
+Capital Gold                                                   CGC           31175    19970509
 Caraco Pharmaceutical                                          CPD            1694    19940511
 CARDERO RESOURCE CP                                            CDY           56398    20050124
 Cardium Ther                                                   CXM           55413    20031015
@@ -108,13 +104,13 @@ CHENIERE ENERGY INC                                            LNG           135
 Cheniere Energy Partners LP                                    CQP           56727    20070321
 Chicago Rivet & Machine Co                                     CVR            6583    19920228
 Chile Fund                                                     CH             6411    19900111
-China Education Alliance Inc                                   CEU           74031    20060825
 China N East Pet                                               NEP           55676    20040106
 China Nutrifruit                                               CNGL          86263    20080625
 China Pharm Hlg                                                CPHI          41891    20020417
 CHINA SECURITY                                                 CSR           68509    20060306
 China Shen Zhou Mining & Resources Inc                         SHZ           83527    20080324
 China Shenghuo Pharmaceutical Hldngs Inc                       KUN           56876    20070725
+Chinanet Online                                                CNET          89903    20090814
 Chromecraft Revington Inc                                      CRC            4462    19920421
 CIBT Education Group Inc                                       MBA           81582    20071002
 CKX Lands                                                      CKX           43986    19990713
@@ -208,7 +204,6 @@ Elixir Gaming                                                  EGT           555
 Ellsworth Fund                                                 ECF            6504    19900222
 Emergent Group Inc                                             LZR           79568    20070507
 Emerging Markets Telecom Fund                                  ETF            6531    19920618
-Emeritus Corp                                                  ESC           13149    19951120
 Emerson Radio                                                  MSN            3744    19941228
 Endeavor Intl                                                  END           41868    20020228
 ENDEAVOUR SILVER                                               EXK           68628    20060426
@@ -242,7 +237,6 @@ Fivestar Quality Care Inc                                      FVE           135
 Flanigans Enterprises                                          BDL            3215    19840907
 Flexible Solutions Int'l Inc                                   FSI           49156    19991012
 Fortune Inds Inc                                               FFI           49055    19970109
-Franklin Electronic Publishers                                 FEP            8755    19900326
 Franklin St Prop                                               FSP           56435    20050602
 FRANKLIN TEMP LTD DUR INCM TR                                  FTF           56086    20030904
 Fredericks Hlywd                                               FOH            3503    19920317
@@ -263,6 +257,7 @@ Genesis Energy LP                                              GEL            13
 GeoGlobal Resrcs                                               GGR           31971    19990105
 Geokinetics                                                    GOK           49239    19970102
 GeoPetro Resources Company                                     GPR           87950    20060222
+Gerova Financial                                               GFC           83211    20080213
 Global Ship Lease Inc                                          GSL           87060    20080815
 GlobalSCAPE Inc                                                GSB           68177    20030909
 Gold Reserve Inc Cl A                                          GRZ            2366    19930311
@@ -302,7 +297,6 @@ HQ Sustainable                                                 HQS           494
 HRPT Properties Trust                                          HRP+D         74173    20061010
 Hyperdynamics Corp                                             HDY           43306    19990315
 
-IA Global Inc                                                  IAO           33609    19990608
 IEC Electronics Corp                                           IEC            2083    19930212
 IGI LABORATORIE                                                IG             5842    19900417
 Imergent Inc                                                   IIG           40169    19991118
@@ -316,16 +310,12 @@ InnSuites Hospitality Tr SBI                                   IHT           333
 Inovio Bio                                                     INO           13358    19981208
 Intelichck Mblis                                               IDN           13398    19991119
 Intelligent Systems                                            INS           13054    19950818
-Inter-Atlantic Financial Inc                                   IAN           83101    20071023
-Interdigital Communications Corp                               IDCC           8991    19900326
 Interleukin                                                    ILI           33095    19971126
-INTERNATIONAL RTY CP                                           ROY           68252    20051116
 International Tower Hill Mines Ltd                             THM           79434    20070501
 Intl Absorbents Inc                                            IAX           49271    19991026
 Inuvo Inc                                                      INUV          33175    19980804
 INVERNESS MED PFD B                                            IMA.B         87063    20080509
 INVESTORS CAPITAL HLDGS LTD                                    ICH           13529    20010319
-Invitel Hldg Adr                                               IHO            2395    19930317
 Iparty Cp                                                      IPT           40327    19991230
 iPath DJ AIG Livestck Ttl Rtrn Sb Indx                         COW           83103    20071025
 ISHARES COMEX GOLD TRUST                                       IAU           56400    20050128
@@ -346,7 +336,6 @@ ISHARES SILVER TRUST                                           SLV           565
 ISHARES TR COHEN & STEERS RLTY                                 ICF           13523    20010202
 ISHARES TR LEH 20+ YR TRES BD                                  TLT           13966    20020730
 ISHARES TR LEH 7-10YR TRES BD                                  IEF           13963    20020730
-ISHARES TR NQ BIOTECH INDEX FD                                 IBB           13519    20010212
 ISHARES TR RUSSELL MID CAP GRW                                 IWP           13549    20010802
 ISHARES TR RUSSELL MID CAP IDX                                 IWR           13554    20010827
 ISHARES TR RUSSELL MID CAP VAL                                 IWS           13550    20010802
@@ -356,7 +345,6 @@ Iteris                                                         ITI            78
 IVAX DIAGNOSTICS INC                                           IVD           13534    20000320
 
 Javelin Pharm                                                  JAV           66262    20050217
-Jennifer Convertibles Inc                                      JEN           31153    19970509
 Jesup & Lamont                                                 JLI           13613    20020409
 JPMorgan Chase & Co ETN Trst Enh 4.33 Ix                       JFT           87111    20080522
 
@@ -384,7 +372,6 @@ Mag Silver Corporation                                         MVG           749
 Magnum Huntr Res                                               MHR           55282    20031007
 Maine & Maritime                                               MAM            3361    19920317
 Man Sang Intl                                                  MHJ           43426    19990421
-MARINE PRODUCTS CP                                             MPX           13525    20010301
 Markel Corp                                                    MKV           56599    20060907
 MARKET INDEX MITTS                                             MLA           90258    20091009
 Market Vectors                                                 BJK           83169    20080124
@@ -414,12 +401,10 @@ Mountain Province Diamond                                      MDM           155
 MS Market Vectors Double Long Euro ETN                         URR           85345    20080522
 MS Structured Asset Corp                                       HJV           56741    20070327
 
-N Amer Galvnzing Coating                                       NGA            3329    19920317
 Natl Healthcare Corp                                           NHC            5864    19910228
 NATURAL GAS SVCS GRP INC                                       NGS           56012    20021022
 Neostem                                                        NBS           43153    19990301
 NEUBERGER BERMAN CA INT MUNI                                   NBW           56014    20021022
-NEUBERGER BERMAN DIV ADVANT                                    NDD           56319    20040518
 NEUBERGER BERMAN INCM OPP FD                                   NOX           56076    20030625
 NEUBERGER BERMAN INT MUNI FD                                   NBH           56013    20021022
 NEUBERGER BERMAN NY INT MUNI                                   NBO           56000    20020926
@@ -431,7 +416,6 @@ New Concept Engy                                               GBR            36
 NEW DRAGON ASIA CP                                             NWD           13594    20010808
 New England Realty Assoc                                       NEN           12581    19950818
 New Gold                                                       NGD           56376    20041118
-NGAS Resources                                                 NGAS           2112    19840907
 NIVS INTELLIMEDIA                                              NIV           89033    20090313
 NORTH AMER PALLADIUM LTD                                       PAL           13507    20001016
 NORTHERN DYNASTY MINERALS Ltd                                  NAK           55397    20031009
@@ -486,13 +470,11 @@ NUVEEN VA DIV ADV MUNI 2 SBI                                   NNB           139
 NUVEEN VA DIV ADVAN MUNI FD                                    NGB           13532    20010319
 
 Oilsands Quest                                                 BQI           49638    20020913
-On2 Tech Inc                                                   ONT           13346    19990217
 Opka Health                                                    OPK           12978    19951102
 Orient Paper Inc                                               ONP           84368    20071001
 Orleans Homebuilders Inc                                       OHB            3203    19920317
 Orsus Xelent                                                   ORS           66394    20050107
 OVERHILL FARMS INC                                             OFI           56024    20021101
-Overture Acquisition Corp                                      NLX           83383    20080303
 
 Pacholder Fund Inc                                             PHF            6511    19900726
 Pacific Asia Petroleum Inc                                     PAP           85313    20080522
@@ -512,7 +494,6 @@ PACIFIC RIM MINING CP                                          PMU           560
 PacifiCorp pf                                                  PPW+          11924    19980603
 Palatin Technologies                                           PTN           29999    19971015
 Palisades Water Index                                          ZWI           69395    20030526
-Panhandle Oil & Gas                                            PHX           12611    19950818
 Paramount Gold & Silver Corp                                   PZG           68665    20060508
 Park Natl Corp                                                 PRK            9986    19910508
 Peapack Gladstone Finl Corp                                    PGC           43507    19990427
@@ -521,7 +502,7 @@ Petroflow Enery Ltd                                            PED           861
 Pharmathene Inc                                                PIP           56468    20051006
 PHC Inc                                                        PHC            1551    19940304
 Phoenix Footwear Group Inc                                     PXG            2287    19930304
-PIMCO Enhanced Short Mat Stgy Fd                               MINT          90508    20091117
+PIMCO Enhanced Short Maturity Strategy F                       MINT          90508    20091117
 Pinnacle Data Systems Inc                                      PNS           43317    19990315
 Pioneer Diversified High Income Trust                          HNW           56804    20070530
 Pioneer Drilling Co                                            PDC           43611    19990426
@@ -548,13 +529,12 @@ READY MIX INC                                                  RMX           564
 REAVES UTILITY INCM FD SBI                                     UTG           56255    20040225
 REGENERX BIOPHARMACEUTICALS                                    RGN           55278    20031007
 Relm Wireless Corp                                             RWC            8021    19840907
-Renasant                                                       RNST           4468    19920424
 Renn Gbl Entprs                                                RCG           15571    19960515
 Rentech Inc                                                    RTK           13394    19990405
 RETRACTABLE TECHNOLOGIES INC                                   RVP           13569    20010504
 Rexahn Pharmaceuticals Inc                                     RNN           68199    20051110
 Richmont Mines Inc                                             RIC           13230    19970307
-RMR Asis RE Fund                                               RAP           56561    20060526
+RMR Asia RE Fund                                               RAP           56561    20060526
 RMR REAL ESTATE                                                RIF           89936    20090826
 Roberts Realty Inv Inc                                         RPI           13274    19971210
 ROYCE VALUE TR INC PR                                          RVT+B         55549    20031015
@@ -571,7 +551,6 @@ Salisbury Bancorp Inc                                          SAL            65
 Samson Oil & Gas Ltd                                           SSN           83160    20080107
 SAN DIEGO GAS & EL 4.40 PR                                     SDO+C         56315    20040518
 SAN DIEGO GAS & EL PR                                          SDO+H         56307    20040512
-Sapphire Industrials Corp                                      FYR           83190    20080131
 SAUL CENTERS INC PR A                                          BFS+A         55582    20031107
 SCOLR PHARMA                                                   DDD           56266    20040316
 Seaboard Cp                                                    SEB            3505    19920317
@@ -612,7 +591,6 @@ SPDR S&P O&G EXP                                               XOP           565
 SPDR S&P PHARMA                                                XPH           56575    20060622
 SPDR S&P RETAIL                                                XRT           56576    20060622
 SPDR S&P SEMICND                                               XSD           56504    20060206
-Sports Properties Acq Corp                                     HMR           83194    20080205
 STHERN CAL ED                                                  SCE+C         56172    20031009
 STHERN CAL ED                                                  SCE+D         56173    20031009
 STHERN CAL ED                                                  SCE+E         56174    20031009
@@ -628,7 +606,6 @@ TDAX Independence 2020 ETF                                     TDH           830
 TDAX Independence 2030 ETF                                     TDN           83088    20071018
 TDAX Independence 2040 ETF                                     TDV           83089    20071018
 TDAX Independence In Target ETF                                TDX           83090    20071018
-Tech/Ops Sevcon Inc                                            TO             3546    19920319
 Teche Holdings                                                 TSH           13003    19950419
 Technology Select Sector SPDR Fund                             XLK            3761    19981222
 TEL INSTRUMENT ELECTRONICS CP                                  TIK           56237    19990611
@@ -647,14 +624,12 @@ Trans-Lux Cp                                                   TLX            30
 Transtlntic Petr                                               TAT           79136    20070409
 TravelCenters of America LLC                                   TA            56680    20070201
 Tri-Valley Corp                                                TIV           43657    19990503
-Trian Acquisition I Corp                                       TUX           83195    20080205
 Trio Tech Intl                                                 TRT           12023    19950424
 Tucows Inc                                                     TCX           15502    19960430
 Tuxis Corp                                                     TUXS          13216    19961108
 TWO HARBORS INVT CP                                            TWO           90384    20091030
 
 U S Gold Corp                                                  UXG           49565    19970102
-Ultmat Escap Inc                                               UEI           83163    20080118
 Ultra Basic Materials ProShares                                UYM           56773    20070201
 Ultra Consumer Goods ProShares                                 UGE           56681    20070201
 Ultra Consumer Services ProShares                              UCC           56695    20070202
@@ -686,7 +661,6 @@ Ur Energy Inc                                                  URG           868
 Uranerz Energy Corp                                            URZ           68174    20051110
 Uranium Energy Corp                                            UEC           79056    20070405
 Uroplasty Inc                                                  UPI           43674    19990503
-US Cellular                                                    USM            3568    19920317
 US Dataworks Inc                                               UDW           33215    19990105
 US Geothermal Inc                                              HTM           74883    20070220
 US OIL FUND ETF                                                USO           56528    20060410
@@ -746,7 +720,6 @@ WESTMORELAND COAL CO DEP PR                                    WLB+          563
 White River Capital Inc                                        RVR           56661    20070119
 Widepoint Corp                                                 WYY           31530    19980519
 Wilber Corp                                                    GIW           40991    19990104
-Wilshire Enterprise                                            WOC            7728    19880105
 Winland Electronics                                            WEX           12086    19950526
 Wireless Telecom Group                                         WTT            2626    19930524
 WisdomTree Dreyfus Brazilian Real Fund                         BZF           85338    20080522

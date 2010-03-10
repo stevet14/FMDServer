@@ -47,7 +47,7 @@ Agritec Systems                                                AGR-V         284
 Agua Resources Inc                                             AGS-V         37192    19981014
 Aguila Amer Rscs                                               AGL-V         27557    19960808
 Aim Health Group                                               AHG-V         83975    20080505
-AirlQ Inc                                                      IQ.H-V        38417    20000803
+AirlQ Inc                                                      IQ-V          38417    20000803
 AIS Resources Ltd                                              AIS-V         86506    20040723
 Aka Ventures                                                   AKA-V         28276    19960808
 Akita Drilling Ltd                                             AKTB-V        65510    19930112
@@ -55,7 +55,7 @@ Alberta Oilsand                                                AOS-V         386
 Alberta Star Dev                                               ASX-V         25936    19971211
 Alda Phar Corp                                                 APH-V         37748    20031119
 Alder Resources Ltd                                            ALR-V         69572    20071012
-Alderon Resource                                               ALD-V         27933    19960808
+Alderon Resource                                               ADV-V         27933    19960808
 Aldershot Rscs                                                 ALZ-V         27958    19960808
 Aldridge Minerals Ltd                                          AGM-V         27015    19960808
 Aldrin Resource Corp                                           ALN-V         82157    20071025
@@ -65,7 +65,7 @@ Algonquin Oil & Gas Limited                                    AQX-V         257
 Alhambra Resources Ltd                                         ALH-V         25036    19960731
 Alix Resources                                                 AIX-V         65935    20070629
 All in West! Capital Corp                                      ALW-V         65854    20070416
-Allana Resources Inc                                           AAA-V         88498    20090129
+Allana Potash                                                  AAA-V         88498    20090129
 Allied Nevada Gold Corp                                        ANV-V         65881    20070514
 Almo Capital Corp                                              APT-V         28507    20000720
 Alpetro Resources Ltd                                          ALF-V         25035    19960731
@@ -84,6 +84,7 @@ AMANTA RESOURCES LTD                                           AMH-V         387
 Amarc Resources Ltd                                            AHR-V         27034    19960808
 Amarillo Gold Corp                                             AGC-V         83241    20080213
 Amazon Mng Hldg                                                AMZ-V         26111    19960806
+Amercn Manganese                                               AMY-V         82894    20070905
 AMERICAN CREEK RESOURCES LTD                                   AMK-V         65685    20060911
 Americas Petrogas Inc                                          BOE-V         88514    20090129
 Amerix Precious                                                APM-V         27278    19960808
@@ -97,6 +98,7 @@ Andina Minerals                                                ADM-V         374
 Andover Ventures Inc                                           AOX-V         82198    20071025
 Andres Wines Ltd                                               ADWB-V        65515    19900418
 Anfield Nckl Co                                                ANF-V         69706    20071106
+Anglo Alumnm Crp                                               ALU-V         27795    19960808
 Anglo Swiss Resources Inc                                      ASW-V         26545    19971211
 Anglo-Bomarc Mines Ltd (NPL)                                   ANB-V         27059    19960808
 Anglo-Canadian                                                 URA-V         27516    19960808
@@ -126,8 +128,10 @@ Argentex Mining Corp                                           ATX-V         885
 Argonaut Explrtn                                               AGA-V         86412    20080707
 Argus Metals Crp                                               AML-V         27160    19960808
 ARIAN SILVER CORPORATION                                       AGQ-V         65806    20060721
+Arius3D Corp                                                   LZR-V         91928    20100224
 Armada Data Corp                                               ARD-V         37371    20001031
 Arrowhead Water Products Ltd Cl A                              AWPA-V        25070    19960731
+Artek Exploratn                                                RTK-V         37962    20040510
 Artevo Corp                                                    AEV-V         86315    20080702
 Ascot Resources Ltd                                            AOT-V         27063    19960808
 Asia Bio-Chem Group Corp                                       ABC-V         86318    20080702
@@ -141,7 +145,6 @@ Atacama Minerals Corp                                          AAM-V         271
 Athabasca Minerals Inc                                         ABM-V         83233    20080213
 Atikwa Res                                                     ATK-V         85148    20071220
 Atlanta Gold Inc                                               ATG-V         10466    19960320
-Atlas Minerals                                                 AMR-V         65783    20070205
 ATW Gold Corp                                                  ATW-V         38817    20061130
 AU SILVER RSCS                                                 AUU-V         65417    20051220
 Audiotech Healthcare Corp                                      AUD-V         25974    19980603
@@ -161,7 +164,6 @@ AXMIN INC                                                      AXM-V         386
 Azabache Energy                                                AZA-V         69590    20070829
 Azimut Exploration Inc                                         AZM-V         26043    19960806
 Azteca Gold Corp                                               AZG-V         65750    20061228
-Aztek Energy                                                   AZT.H-V       85162    20071220
 Azure Resources                                                AZU-V         28161    19960808
 
 BACTECH Mining                                                 BM-V          37743    20031007
@@ -169,6 +171,7 @@ BADEN TECHNOLOGIES INC                                         BDZ-V         373
 Balto Resources Ltd                                            BAL.H-V       85626    20080616
 BANDERA GOLD LTD                                               BGL-V         37816    20040123
 BARKER MINERALS LTD                                            BML-V         37752    20031201
+Barkrvile Gld Mn                                               BGM-V         27644    19960808
 Base Oil & Gas                                                 BOG-V         85186    20071220
 Basicgov Systems                                               BSG-V         28188    19960808
 Bassett Media Group Corp                                       BMG-V         90037    20090916
@@ -196,7 +199,6 @@ Bevo Agro Inc                                                  BVO-V         281
 BFS Entertainment and Multimedia Ltd                           BFS-V         82203    20071025
 Big Stick Corp                                                 BSM-V         65691    20060914
 BioAsis Technologies Inc                                       BTI-V         86648    20080724
-Bioexx Spcl Prtn                                               BXI-V         82134    20071025
 BIOREM INC                                                     BRM-V         38805    20050124
 Biosyent                                                       RX-V          27534    19960508
 Bioteq Environmental Tech Inc                                  BQE-V         28497    19991125
@@ -215,12 +217,13 @@ BNP RESOURCES INC. CL.A                                        BNX.A-V       851
 Bold Ventures Inc                                              BOL-V         69703    20071102
 Bolero Resources                                               BRU-V         28203    19960808
 Bonanza Explorations                                           BRS-V         27259    19960808
+Bonaparte Capital Corp                                         BON-V         91869    20100216
 Bonaventure Enterprises Inc                                    BVT-V         82199    20071025
 Bowmore Exploration Ltd                                        BOW-V         87533    20041025
 Boxxer Gold Corp                                               BXX-V         82041    20071025
 Bradmer Pharmaceuticals Inc                                    BMR-V         65521    20060216
 Bralorne Gold Mines Ltd                                        BPM-V         27151    19960808
-Bravo Ventures                                                 BVG-V         27979    19960808
+Bravo Gold Corp                                                BVG-V         27979    19960808
 Brazauro Resc                                                  BZO-V         37496    20011128
 Braziln Gld Corp                                               BGC-V         65955    19991208
 Brett Resources Inc                                            BBR-V         27156    19960416
@@ -237,7 +240,6 @@ Brompton Lifeco Split Corp                                     LCS-V         658
 BROOKFIELD PROPERTIES CORP SER                                 BPO.J-V       65696    20040430
 Brownstone Ventures Inc                                        BWN-V         82262    20071025
 BSM Technologies Inc                                           GPS-V         82055    20071025
-Butler Del                                                     BTD-V         27678    19960808
 Buzz Telecommunications Services Inc                           BZZ-V         65786    20070206
 Bv! Media Inc                                                  BVM-V         37413    20010117
 
@@ -263,6 +265,7 @@ Canada Gold Corp                                               CI-V          272
 Canada Lithium                                                 CLQ-V         82079    20071025
 Canada Zinc Metals Corp                                        CZX-V         27604    19960808
 CANADIAN ARROW MINES LTD                                       CRO-V         37975    20040614
+Canadian Energy Exploration Inc                                XPL-V         91885    20100216
 Canadian Equipment Rntl Fnd Ltd Prtnrshp                       CFL.U-V       86680    20080724
 Canadian Financials & Utlites Split Corp                       CFS-V         65785    20070206
 Canadian Imperial Ventures                                     CQV-V         28151    19960808
@@ -281,7 +284,6 @@ Candorado Operating Co Ltd                                     CDO-V         271
 CANEXT ENERGY LTD                                              CXZ-V         65637    20060613
 Cannasat Therapeutics Inc                                      CTH-V         82085    20071025
 Canoro Resources Ltd                                           CNS-V         27252    19960808
-CANPLATS RESOURCES CORP                                        CPQ-V         65313    20040617
 Canstar Resc                                                   ROX-V         38722    20031009
 Canterra Minerls                                               CTM-V         28451    19990615
 Cantex Mineral Dvlp Cp                                         CD-V          25325    19960731
@@ -294,6 +296,7 @@ Cap-Link Ventures Ltd                                          CAV-V         836
 Capella Rsc                                                    KPS-V         27260    19960808
 Capital BLF Inc                                                BLF-V         86655    20080724
 CAPITOL ENERGY RES LTD                                         CPX-V         89853    20090810
+Capricorn Business Acquisitions Inc                            CAK.P-V       92159    20100309
 Carat Exploration Inc                                          CRZ-V         83234    20080213
 Carbon Friendly Solutions Inc                                  CFQ-V         87159    20080902
 Carbon2Green Corporation                                       CGN-V         90251    20091007
@@ -307,10 +310,10 @@ Cascadia Resources                                             CCR-V         284
 Cash Cda Pawn                                                  CULH-V        25192    19960731
 Cash Minerals                                                  CHX-V         27689    19960808
 Cassidy Gold Cp                                                CDX-V         27930    19960808
-Castle Gold Corp                                               CSG-V         82224    20071025
 Castle Metal Corp                                              CT-V          27276    19960808
 Castle Resources Inc                                           CRI-V         65847    20070410
 CATALINA ENERGY CORP                                           CEA-V         65340    20050812
+Catalyst Copper                                                CCY-V         86671    20080724
 CATHAY FOREST PRODUCTS CP                                      CFZ-V         37986    20040930
 Cats Eye Capital Corp                                          CYE.P-V       83989    20080509
 Cavan Ventures Inc                                             CVN-V         69713    20071126
@@ -329,6 +332,7 @@ Cencotech Inc                                                  CTZ-V         370
 Cenit Corp                                                     CNT-V         25735    19960731
 Centamin Egypt Ltd                                             CEE-V         65845    20070409
 CENTRAL ALBERTA WELL SERVICES                                  CWC-V         65376    20051107
+Central Iron Ore                                               CIO-V         65913    20070621
 Central Resources Corp                                         CBC-V         87384    20080925
 Centric Energy                                                 CTE-V         65648    20060629
 Centurion Minerals Ltd                                         CTN-V         82125    20071025
@@ -343,6 +347,7 @@ Changfeng Energy Inc                                           CFY-V         831
 Changyu Medtech                                                CYQ-V         65687    20060912
 Channel Res Ltd                                                CHU-V         10636    19960416
 Charter Real Estate Investment Trust                           CRH.U-V       86678    20080724
+Chelsea Minerals Corp                                          CCC.H-V       91870    20100216
 Chemaphor Inc                                                  CFR-V         82061    20071025
 CHESAPEAKE GOLD CORP                                           CKG-V         38714    20031009
 CHINA ED RESC                                                  CHN-V         37283    20000727
@@ -357,6 +362,7 @@ Cleanfield Alternative Energy Inc                              AIR-V         822
 Clearwater Indust                                              CLI-V         37355    20001018
 Clemex Technologies Inc Cl A                                   CXGA-V        37013    19980603
 Clemex Technologies Inc.                                       CXG.A-V       88500    20090129
+Cliffmont Resrc                                                CMO-V         65783    20070205
 Clifton Star Resources Inc                                     CFO-V         27200    19960808
 CLOUDBREAK RES LTD                                             CDB-V         37699    20021108
 Cmc Metals Ltd                                                 CMB-V         82208    20071025
@@ -367,9 +373,9 @@ Coastal Energy                                                 CEN-V         653
 COASTPORT CAPITAL CP                                           CPP-V         38666    20041102
 COBALT ENERGY LTD. CLASS A                                     CB.A-V        85167    20071221
 Cobra Venture Cp                                               CBV-V         37262    20000518
+Cobre Exploration                                              CKB.H-V       91747    20100203
 Cogitore Resources Inc                                         WOO-V         83224    20080213
 COLIBRI RESOURCES CORPORATION                                  CBI-V         65343    20050812
-Colonia Energy                                                 CLA-V         65404    20051213
 Columbia Yukon Explorations                                    CYU-V         25205    19960731
 Columbus Energy                                                CEL-V         27483    19960808
 Columbus Gold Corp                                             CGT-V         65596    20060524
@@ -385,7 +391,6 @@ CONQUEST RESOURCES LTD                                         CQR-V         376
 Consl Abaddon Resources Inc                                    ABN-V         27007    19960808
 Consl Spire Ventures Ltd                                       CZS-V         28110    19960808
 Consl Westview Resources Inc                                   CWSH-V        28260    19960808
-Consolidated Envirowaste Industries Inc                        CWD-V         27293    19960808
 Constantine Metals                                             CEM-V         65942    20070717
 Contact Exploration Corp                                       CEX-V         25311    19960731
 Continental Nickel Ltd                                         CNI-V         82244    20071025
@@ -407,8 +412,7 @@ Coronado Rsrs                                                  CRD-V         374
 Coronet Metals Inc                                             CRFH-V        27267    19960808
 Corsa Capital Ltd                                              CSO-V         83795    20080424
 Cortex Business                                                CBX-V         27582    19980902
-CORTEZ RESOURCES CORP.                                         CUT.P-V       85195    20080515
-Costa Energy                                                   CEQH-V        37962    20040510
+CORTEZ RESOURCES CORP.                                         CUT-V         85195    20080515
 Counterpath Corp                                               CCV-V         87160    20080902
 Covalon Technologies Ltd                                       COV-V         82276    20071025
 Coventree Inc                                                  COF.H-V       65736    20061128
@@ -431,13 +435,13 @@ Cygam Energy                                                   CYG-V         371
 Cypress Development Corp                                       CYP-V         27303    19960808
 Cypress Hills                                                  CHY-V         27102    19960808
 Cytiva Software                                                CRX-V         28457    19990914
-CZM Capital Corporation                                        CZM-V         82087    20071025
 
 D'Arianne Resources Inc                                        DAN-V         82047    20071025
 D-Box Technologies Inc                                         DBO.A-V       88507    20090129
 DACHA CAPITAL INC                                              DAC-V         37547    20021011
 Dajin Resources                                                DJI-V         27537    19960808
 DALMAC ENERGY INC                                              DAL-V         38743    20041209
+Darford International Inc                                      WUF-V         91884    20100216
 DARNLEY BAY RES LTD                                            DBL-V         37965    20040514
 Datacom Wireless Corp                                          DAT-V         65901    20070608
 Datex Technolgs                                                DTC-V         65769    20070116
@@ -463,7 +467,7 @@ Diamond Frank Exploration Inc                                  DOD-V         828
 Diamond Intl                                                   DIX-V         25785    19960731
 DIAMONDS NORTH RES Ltd                                         DDN-V         38739    20031009
 Dianor Resources Inc                                           DOR-V         26145    19960806
-Digger Resources Inc                                           DIG-V         27325    19960808
+Digger Res                                                     DIG.H-V       27325    19960808
 Digifonica International Inc                                   DIL-V         65880    20070510
 DIOS EXPLORATION INC                                           DOS-V         37505    20020201
 Discovery-Corp Enterprises Inc                                 DCY-V         86650    20080724
@@ -494,20 +498,20 @@ Dynex Power Inc                                                DNX-V         372
 E S I Environmental Sensors Inc                                ESV-V         28305    19970908
 E-Energy Ventures                                              EEV-V         28245    19960808
 E-Xact Transactions Ltd                                        EXZ-V         86654    20080724
-Eacom Timber Corp                                              ETR.H-V       90308    20091020
+Eacom Timber Corp                                              ETR-V         90308    20091020
 Eagle Hill Explr                                               EAG-V         82564    20071211
 Eagle Plains Resources Ltd                                     EPL-V         25246    19960731
 Eaglecrest Expl                                                EEL-V         27365    19960808
 Eaglewood Energy                                               EWD-V         25251    19960731
 Earthworks Industries Inc                                      EWK-V         27400    19960808
 East Asia Minerals Corp                                        EAS-V         82269    20010423
-East West Resource Corp                                        EWR-V         27401    19960808
 Eastfield Resources Ltd                                        ETF-V         27392    19960808
 ECHO ENERGY CANADA INC                                         EEI-V         85169    20071220
 Ecomax Energy                                                  EES-V         25933    19971211
 Ecometals Ltd                                                  EC-V          27444    19960808
 Edge Resources                                                 ABA-V         83220    20080213
 El Nino Venture                                                ELN-V         27246    19960808
+El Tigre Silver Corp                                           ELS-V         92157    20100309
 Electra Gold Ltd                                               ELT-V         82052    20071025
 ELKWATER RESOURCES LTD                                         ELW-V         85170    20071220
 Eloro Resources Ltd                                            ELO-V         82172    20071025
@@ -574,7 +578,7 @@ Falkirk Resourcs                                               FLK-V         821
 Family Memorials Inc                                           FAM-V         82135    20071025
 Fancamp Exploration                                            FNC-V         27418    19960808
 Fiber Optic Syst Tech Inc                                      FOX-V         65325    20041025
-Fibresources Cp                                                FB-V          28476    19991215
+Fibresources Cp                                                FB.H-V        28476    19991215
 FIELDEX EXPLORATION INC                                        FLX-V         38780    20050118
 Finavera Renewables Inc                                        FVR-V         65764    20070110
 FINLAY MINLS                                                   FYL-V         37869    20040507
@@ -587,16 +591,14 @@ First Bauxite Cp                                               FBX-V         697
 First Gold Exploration Inc                                     EFG-V         82080    20071025
 First Idaho Resources Inc                                      FI-V          86512    20040723
 First Lithum Res                                               MCI-V         86661    20080724
-First Narrows Resources Corp                                   UNO-V         27399    19960808
 First Point Minerial Corp                                      FPX-V         25274    19960731
-First Pursut Ven                                               FPV.H-V       25114    19960731
+First Pursut Ven                                               FPV-V         25114    19960731
 First Source Resources Inc                                     FSR-V         83325    20080228
 First Star Res                                                 FS-V          27441    19960808
 FIRST VENTURA TECH                                             FEB-V         37397    20001127
 Fission Energy Corp                                            FIS-V         65947    20070725
 Fjordland Expl Ltd                                             FEX-V         28358    19980603
 Flagship Resources Ltd                                         FII-V         82195    20071025
-FLUKONG ENTERPRISE INC                                         FLG-V         37279    20000629
 Foccini International Inc                                      FOI-V         82035    20071025
 FOCUS VENTURES LTD                                             FCV-V         90803    20091223
 Foraco International SA                                        FAR-V         65950    20070727
@@ -604,17 +606,16 @@ Foran Mining Corp                                              FOM-V         274
 Forest Gate Engy                                               FGE-V         37824    20040301
 Forterra Environmental Corp                                    FTE-V         83311    20080226
 Fortress Minerals Inc                                          FST-V         27428    19960808
-FORTUNA SILVER MINES INC                                       FVI-V         65465    19940603
 Fortune River Res                                              FRX-V         28474    19991203
-Fortune Valley Resources Inc                                   FVX-V         65976    20070801
 Forum Development Ltd                                          FDC-V         27437    19960808
 Fox Resources Ltd                                              FAX-V         88484    20090129
 FP NEWSPAPERS INCO TRUST UNITS                                 FP.U-V        86581    20080721
 FRANCHISE BANCORP INC                                          FBI-V         37357    20001018
 FREE ENGY INTL                                                 FFX-V         69704    20071106
 Freeport Resources Inc                                         FRI-V         27426    19960808
-Freewest Resources (1987) & Co Ltd                             FWR-V         26176    19960806
+Frontline Gold                                                 FGC-V         91871    20100216
 Frv Media Inc                                                  FRV.H-V       37301    20000824
+Fst Narrows Rsc                                                UNO.H-V       27399    19960808
 FULL METAL MINERALS LTD                                        FMM-V         37970    20040527
 Futura Loyalty                                                 FUT-V         65437    20060111
 
@@ -651,9 +652,9 @@ GIE ENVIROMENTAL TECH LTD                                      GIE-V         373
 GINGER BEEF CP                                                 GB-V          37695    20021001
 Ginguro Exploration Inc                                        GEG-V         69542    20070906
 Glass Earth Gold Ltd                                           GEL-V         82842    20080115
-Gleichen Rscs                                                  GRL-V         27535    19960808
 Glen Eagle Resrs                                               GER-V         65983    20070817
 Global Energy Ltd                                              GLK-V         25307    19960731
+Global Green                                                   GGX-V         37083    19960731
 Global Hunter                                                  BOB-V         28204    19960808
 Global Minerals                                                CTG-V         25287    19960731
 Global Uranium Corp                                            GU-V          82059    20071025
@@ -666,13 +667,12 @@ Gold Ore Resources                                             GOZ-V         258
 Gold Port Resources Ltd                                        GPO-V         82176    20071025
 Gold Reach Resc                                                GRV-V         82064    20071025
 Gold Standard                                                  GV-V          38783    20050118
-Gold Star Resources Corp                                       GXX-V         85361    20080523
 Gold Summit Corp                                               GSM-V         27506    19960808
-GOLD WHEATON GOLD CORP                                         GLW-V         87959    20001016
 GOLD WORLD RESOURCES INC.                                      GDW-V         85190    20071221
 Goldbank Mng Cp                                                GLB-V         28329    19970602
 Goldbrook Ventures Inc                                         GBK-V         25289    19960731
 Goldcliff Resource Corp                                        GCN-V         27455    19960808
+GOLDEN ALLIANCE RESOURCES CORP                                 GLL-V         91699    20100201
 Golden Arch                                                    GAI.H-V       27443    19960808
 GOLDEN ARROW RESOURCES CORPORAT                                GRG-V         65668    20060821
 Golden Band Resources Inc                                      GBN-V         27450    19960808
@@ -718,7 +718,6 @@ Groundstar Resources Ltd                                       GSA-V         821
 Groupworks Financial Corp                                      GWC-V         65895    20070604
 Gtech Intl Res Ltd                                             GCHH-V        28269    19960808
 Guardian Exploration Inc                                       GX-V          82067    20071025
-Guestlogix Inc                                                 GXI-V         82253    20071025
 Gulf & Pacific Eq Cp                                           GUF-V         37173    19980731
 Gulf Shores Resources Ltd                                      GUL-V         28332    19980603
 Gulfside Minerals                                              GMG-V         28336    19980603
@@ -732,7 +731,7 @@ HALO RESOURCES LTD                                             HLO-V         378
 Hana Mining Ltd                                                HMG-V         37873    20040507
 Hansa Resources                                                HRL-V         27424    19960808
 Happy Creek Mining                                             HPY-V         65664    20060809
-Harmony Gold Co                                                H.H-V         86653    20080724
+Harmony Gold Co                                                H-V           86653    20080724
 Harte Gold Corp                                                HRT-V         37773    20040106
 Harvest Gold                                                   HVG-V         65405    20051213
 Hastings Res                                                   HAS-V         37765    20031218
@@ -757,6 +756,7 @@ HTC Purenergy                                                  HTC-V         258
 Hudson Resources Inc                                           HUD-V         82212    20071025
 Huldra Silver Inc                                              HDA-V         27530    19960808
 HUMBOLDT CAP                                                   HMB-V         37916    20040507
+Hunt Mining                                                    HMX-V         91264    20100106
 Huntington Explorations                                        HEI-V         25322    19960731
 Hwkeye Gld Dmd                                                 HGO-V         82048    20071025
 Hy-Drive Tech                                                  HGS-V         37508    20020208
@@ -795,13 +795,13 @@ Innovium Media Cp                                              IN-V          260
 Innovotech Inc                                                 IOT-V         83244    20080213
 Intelgenx Technologies Corp                                    IGX-V         85453    20080527
 Intema Solutions                                               ITM-V         37707    20021219
+Intensity Compny                                               ITT-V         37279    20000629
 Intercable ICH Inc                                             ICH-V         65842    20070404
 Intercap Ecommerce Inc                                         IEG-V         37042    19980603
 Intergold Ltd                                                  IGOA-V        25355    19960731
 International Barrier Technology Inc                           IBH-V         27565    19960808
 International Beryllium Corp                                   IB-V          83236    20080213
 International Enexco Ltd                                       IEC-V         27589    19960808
-International Gold Mining Ltd                                  IGL-V         65913    20070621
 International Northair Mines Ltd                               INM-V         27610    19960808
 International Parkside Products Inc                            IPD-V         27613    19960808
 International Water-Guard Industries                           IWG-V         27645    19960808
@@ -810,19 +810,18 @@ Intl Bet Mining                                                IBC-V         650
 Intl Bio Recovery Cp                                           IBR-V         37254    20000509
 Intl Frontier                                                  IFR-V         37182    19980929
 Intl Health Partners Inc                                       DOC-V         25914    19971024
-Intl Kirkland                                                  IKIH-V        37855    20040507
 Intl Millenm Mining                                            IMI-V         65808    20070227
 Intl Montoro Res                                               IMT-V         27766    19960808
 Intl PBX Ventre                                                PBX-V         27640    19960808
 Intl Samuel Expl                                               ISS-V         28283    20000216
 Intl Tower Hill                                                ITH-V         27631    19960808
-Intl Wayside Gld                                               WYG-V         27644    19960808
 Inventronics Ltd                                               IVX-V         88487    20090129
 INVESTMENT GRADE TRUST                                         BND.UN-V      65657    20060728
 Investus Rl Est                                                IVT-V         69598    20071029
 Ipico Inc                                                      RFD-V         82248    20071025
 Iplayco Corporation Ltd                                        IPC-V         65595    20060524
 Ironhorse Oil Gas Ltd                                          IOG-V         28169    19960808
+ISE Ltd                                                        ISE-V         91921    20100223
 Isee3D Inc                                                     ICT-V         88501    20090129
 Iseemedia Inc                                                  IEE-V         82175    20071025
 Isign Media Sol                                                ISD-V         90062    20090924
@@ -831,7 +830,6 @@ Ithana Energy                                                  IAE-V         656
 Ivrnet Inc                                                     IVI-V         28491    20000306
 IWEB Group Inc                                                 IWB-V         82249    20071025
 
-J-Pacific Gold                                                 JPN-V         27232    19960808
 JAG Mines Ltd                                                  JML-V         26240    19960806
 JANNOCK PROPERTIES LTD                                         JPLU-V        37344    20001016
 Jasper Mining Cp                                               JSP-V         25787    19960821
@@ -863,7 +861,6 @@ Kenai Resources                                                KAI-V         378
 Kenieba Goldflds                                               KEN-V         37780    20040106
 Kent Exploration                                               KEX-V         65671    20060830
 Kermode Resources Ltd                                          KLM-V         25489    20000120
-Kernow Resources & Developments Ltd                            KRD-V         27685    19960808
 Kettle River Resources Ltd                                     KRR-V         82139    20071025
 KFG Resources Ltd                                              KFG-V         27665    19960808
 Kierland Research                                              KIR-V         65914    20070621
@@ -876,10 +873,12 @@ Kiska Metals Cor                                               KSK-V         820
 Kivalliq Energy Corp                                           KIV-V         86411    20080707
 Klondike Explr                                                 KS-V          65501    20060417
 Klondike Gold Corp                                             KG-V          27666    19960808
+Knick Exploration Inc                                          KNX-V         91895    20070410
 Knight Resources Cp                                            KNP-V         28145    19960808
 Knighthawk Airlines Inc                                        KHA-V         27668    19960808
 Kobex Minerals                                                 KXM-V         27621    19960808
 Kodiak Expl                                                    KXL-V         28422    19980603
+Kokanee Minerals Inc                                           KOK-V         91563    20100120
 Kola Mining Corp                                               KM-V          86647    20080724
 Komet Manufacturers Inc                                        AQD-V         82141    20071025
 Kootenay Gold Inc                                              KTN-V         82241    20071025
@@ -918,6 +917,7 @@ Lions Gate Metal                                               LGM-V         274
 Lithic Rscs                                                    LTH-V         28446    19990415
 Lithium One Inc                                                LI-V          83222    20080213
 LNG Energy Ltd                                                 LNG-V         83619    20080401
+Logan Copper Inc                                               LC-V          82164    20071025
 Logan Rscs Ltd                                                 LGR-V         27221    19960808
 Loma Oil & Gas Ltd                                             LOG-V         65820    20070309
 Lonestar West Inc                                              LSI-V         88492    20090129
@@ -960,10 +960,12 @@ Magnum Uranium Corp                                            MM-V          821
 Mainstream Minerals Corp                                       MJO-V         65909    20070613
 Majescor Rscs                                                  MJX-V         26728    20001002
 Majestic Gold Corp                                             MJS-V         28291    19970110
+Mala Noche Resources                                           MLA-V         91898    20080718
 Malbex Resrcs                                                  MBG-V         82243    20071025
 Mandalay Resources Corporation                                 MND-V         65634    20060613
 Manicouagan Minerals Inc                                       MAM-V         82106    20071025
 MANITEX CAPITAL INC                                            MNX-V         65466    20031212
+Manitou Gold                                                   MTU-V         92146    20100308
 Mansfield Minerals Inc                                         MDR-V         27736    19960416
 Manson Creek Resources Ltd                                     MCK-V         82046    20071025
 Maple Leaf Reforestation Inc                                   MPE-V         82261    20071025
@@ -981,11 +983,13 @@ Max Resource                                                   MXR-V         375
 Maxim Resources Inc                                            MXM-V         82100    20071025
 MAXTECH VENTURES INC                                           MVT-V         37444    20010226
 Maya Gold & Silver Inc                                         MYA-V         86663    20080724
+Mayen Minerals Ltd                                             MYM-V         91899    20100222
 Mazorro Resources Inc                                          MZO-V         86646    20080724
 MBMI RESOURCES INC                                             MBR-V         37733    20030822
 MCCHIP RES INC                                                 MCS-V         37904    20040507
 MCO Capital                                                    MCOH-V        26280    19960806
 Mcvicar Indstrs                                                MCV-V         37847    20040419
+Meadow Bay Capital Corp                                        MAY-V         91872    20100216
 Med Biogene                                                    MBI-V         37874    20040507
 Medallian Resources                                            MDL-V         27549    19960808
 Medicago                                                       MDG-V         65672    20060830
@@ -994,6 +998,7 @@ Medipattern                                                    MKI-V         653
 Medmira Inc                                                    MIR-V         28472    19991201
 MEDORO RESOURCES LTD                                           MRS-V         37827    20040302
 Medx Health Corp                                               MDX-V         83227    20080213
+Mega Copper Ltd                                                MCU-V         91862    20100216
 Mega Moly Inc                                                  MGY-V         69718    20071207
 Mega Precius Met                                               MGP-V         82928    20080131
 Mega Uranium                                                   MGA-V         37870    20040507
@@ -1028,6 +1033,7 @@ Millrock Resources Inc                                         MRO-V         832
 Millstream Mines                                               MLM-V         37774    20040106
 Millstreet Inds                                                MLIH-V        25450    19960731
 Milner Consolidated Silver Mines Ltd                           MCA-V         25415    19960731
+Minaurum Gold                                                  MGG-V         91933    20100225
 Mindoro Resources Ltd                                          MIO-V         37062    19980603
 Minean International Corp                                      MIB-V         82108    20071025
 Mineral Hill Ind                                               MHI-V         27158    19960808
@@ -1054,6 +1060,7 @@ Mph Ventures                                                   MPS-V         275
 MRC Metall Resources Corp                                      MMO-V         28377    19980603
 MRRM Inc                                                       MRR-V         26619    19980603
 MTY Food Grp                                                   MTY-V         27481    19960808
+Mukuba Resources Ltd                                           MKU-V         91863    20100216
 Multiplied Media Corp                                          MMC-V         65985    20070817
 Multivision Communications Corp                                MTV-V         27781    19960808
 Murgor Resources Inc                                           MGR-V         26311    19960806
@@ -1063,8 +1070,8 @@ Naikun Wind Eng                                                NKW-V         282
 Nanika Resources Inc                                           NKA-V         86089    20080624
 Natnola Hlth Bio                                               NHI-V         37115    19980603
 Naturally Advanced Technologies Inc                            NAT-V         86603    20080708
-Navasota Resources Ltd                                         NAV-V         27795    19960808
 Nayarit Gold Inc                                               NYG-V         82207    20050609
+Nemaska Exploration Inc                                        NMX-V         91864    20100216
 Neovasc Inc                                                    NVC-V         37470    20010523
 NEPTUNE TECH & BIORESSOURCES                                   NTB-V         37481    20010712
 Netco Energy Inc                                               NEI-V         25744    19960731
@@ -1093,18 +1100,19 @@ NEWLOOK INDS                                                   NLI-V         379
 NEWMAC Resources Inc                                           NER-V         82168    20071025
 NEWNORTH PROJECTS LTD                                          NNP-V         37529    20020603
 Newport Exploration                                            NWX-V         27287    19960416
-Newstrike Cap                                                  NESH-V        37730    20030718
+Newstrike Cap                                                  NES-V         37730    20030718
 NEWSTRIKE RESOURCES LTD                                        NR-V          65341    20050812
 Newton Energy                                                  NTN-V         37209    19990111
 Nexgenrx Inc                                                   NXG-V         82121    20071025
-NEXSTAR ENERGY LTD. CL A                                       NXE.A-V       82000    20070917
 NEXSTAR ENERGY LTD. CL B                                       NXE.B-V       82001    20070917
 Nextraction Enrg                                               NE-V          27667    19960808
 Nico Mining Ltd                                                NCL-V         83515    20080318
 Nightingale Informatix Corp                                    NGH-V         82166    20071025
 Nikos Explorations Ltd                                         NIK-V         82099    20071025
 Niogold Mining                                                 NOX-V         27914    19960808
+Nmc Resource                                                   NRC-V         90664    20070830
 Noble Metal Group Inc                                          NMG-V         27820    19960808
+Nomad Ventures Inc                                             NMD-V         91894    20100219
 Nordex Explosives Ltd                                          NXX-V         82194    20071025
 Nordic Oil & Gas Ltd                                           NOG-V         82073    20071025
 Noront Resources Ltd                                           NOT-V         27825    19960508
@@ -1165,7 +1173,6 @@ Orestone Mining Corp                                           ORS-V         835
 Orex Exploration Inc                                           OX-V          82053    20071025
 Orex Minerals Inc                                              REX-V         69702    20071101
 Organic Resource Management Inc                                ORI-V         90791    20091216
-Oriental Minerals                                              OTL-V         37217    19990520
 Orion Oil & Gas Corp                                           OIP-V         91378    20100113
 Orko Silver Corp                                               OK-V          28386    19980603
 ORO GOLD RESOURCES LTD                                         OGR-V         65293    20050419
@@ -1176,8 +1183,9 @@ Oronova Res                                                    ONV-V         274
 Orosur Minng Inc                                               OMI-V         28499    20000329
 Orsa Ventures                                                  ORN-V         28341    19980603
 Ose Corp                                                       OSE-V         25497    19960731
+Otis Gold Corp                                                 OOO-V         91896    20071129
 Otish Energy Inc                                               OEI-V         27600    19960808
-OutdoorPartner Media Corp                                      OPX-V         82238    20071025
+OutdoorPartner Media Corp                                      OPX.H-V       82238    20071025
 OUTLOOK RESOURCES INC                                          OLR-V         37475    20010622
 Overland Realty                                                OVL-V         25048    19960731
 
@@ -1202,9 +1210,11 @@ PACIFIC TOPAZ RES LTD                                          PPZ-V         851
 PAGET MINERALS CORP                                            PGS-V         89933    20090826
 Painted Pony Petroleum Ltd                                     PPY.A-V       65888    20070523
 Painted Pony Petroleum Ltd                                     PPY.B-V       65889    20070523
+Paliser Oil & Gas Corp                                         PXL-V         91838    20100210
 Palladon Ventures Ltd                                          PLL-V         28128    19960808
 Palo Duro Eng                                                  PDE-V         37764    20031218
 Paloma Ventures Inc                                            PLOH-V        27940    19960808
+Pan American Lithium Corp                                      PL-V          91875    20100216
 Pan Orient Energy                                              POE-V         37143    19980603
 Pancontinental                                                 PUC-V         65305    20050531
 Panoro Minerals Ltd                                            PML-V         82209    20071025
@@ -1239,6 +1249,7 @@ PETROAMERICA OIL CORP                                          PTA-V         903
 Petroglobe Inc                                                 PGB-V         37266    20000525
 Petrolia Inc                                                   PEA-V         82184    20071025
 Petrolympic Ltd                                                PCQ-V         82772    20080103
+Petromanas En                                                  PMI-V         37234    19990920
 Petromin Resources Ltd                                         PTR-V         27937    19960808
 Petrostar Petro                                                PEP-V         37356    20001018
 PHARMAGAP INC                                                  GAP-V         37527    20020423
@@ -1249,11 +1260,12 @@ Phoscan Chemical                                               FOS-V         377
 Photon Control                                                 PHO-V         37297    20000817
 Pigboss Follow-Up Growth Inc                                   PIG-V         86499    20080711
 Pine Cliff Energy                                              PNE-V         65288    20050411
+Pinestar Gold                                                  PNS-V         91746    20100203
 Pinetree Capital                                               PRR-V         27889    19960808
 Pinnacle Mines                                                 PNL-V         27568    19960808
 Pioneerng Tec Cp                                               PTE-V         37408    20001227
 Pitchstone Exploration                                         PXP-V         65731    20061122
-Pixman Nomadic Media Inc                                       PMN-V         65748    20061227
+Pixman Capital                                                 PMN.H-V       65748    20061227
 PLANET EXPLOR                                                  PXI-V         37891    20040507
 PLANET ORGANIC HEALTH CP                                       POH-V         37381    20001214
 Platinex Inc                                                   PTX-V         82177    20071025
@@ -1266,10 +1278,9 @@ PMI Gold Ltd                                                   PMV-V         388
 Pni Digitl Media                                               PN-V          26530    19970423
 Polar Resources                                                RSN.H-V       27911    19960808
 Polar Star Mng                                                 PSR-V         65981    20070815
-Poly Pacific International Inc                                 PMB-V         37083    19960731
 PORTAL RESOURCES                                               PDO-V         37899    20040507
 Power Tech Corp Inc                                            PWB-V         82178    20071025
-PowerComm Inc                                                  PCG-V         65878    20070509
+PowerComm Inc                                                  PCG.H-V       69666    20071025
 Premium Exploration                                            PEM-V         65482    20060301
 Prescient Neuropharma Inc                                      PNO-V         28370    19980603
 Prestige Telecom Inc                                           PR-V          82226    20071025
@@ -1290,9 +1301,11 @@ Prolab Technologies Inc                                        POB-V         267
 PROMINEX RESOURCE CORP                                         PXR-V         65402    20051212
 PROPHECY ENTERTAINMENT INC                                     PEI-V         65314    20050620
 Prophecy Resource Corp                                         PCY-V         65791    20070214
+Prospero Silver Corp                                           PSL-V         91865    20100216
 Prosys Tech Corp                                               POZ-V         65892    20070531
 PSINAPTIC INC                                                  PSTH-V        37817    20040129
 Puget Ventures Inc                                             PVS-V         88516    20090129
+Pulse Capital Corp                                             PUL.H-V       91878    20100216
 Puma Exploration Inc                                           PUM-V         82129    20071025
 PURE ENERGY VISIONS CORP                                       PEV-V         65678    20060907
 Pure Industrial Real Estate Trust                              AAR.U-V       86679    20080724
@@ -1306,9 +1319,10 @@ Q Investments                                                  QI-V          279
 Q-Gold Resources                                               QGR-V         82054    20071025
 QHR Tech Inc                                                   QHR-V         27213    19960808
 Quadro Resrces                                                 QRO-V         37819    20040202
+Quantum Rare                                                   QRE-V         27678    19960808
 QUARTZ MTN RES                                                 QZMH-V        37859    20040507
 Quaterra Resources Inc                                         QTA-V         27075    19960808
-Queensland Minerals Ltd                                        QML-V         65812    20070228
+Queensland Mnrls                                               QML-V         65812    20070228
 Quest Pharma                                                   QPT-V         37041    19980603
 Quest Uranium Corp                                             QUC-V         82839    20080111
 Questor Tech Inc                                               QST-V         25950    19980311
@@ -1326,6 +1340,7 @@ Radius Gold Ltd                                                RDU-V         284
 Radius Resources Corp                                          RAX-V         85362    20080523
 RAIMOUNT ENERGY INC                                            RMT-V         85197    20071220
 Rainmaker Mng                                                  RMG-V         28141    19960808
+Rainy Montn Rylt                                               RMO-V         27401    19960808
 Rainy River Resources                                          RR-V          65747    19940603
 Rambler Metals And Mining Plc                                  RAB-V         65787    20070207
 Rampart Resources Ltd                                          RPT-V         28238    19960808
@@ -1341,6 +1356,7 @@ Raydan Manufacturing Inc                                       RDN-V         821
 Real Time Measurements Inc                                     RTY-V         82063    20071025
 Realex Properties Corp                                         RLX-V         83242    20080213
 Red Hill Energy                                                RH-V          65600    20060530
+Red Mile Mnr Crp                                               RDM-V         91760    20100208
 Red Pine Explor                                                RPX-V         26489    19960806
 Red Rock Energy Inc                                            RRK-V         65943    20070717
 Redcliffe Expl Cl A                                            RXPA-V        65688    20060912
@@ -1355,6 +1371,7 @@ Regent Ventures Ltd                                            REV-V         279
 Remac Zinc Corp                                                RMZ-V         65897    20070605
 Remington Resources Inc                                        RGM-V         83289    20080220
 Remstar Res                                                    REM-V         65667    20060817
+Renegade Petrlm                                                RPL-V         65404    20051213
 Repeatseat Ltd                                                 RPS-V         83214    20080213
 Reservoir Capital Corp                                         REO-V         82229    20071025
 Resolve Ventures                                               RSV-V         27184    19960808
@@ -1380,7 +1397,6 @@ RMS SYSTEMS INC                                                RMS-V         879
 Roadrunner Oil & Gas                                           ROA-V         65874    20070501
 Robex Resources Inc                                            RBX-V         26384    19960806
 ROCA MINES INC                                                 ROK-V         65492    20060328
-Rocher Deboule Minerals Corp                                   RD-V          82894    20070905
 Rochester Rescs                                                RCT-V         28365    19980603
 Rock Tech Resrcs                                               RCK-V         82040    20071025
 Rockbridge Energy Inc                                          RBE-V         87326    20080916
@@ -1480,9 +1496,9 @@ SilverCrest Mines                                              SVL-V         377
 Silvermet Inc                                                  SYI-V         82144    20071025
 Silvermex Resources                                            SMR-V         65796    20070219
 Silvore Fox Mnrl                                               SFX-V         86282    20080627
+Simba Energy Inc                                               SMB-V         85361    20080523
 Sina Vanadum Inc                                               SVX-V         90029    20090915
 Sinchao Metals Corp                                            SMZ-V         65745    20061221
-Sinomar Capital Corp                                           SMM-V         91264    20100106
 Sirios Resources Inc                                           SOI-V         26429    19960806
 Skeena Resources Ltd                                           SKE-V         28063    19960808
 SKOR FOOD GROUP                                                SKF-V         37868    20040507
@@ -1491,7 +1507,6 @@ Skyline Gold Corporation                                       SK-V          821
 Skyrota Wnd Engy                                               LGS-V         86651    20080724
 Slam Exploration Ltd                                           SXL-V         25814    20000217
 Smartcool Systems                                              SSC-V         27591    19960808
-SNL Enterprises Ltd                                            SNL-V         82164    20071025
 Snowfield Development Corp                                     SNO-V         28405    19980603
 Sns Silver Corp                                                SNS-V         65669    20060828
 Softrock Mineral Ltd                                           SFT-V         25605    20020708
@@ -1505,9 +1520,10 @@ Solium Capital Inc                                             SUM-V         658
 Solomon Resources Ltd                                          SRB-V         28092    19960416
 Soltoro Ltd                                                    SOL-V         82219    20071025
 Solutioninc Tech                                               STL-V         27111    19960808
+Sona Resrcs Corp                                               SYS-V         27232    19960808
 Sonic Technology                                               SNV-V         37396    20001130
 Sonnenenergy Corp                                              PWR-V         69716    20071129
-SONOMAX HEARING HEALTHCARE INC                                 SHH-V         37320    20001002
+Sonomax Tech                                                   SHH-V         37320    20001002
 Sonora Gold & Silver                                           SOC-V         82126    20071025
 Source Exploration Corp                                        SOP-V         86664    20080724
 South American Silver Corp                                     SAC-V         65800    20070221
@@ -1547,7 +1563,6 @@ Stetson Oil And Gas Ltd                                        SSN-V         697
 STIKINE GOLD CORPORATION                                       SKY-V         65654    20060726
 Stina Resources Ltd                                            SQA-V         28089    19960808
 Stockhouse Inc                                                 SHC-V         83225    20080213
-STONEFIRE ENERGY CORP. CL.A                                    SFE.A-V       85183    20071221
 Stonepoint Global                                              SPG-V         25899    19971024
 Storagevault Canada Inc                                        SVI-V         86645    20080724
 Strait Gold Corp                                               SRD-V         82131    20071025
@@ -1570,12 +1585,12 @@ Sultan Minerals Inc                                            SUL-V         281
 Sun Entertainment Holding Corp                                 SED-V         28037    19960808
 SUNRIDGE GOLD CORP                                             SGC-V         38913    20031009
 Sunset Pacfc Pet                                               SPK-V         27856    19960808
+Sunward Resources Ltd                                          SWD-V         92158    20100309
 Superior Mining Int                                            SUI-V         28107    19960808
 Supreme Resources                                              SPR-V         28207    19960808
 Suroco Energy Inc                                              SRN-V         82216    20071025
 Sustainable Enrgy Tech Ltd                                     STG-V         37100    19980603
 Sutter Gold Mng                                                SGM-V         27990    19960808
-Svit Gold Corp                                                 SDP-V         86671    20080724
 Swift Power Corp                                               SPC-V         88502    20090129
 Swift Resources Inc                                            SWR-V         82921    20080130
 SYLOGIST LTD                                                   SYZ-V         37892    20040507
@@ -1586,6 +1601,7 @@ Tad Capital Corp                                               TAD-V         899
 Tag Oil                                                        TAO-V         65373    20050718
 Tagish Lake Gold Corp                                          TLG-V         27862    19960808
 Takara Resources                                               TKK-V         69559    20071002
+Taku Gold Corp                                                 TAK-V         82087    20071025
 TAMERLANE VENTURES INC                                         TAM-V         37794    20040106
 Tango Energy Inc                                               TEI-V         83223    20080213
 Tanqueray Resources Ltd                                        TQY-V         25648    19960731
@@ -1611,7 +1627,7 @@ Texalta Petroleum Ltd                                          TEX.A-V       885
 Texalta Petroleum Ltd                                          TEXA-V        25628    19960731
 TG World Energy                                                TGE-V         25849    19970423
 THE GRIFFIN CORPORATION                                        GRN-V         90324    20091026
-Thelon Ventures                                                THV-V         28109    19960808
+Thelon Capital                                                 THC-V         28109    19960808
 Theralase Technologies Inc                                     TLT-V         83226    20080213
 Thermal Energy International Inc                               TMG-V         25640    19951129
 Theseus Capital Inc                                            GDG-V         86657    20080724
@@ -1636,7 +1652,7 @@ Torch River Resources Ltd                                      TCR-V         821
 Torque Energy                                                  TQE-V         27385    19960808
 Total Telcom                                                   TTZ-V         25214    19960731
 Totem Minerals Inc                                             TTM-V         87350    20080918
-TOUCHDOWN CAPITAL INC                                          TDW-V         90322    20091026
+Touchdown Res                                                  TDW-V         90322    20091026
 Touchstone Res                                                 TCHH-V        28185    19960808
 TOURNIGAN GOLD CORP                                            TVC-V         65468    20031216
 TOWER ENERGY LTD.                                              TWR-V         85187    20071220
@@ -1684,7 +1700,6 @@ Ucore Uranium Inc                                              UCU-V         821
 Ultra Lithium                                                  ULI-V         82019    20071025
 Ultra Uranium                                                  ULU-V         28489    20000216
 Unban Comms Inc                                                UBN-V         27778    19960808
-Unbridled Energy Corp                                          UNE-V         65652    20060720
 Underworld Resources Inc                                       UW-V          65816    20070305
 Unigold Inc                                                    UGD-V         37467    20010508
 UNILENS OPTICL                                                 UVI-V         37910    20040507
@@ -1694,11 +1709,13 @@ Unitech Energy Resources Inc                                   URX-V         866
 UNITED PROTECTION SECURITY GROUP                               UZZ-V         25723    19960731
 United Reef Ltd                                                URP-V         82038    20071025
 United Uranium Corp                                            UUC-V         28193    19960808
+Unity Energy Corp                                              UTY-V         91881    20100216
 Universal Energy Group Ltd                                     UEG-V         65780    20070202
 UNIVERSAL POWER                                                UNX-V         37520    20020327
 Universal Urnm                                                 UUL-V         27861    19960808
 Universal Wing                                                 UAV-V         27548    19960808
 Unor                                                           UNI-V         37796    20040106
+Upper Canada Gold Corp                                         UCC-V         91774    20100209
 Upper Canyon Minerals Corp                                     UCM-V         69707    20071108
 Uracan Rscs                                                    URC-V         28482    19991223
 Uragold Bay Res                                                UBR-V         82098    20071025
@@ -1711,9 +1728,10 @@ USA Video Interactive Corp                                     US-V          256
 Valdez Gold Inc                                                VAZ-V         25679    19960731
 Valdor Technolgy                                               VTI-V         27065    19960808
 VALENCIA VENTURES INC                                          VVI-V         38969    20031009
-Valgold Rscs Ltd                                               VAL-V         28221    19950823
+Valgold Res                                                    VAL-V         28221    19950823
 Valley High Ventures Ltd                                       VHV-V         86636    20040803
 Vangold Rscs                                                   VAN-V         37876    20040507
+Vanoil Energy Ltd                                              VEL-V         91428    20100119
 Vantex Resour                                                  VAX-V         26671    19980603
 Vast Exploration                                               VST-V         27712    19960808
 Vault Minerals Inc                                             VMI-V         82174    20071025
@@ -1721,11 +1739,10 @@ Vectra Energy Cp                                               VER-V         820
 Velo Energy Inc                                                VLO-V         65674    20060905
 VENGA AEROSPACE SYS INC                                        VAV-V         37422    20010125
 Ventripoint Diagnostics Ltd                                    VPT-V         69557    20070926
-Ventura Gold Inc                                               VGO-V         27076    19960808
-Venture One Capital Corp                                       VO-V          90664    20070830
 Verb Exchange                                                  VEI-V         25837    19970401
 Verbina Resources Inc                                          VUR-V         83310    20080226
 Verena Minerals                                                VML-V         37750    20031128
+Versapay Corp                                                  VPY-V         91883    20100216
 Versatile System                                               VV-V          27625    19960808
 Victhom Human Bionics Inc                                      VHB-V         91265    20100106
 Victoria Resource Corp                                         VIT-V         28220    19960808
@@ -1743,9 +1760,11 @@ Visionquest Energy                                             VQE-V         277
 Vitality Products Inc                                          VPI-V         28226    19960808
 Vitreous GlassInc                                              VCI-V         25685    20020708
 VMS Ventures Inc                                               VMS-V         37532    20020618
-VR Interactive                                                 VRI-V         37456    20010321
+Volcanic Metals                                                VOL-V         91707    20100201
+Vr Interactive                                                 VRI.H-V       37456    20010321
 VRX Worldwide Inc                                              VRW-V         25134    19960731
 Vulcan Minerals Inc                                            VUL-V         25697    20020708
+Vuzix Corp                                                     VZX-V         91866    20100216
 VVC Explorations                                               VVC-V         28488    20000216
 
 Wanted Technologies Corp                                       WAN-V         86668    20080724
@@ -1768,6 +1787,7 @@ Westcan Uranium                                                WCU-V         278
 Western Can Eng                                                WCE-V         25111    19960731
 Western Enrgy                                                  WRG-V         25808    19970110
 Western Lithium Canada Corp                                    WLC-V         86544    20080716
+WESTERN PACIFIC RESOURCES CORP                                 WRP-V         91706    20100201
 Western Pacific Tr                                             WP-V          27051    19960808
 Western Plan Pet NO                                            WPP-V         83807    20080425
 Western Potash Corp                                            WPX-V         86674    20080724
@@ -1783,10 +1803,12 @@ WESTSTAR RESOURCES CORP.                                       WER-V         851
 Westward Expl                                                  WWEH-V        28261    19960808
 Whetstne Min Ltd                                               WMI-V         87960    19990416
 Whistler Gld Exp                                               WGXH-V        27791    19960808
+White Canyon Uranium Ltd                                       WU-V          92038    20100303
 White Pine Resources                                           WPR-V         38988    20040809
 Whitemud Resources Inc                                         WMK-V         65809    20070228
 Wild Stream Exlporation Inc                                    WSX-V         82154    20071025
 WILDCAT EXPLOR LTD                                             WEL-V         37391    20001127
+Wildcat Silver                                                 WS-V          91897    20060523
 Williams Creek Explorations Ltd                                WCX-V         28239    19960808
 Win Eldrich Mines Ltd                                          WEX-V         82268    20071025
 Winalta Shelters Inc Cl A                                      WTAA-V        37197    19981014
@@ -1794,10 +1816,9 @@ WINDARRA MINERALS LTD                                          WRA-V         377
 Wireless2 Tech                                                 WIT-V         28100    19960808
 Wolverine Minerals Corp                                        WLV-V         83547    20080325
 WOOD COMPOSITE TECHNOLOGIES INC                                WCT-V         65645    20060615
+Woulfe Mining                                                  WOF-V         37217    19990520
 WRANGLER WEST ENERGY CP                                        WX-V          37711    20030124
-WWI Resources                                                  WWI-V         37234    19990920
 
-X-Ore Resources                                                XOR-V         37495    20011115
 X-Tal Minerals                                                 XMTH-V        65683    20060911
 X-Terra Resources Corp                                         XT-V          65807    20070223
 Xcite Energy Ltd                                               XEL-V         69712    20071116

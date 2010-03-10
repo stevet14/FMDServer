@@ -59,6 +59,7 @@ Alimentation Couche-Tard Inc                                   ATDA-T        260
 ALIMENTATION COUCHE-TARD INC SV                                ATDVB-T       65428    20051228
 Allbanc Split Corp II                                          ALB-T         65512    20060209
 ALLBANC SPLIT CP CL A                                          ABKA-T        38563    20030123
+Allied Gold Ltd                                                ALG-T         91837    20100216
 Allied Nevada Gold Corp                                        ANV-T         69594    20071025
 Allied Properties                                              AP.UN-T       86818    20080724
 ALLON THERAPEUTICS INC                                         NPC-T         37987    20041001
@@ -113,7 +114,6 @@ Auex Ventures Inc                                              XAU-T         659
 AUGUSTA RESOURCE CORP                                          AZC-T         65296    20050421
 Aurizon Mines Ltd                                              ARZ-T         10470    19960320
 Auro Mineral Inc                                               ORA-T         65656    20060727
-Australian Solomons Gold Ltd                                   SGA-T         69681    20071025
 AutoCanada Income Fund                                         ACQ-T         86713    20080724
 Automodular Cp                                                 AM-T          10211    19960311
 Avalon Rare Metals Inc                                         AVL-T         27101    19960808
@@ -155,16 +155,16 @@ BELZBERG TECH INC                                              BLZ-T         384
 Bengal Engy Ltd                                                BNG-T         37009    19980603
 Bennett Environmental Inc                                      BEV-T         26560    19980603
 Benvest Capital Inc                                            BCI-T         26053    19960806
-Benvest New Look Income Fund                                   BCI.U-T       90337    20091029
-Berens Energy Lt                                               BEN-T         25535    19960731
 Big 8 Split Inc                                                BIG.A-T       65518    20030903
 Big Bank Big Oil Split Corp                                    BBO-T         69601    20071025
 Big Rock Brewery Ltd                                           BRU-T         17532    19970226
+Bioexx Spcl Prtn                                               BXI-T         82134    20071025
 BIOMS Medical Cp                                               MS-T          37457    20010321
 Bioniche Life Inc                                              BNC-T         10685    19960506
 BIOSYNTECH INC (US)                                            BSY-T         37841    20040401
 Bioteq Environmental Technologies inc                          BQE-T         69605    20071025
 Biovail Corp                                                   BVF-T         10552    19960403
+BIOX Corp                                                      BX-T          92037    20100303
 Birchcliff Energy                                              BIR-T         27623    19960808
 BIRD CONSTRUCTION                                              BDTU-T        37392    20001127
 BK OF MTL PR H                                                 BMO+H-T       37569    20000620
@@ -173,6 +173,15 @@ Black Diamond Income Fund                                      BDI-T         868
 Black Pearl Reso                                               PXX-T         25740    19960731
 BLACKWATCH SERV                                                BWT-T         85208    20080515
 Blue Rib Incm Un                                               RBNU-T        38730    20031009
+BMO Aggregate Bond Index ETF                                   ZAG-T         91667    20100125
+BMO China Eqty Hdgd To CAD Idx ETF                             ZCH-T         91666    20100125
+BMO Equal Weight Utilities Idx ETF                             ZUT-T         91668    20100125
+BMO Global Infrastructure Idx ETF                              ZJG-T         91663    20100125
+BMO Global Infrastructure Idx ETF                              ZGI-T         91664    20100125
+BMO India Eqty Hdgd To CAD ETF                                 ZID-T         91662    20100125
+BMO Long Corporate Bond Idx ETF                                ZLC-T         91661    20100125
+BMO Mid Corporate Bond Idx ETF                                 ZCM-T         91665    20100125
+BMO Nasdaq 100 Eqty Hdgd To CAD Idx ETF                        ZQQ-T         91660    20100125
 BMTC Group Inc                                                 GBTA-T        26180    19960503
 BNK Petroleum Inc                                              BKX-T         86502    20080711
 BNN Investments Ltd                                            BNB-T         10599    19960813
@@ -193,7 +202,6 @@ BORALEX POWER Incm FUND TR UNIT                                BPTU-T        386
 Boston Pizza Royalties Income Fund                             BPFU-T        65348    20050908
 Boyd Group Inc Cl A                                            BYDU-T        38364    19991116
 BPO Properties                                                 BPP-T         10057    19950112
-Bradmer Pharmaceuticals Inc                                    BMR-T         69604    20071025
 Brampton Brick Ltd                                             BBLA-T        10180    19960813
 BRASCAN CORP PFD A SE                                          BAM+J-T       38692    20031009
 BRASCAN CORP PREF A S                                          BAM+C-T       38691    20031009
@@ -247,6 +255,7 @@ Canada Bread Corp                                              CBY-T         103
 Canadian Apartment Properties REIT                             CARU-T        38340    19990715
 Canadian Banc Capital Securities Trust                         CSB.U-T       90342    20091029
 Canadian Convertible Debenture Fund                            CDF.U-T       90340    20091029
+Canadian Energy Convertible Dbntr Fnd                          CFE.U-T       91853    20100216
 CANADIAN ENERGY SERVICES LP                                    CEU-T         65973    20060302
 Canadian Financials & Utlites Split Corp                       CFS-T         69609    20071025
 Canadian General Investment                                    CGI-T         10349    19950112
@@ -280,11 +289,11 @@ Canfor Inc                                                     CFP-T         100
 Canfor Pulp Income                                             CFXU-T        65840    20070328
 Cangene Corp                                                   CNJ-T         10713    19960425
 Canlan Ice                                                     ICE-T         10577    19960403
-CanWel Building Materials Income Fund                          CWX.U-T       86715    20080724
+CanWel Building Materials Income Fund                          CWX-T         86715    20080724
 Canyon Services                                                FRC-T         65545    20060502
 CAPITAL GAINS INCM CAP YLD SHS                                 CGQE-T        38496    20010306
 CAPITAL GAINS INCM EQ DIV SHS                                  CGQ-T         38497    20010306
-Capital Gold Corp                                              CGC-T         65525    20060322
+Capital Gold Co                                                CGC-T         65525    20060322
 Capital Power                                                  CPA.U-T       38465    20001012
 Capital Power Corporation                                      CPX-T         90381    20091029
 Capstone Mining                                                CS-T          28108    19960808
@@ -342,6 +351,7 @@ Clarke Inc                                                     CKI-T         383
 Claude Resources Inc                                           CRJ-T         10490    19960813
 Claymore 1-5 Yr Lddrd Govt Bond ETF                            CLF-T         83258    20080213
 Claymore 1-5yr Laddered Corporate Bond                         CBO-T         90706    20091204
+CLAYMORE ADV HIGH YIELD BD ETF                                 CHB-T         92126    20100308
 Claymore BRIC                                                  CBQ-T         65681    20060908
 Claymore Broad Emerging Markets ETF                            CWO-T         90343    20091029
 Claymore Canadian Div and Achievers                            CDZ-T         65679    20060908
@@ -353,7 +363,6 @@ Claymore Global Balanced Income                                CBD-T         659
 Claymore Global Infrastructure ETF                             CIF-T         88473    20090128
 Claymore Global Monthly Yield Hog                              CYH-T         82860    20080117
 Claymore Global Real Estate ETF                                CGR-T         88470    20090128
-Claymore Gold Bullion Trust                                    CGL.U-T       90341    20091029
 Claymore Internatnl Fndmntl Indx ETF                           CIE-T         65792    20070214
 Claymore Japan Fundamental Index ETF                           CJP-T         65793    20070214
 Claymore Natural Gas                                           GAS-T         83197    20080206
@@ -408,12 +417,10 @@ Copernican International Fnncl Splt Corp                       CIR-T         696
 Copernican World Banks Income and Growth                       CBKU-T        65631    20060315
 Copernican World Banks Split Inc                               CBW-T         38824    20061130
 Copernican Wrld Fncl Ifrstrctr Trst                            CIW.U-T       86731    20080723
-Copper Mesa Mng                                                CUX-T         69591    20071025
 Copper Mountain Mining Corp                                    CUM-T         65936    20070629
 Corby Distilleries Cl A                                        CDLA-T        10323    19950112
 Corby Distilleries Ltd Cl B                                    CDLB-T        38048    19980603
 Core Canadian Dividend Trust                                   CDD.U-T       86759    20080723
-Corel Corporation                                              CRE-T         65618    20060606
 Coro Mining Corp                                               COP-T         69614    20071025
 Corona Gold Corp                                               CRG-T         17515    19970110
 Corridor Resources Inc                                         CDH-T         25922    19971211
@@ -456,7 +463,6 @@ Deepwell Energy Services Trust                                 DWL.U-T       884
 DEEPWELL ENGY TR                                               DWLU-T        85209    20080515
 DEJOUR ENTERPRISES LTD                                         DEJ-T         38677    20041130
 Delphi Energy Cp                                               DEE-T         37101    19980603
-Delta Uranium Inc                                              DUR-T         69710    20071114
 Denison Mines                                                  DML-T         17557    19970519
 Descartes Systems Group Inc                                    DSG-T         38085    19980603
 Destiny Resource Services Corp                                 DSC-T         38084    19980603
@@ -502,7 +508,6 @@ Dynasty Metal & Mining Inc                                     DMM-T         374
 DYNETEK IND LTD                                                DNK-T         38439    20000921
 
 E-L Financial                                                  ELF-T         10271    20020708
-EarthFirst Can                                                 EF-T          82566    20071211
 Eastern Platinum                                               ELR-T         10971    19960813
 Eastmain Resources Inc                                         ER-T          17641    19961113
 Easyhome Ltd                                                   EH-T          17830    19960813
@@ -514,6 +519,7 @@ Electrovaya Inc                                                EFL-T         267
 Ember Resources Inc                                            EBR-T         65536    20050712
 Emc Metals Corp                                                EMC-T         86704    20080724
 Emera Inc                                                      EMA-T         10092    19950112
+Emerge Oil & Gas Inc                                           EME-T         91846    20100216
 Empire Cl A                                                    EMPA-T        10243    19950112
 EMPIRE CO PR B                                                 EMP+B-T       37602    20000525
 EMPIRE COMPANY LTD CL A NV                                     EMP.A-T       65699    20021016
@@ -524,7 +530,6 @@ EnCana Corp                                                    ECA-T         385
 Endeavour Fincl                                                EDV-T         28248    19960808
 Endeavour Silver                                               EDR-T         27724    19960808
 Enerchem International Inc                                     ECH-T         10640    19960813
-Enerflex Systems Ltd                                           EFXU-T        10784    19960425
 Energy Fuels                                                   EFR-T         25496    19960731
 ENERGY PLUS INCOME TR                                          EPFU-T        65483    20060306
 ENERGY SPLIT CP CAP YLD SHS                                    ES-T          38645    20030918
@@ -556,13 +561,14 @@ EXCEL INDIA TRUST TRUST UNITS                                  EXIU-T        828
 Excellon Resources Inc                                         EXN-T         27402    19960808
 Exchnge Ind Incm                                               EIF-T         37960    20040510
 Exco Technologies Ltd                                          XTC-T         10790    19960425
-EXFO ELECTRO-OPTICAL ENG                                       EXF-T         38412    20000630
+Exfo Inc                                                       EXF-T         38412    20000630
 EXTENDICARE REAL I TRUST UNITS                                 EXEU-T        87720    20081106
 Extract Resources Ltd                                          EXT-T         69630    20071025
 
 Fairborne Energy                                               FEL-T         38562    20030121
 Faircourt Gold Income Corp                                     FGX-T         83261    20080213
 Fairfax Financial Hldg                                         FFH-T         10049    19950112
+FAIRFAX FINANCIAL HLDG LTD                                     FFH+E-T       91700    20100201
 Far West Mining Ltd                                            FWM-T         25281    19960731
 Farallon Mining                                                FAN-T         38094    19980603
 Fidelity Partnership 1996 Ltd Ptnship                          FZP.U-T       86703    20080724
@@ -591,7 +597,6 @@ FIRST QUANTUM MINERALS LTD                                     FM-T          384
 First Trst/Hghlnd Cap Fltg Rt Incm Fd II                       FHM.U-T       86726    20080723
 First Trst/Highland Cap Fltng Rt Incm Fd                       FHT.U-T       86740    20080725
 First Uranium Corp                                             FIU-T         65972    20061220
-Firstgold Corp                                                 FGD-T         85205    20080515
 FirstService Corp                                              FSV-T         10795    19960425
 Flaherty Crumrine Inv Gr Fixed Incm Fd                         FFI.U-T       86808    20080723
 FLINT ENERGY SVCS LTD                                          FES-T         38598    20030716
@@ -610,6 +615,7 @@ Fortis Inc                                                     FTS-T         102
 FORTIS INC PREF 1ST                                            FTS+C-T       38775    20031009
 Fortress Energy                                                FEI-T         17502    19970110
 Fortress Paper Ltd                                             FTP-T         69632    20071025
+FORTUNA SILVER MINES INC                                       FVI-T         65465    19940603
 Fortune Minerals Ltd                                           FT-T          38098    19980603
 Forzani Group Ltd (The)                                        FGL-T         10663    19960813
 FP Newspapers Income Fund                                      FP.UN-T       86690    20080724
@@ -648,7 +654,6 @@ Gildan Activewear Inc                                          GIL-T         104
 Gitennes Exploration                                           GIT-T         17606    19980122
 GLACIER VENTURES CP                                            GVC-T         38436    20000824
 Glass Earth Ltd                                                GEL-T         82082    20071025
-Glendale Intl                                                  GIN-T         10794    19960425
 Glentel Inc                                                    GLN-T         10726    19960813
 GLG Life Tech Corporation                                      GLG-T         82565    20071211
 Global 45 Split Corp                                           GFV-T         65582    20040531
@@ -672,6 +677,7 @@ Glv Inc B                                                      GLVB-T        379
 Gmp Capital Trst                                               GMP-T         38704    20031209
 Gold Participation and Income Fund                             GPF.U-T       90350    20091029
 Gold Reserve Corp                                              GRZ-T         10728    19960813
+GOLD WHEATON GOLD CORP                                         GLW-T         87959    20001016
 GOLDCORP INC                                                   G-T           38540    20020409
 Golden Minerals Company                                        AUM-T         90336    20091029
 Golden Peaks Resources Ltd                                     GL-T          27480    19960808
@@ -700,12 +706,12 @@ Grt Panther Slvr                                               GPR-T         278
 GRYPHON GOLD CORP                                              GGN-T         65421    20051223
 Guardian Capital Group Ltd                                     GCG-T         10824    19960425
 Guardian Capital Group Ltd                                     GCGA-T        10696    19960813
+Guestlogix Inc                                                 GXI-T         82253    20071025
 Guyana Gold Inc                                                GUY-T         37772    20040106
 GVIC Communications Corp                                       GCT-T         69637    20071025
 
 H&R REIT Units                                                 HRU-T         26701    19990607
 H. Paulin & Co. Ltd                                            PAPA-T        38332    19990610
-Haemacure Corp                                                 HAE-T         10757    19960813
 Hammond Manufacturing Company Ltd                              HMMA-T        10780    19960813
 Hammond Power Solutions Inc. Cl A SV                           HPSA-T        38678    20041201
 HanFeng Evergreen                                              HF-T          37067    19980603
@@ -733,6 +739,7 @@ Homeland Energy Group Ltd                                      HEG-T         834
 HOMEQ CORP                                                     HEQ-T         38799    20031009
 HORIZON NORTH LOGISTICS INC                                    HNL-T         65655    20060726
 Horizons AlphaPro Fiera Tactical Bond Fd                       HAF.U-T       90351    20091029
+Horizons AlphaPro Income Plus Fund                             HAP.U-T       91854    20100216
 Horizons AlphaPro Managed S&P/TSX 60.                          HAX-T         88463    20090128
 Horizons BetaPro COMEX                                         HBD-T         82879    20080123
 Horizons BetaPro COMEX                                         HBU-T         82880    20080123
@@ -778,6 +785,7 @@ Hrzn Beta Bull                                                 HEU-T         659
 HSBC CANADA ASSET BKD TR 2010                                  HBHM-T        38472    20001027
 HSE Integrated                                                 HSL-T         37375    20001106
 HUDBAY MINERALS INC                                            HBM-T         65078    20050218
+Huntingdon Real Estate Investment Trust                        HNT.U-T       91861    20100216
 Husky Energy Inc                                               HSE-T         10105    19950112
 Hydrogenics Cp                                                 HYG-T         38603    20030716
 Hyduke Capital Resources Ltd                                   HYD-T         25347    19960731
@@ -792,9 +800,11 @@ Imax Corp                                                      IMX-T         108
 Imperial Metals Corp                                           III-T         10895    19960508
 Imperial Oil                                                   IMO-T         10157    19950112
 IMRIS Inc                                                      IM-T          83266    20080213
+Imvescor Restaurant Group                                      IRG-T         91779    20040608
 Incm Finc TR TR UNIT                                           INCU-T        38811    20031009
 Indexplus Income Fund                                          IDX.U-T       86806    20080723
 Indigo Books & Music Inc                                       IDG-T         17518    19970110
+Indigo Exploration Inc                                         IXI-T         91659    20100125
 Industrial-Alliance Ins & Finl Svcs Inc                        IAG-T         26700    20000210
 Inmet Mining Corp                                              IMN-T         10889    19960813
 INN VEST REAL ESTATE INVT TRTR UNIT                            INNU-T        38813    20031009
@@ -810,7 +820,7 @@ Inter-Citic Mineral Inc                                        ICI-T         275
 Intermap Tech                                                  IMP-T         25810    19970110
 International Finl Income and Growth Tr                        FIT.U-T       86728    20080723
 International Nickel Ventures Corp                             INV-T         65554    20060317
-International Royalty Corp                                     IRC-T         65555    20050223
+International Tower Hill Mines Ltd                             ITH-T         91847    20100216
 INTERRENT INTL PROPERTIES INC                                  IIPU-T        37493    20011005
 Intertape Polymer Group                                        ITP-T         10851    19960425
 Intgr Asset                                                    IAM-T         25852    19970423
@@ -838,10 +848,16 @@ iShares CDN Russell 2000 Index                                 XSU-T         658
 iShares CDN S&P TSX SmallCap Index Fund                        XCS-T         65886    20070518
 iShares CDN Sct Cptl All Gvt Bnd Indx F                        XCB-T         65720    20061110
 iShares CDN Sct Cptl Lng Trm Bnd Indx FD                       XLB-T         65721    20061110
+iShares China Index Fund                                       XCH-T         91751    20100127
+iShares CNX Nifty India Index Fund                             XID-T         91750    20100127
 ISHARES COMEX GOLD TRUST                                       IGT-T         65395    20051206
 iShares Conservative Core Prtfl Bldr Fnd                       XCR-T         88478    20090128
 iShares Global Completion Prtfl Bldr Fnd                       XGC-T         88475    20090128
 iShares Growth Core Portfolio Buildr Fnd                       XGR-T         88476    20090128
+iShares MSCI Brazil Index Fund                                 XBZ-T         91748    20100127
+iShares S&P Latin America 40 Index Fund                        XLA-T         91749    20100127
+iShares U.S. High Yield Bond Index Fund                        XHY-T         91753    20100127
+iShares U.S. IG Corporate Bond Index Fun                       XIG-T         91752    20100127
 ISHR 100%HG CAD$                                               XIN-T         38575    20020415
 ISHR CPD EGY IDX                                               XEG-T         38506    20010323
 ISHR CPD MTR IDX                                               XMA-T         65424    20051228
@@ -902,6 +918,7 @@ Lassonde Industries Inc                                        LASA-T        262
 Laurentian Bank Of Canada                                      LB-T          10317    19950112
 LAURENTIAN PR D                                                LB+D-T        37635    20020912
 LAURENTIAN PR E                                                LB+E-T        37943    20040507
+Lazard Global Convertible Bond Fund                            CBF.U-T       91852    20100216
 Legacy Oil & Gas Inc                                           LEG-T         87561    20060501
 Legg Mason Canada Holdings Ltd                                 LMI-T         38287    19981014
 Leon's Furniture Ltd                                           LNF-T         10866    19960425
@@ -938,12 +955,14 @@ MAG SILVER CORP                                                MAG-T         388
 Magellan Aerospace                                             MAL-T         10796    19960506
 MagIndustries Corp                                             MAA-T         65430    19980128
 Magma Energy Corp                                              MXY-T         89850    20090807
+MAGMA METALS LIMITED NPV                                       MMW-T         92127    20100308
 Magna International Inc. Cl A SV                               MG+A-T        38724    20041201
 Magnotta Winery Corp                                           MGN-T         17703    19960813
 Mainstreet Equity Cp                                           MEQ-T         38405    20000601
 Major Drilling Group International Inc                         MDI-T         17692    19960813
 Malaga inc                                                     MLG-T         26151    19960806
 Manitoba Telecom Services                                      MBT-T         17529    19970110
+Mantra Resources Ltd                                           MRL-T         91848    20100216
 Manulife Brompton Advantaged Bond Fund                         MBB.U-T       90362    20091029
 Manulife Financial Capital Trust                               MFTM-T        65569    20011206
 Manulife Financial Corp                                        MFC-T         38354    19990930
@@ -972,15 +991,14 @@ MDN Inc                                                        MDN-T         262
 MDS Inc                                                        MDS-T         10079    19950112
 MEDIAGRIF INTERACTIVE TECH                                     MDF-T         38458    20001012
 MEDICAL FACILITIES CORP                                        DR.UN-T       65733    20061127
-Medicure Inc                                                   MPH-T         28486    20000110
 Mediterranean Resources Ltd                                    MNR-T         65957    19950908
+Medusa Mining Ltd                                              MLL-T         91849    20100216
 MEGA BRANDS INC                                                MB-T          38609    20030716
 Mega Uranium Ltd                                               MGA-T         69647    20071025
 Melcor Developments Ltd                                        MRD-T         10881    19960425
 MENU FOODS Incm FD UNIT                                        MEWU-T        38839    20031009
 Mercator Minerals Ltd                                          ML-T          28040    19960808
 MERCER INTL INC                                                MRIU-T        38576    20030428
-METALLIC VENTURE GOLD                                          MVG-T         38559    20021223
 Metalore Resources Ltd                                         MET-T         17698    19960813
 Methanex Corp                                                  MX-T          10154    19950112
 METHYLGENE INC                                                 MYG-T         37982    20040629
@@ -1014,7 +1032,6 @@ Morguard REIT Units                                            MRTU-T        267
 Morneau Sobeco Income Fund                                     MSI.U-T       86799    20080723
 Mosaid Tech Inc                                                MSD-T         10392    19951129
 Mountain Province Diamonds                                     MPV-T         38316    19990122
-Moydow Mines                                                   MOY-T         17987    19960813
 MSP Maxxum Trust                                               MXT.U-T       86736    20080723
 MTI Global                                                     MTI-T         38459    20001012
 Mullen Grp Incm                                                MTL-T         10898    19960425
@@ -1076,7 +1093,6 @@ Nov International                                              EKO-T         263
 NOVA SCOTIA PRD                                                NSI+D-T       37646    20001027
 Novadaq Technologies Inc                                       NDQ-T         65562    20050610
 NovaGold Resources Inc                                         NG-T          17752    19960813
-NUCRYST Pharmaceuticals Corp                                   NCS-T         65564    20051220
 Nuinsco Resources Ltd                                          NWI-T         17759    19960813
 NUVISTA ENERGY LTD                                             NVA-T         38579    20030709
 Nuvo Research                                                  NRI-T         17530    19970226
@@ -1084,13 +1100,14 @@ Nuvo Research                                                  NRI-T         175
 O'LEARY GLOBAL INFRA FD CL A                                   OGN.U-T       88433    20081208
 Occulogix                                                      TLB-T         65673    20060901
 OceanaGold Corp                                                OGC-T         69662    20071025
+OCP Credit Strategy Fund                                       OCS.U-T       91856    20100216
 Oil Sands and Energy Mega-Projects Trust                       OSM.U-T       86769    20080723
 Oil Sands and Energy Mega-Projects Trust                       OSM.UN-T      65622    20060418
 Oil Sands Sector Fund                                          OSF.U-T       86776    20080723
 Oil Sands Sector Fund                                          OSF.UN-T      65630    20060315
 Oil Sands Split Trust                                          OSTU-T        65369    20051027
-Oilexco Inc                                                    OIL-T         25492    19960731
 OilSands Canada Corp                                           OCF-T         69661    20071025
+OLeary Canadian Equity Income Fund                             OCZ.U-T       91857    20100216
 OLeary Canadian Income Opportunities Fd                        OCY.U-T       90366    20091029
 OLeary Global Equity Income Fund                               OGE.U-T       86801    20080723
 OLeary Global Income Opportunities Fund                        OGO.U-T       90367    20091029
@@ -1106,6 +1123,7 @@ OPTI CANADA                                                    OPC-T         379
 Orbit Garant Drilling Inc                                      OGD-T         86712    20080724
 Orex Ventures Inc                                              REX-T         65917    20070622
 Orezone Gold Crp                                               ORE-T         88961    20090225
+Orion Oil & Gas Corp                                           OIP-T         91850    20100216
 Orleans Energy Ltd                                             OEX-T         65965    19950911
 Oromin Explorations Ltd                                        OLE-T         88446    20090128
 Orsu Metals Corp                                               OSU-T         65304    20050511
@@ -1136,9 +1154,9 @@ Parkland Industries Ltd                                        PKIU-T        109
 Pason Systems Inc                                              PSI-T         17601    19980123
 Passport Metals Inc                                            PPI-T         82181    20071025
 Patheon Inc                                                    PTI-T         17802    19960813
+Pathfinder Convertible Debenture Fund                          PCD.U-T       91858    20100216
 PC Gold Inc                                                    PKL-T         85126    20080513
 Peak Energy Services                                           PESU-T        17567    19970625
-Pebercan Inc                                                   PBC.H-T       26227    19960806
 Pediment Gold Cp                                               PEZ-T         65362    20051013
 Peer 1 Network Corp                                            PIX-T         82247    20071025
 PEMBINA PIPELINE Incm FD TR UNIT                               PIFU-T        38877    20031009
@@ -1182,7 +1200,6 @@ POWER Finc CORP PFD I IS                                       PWF+I-T       388
 POWER FINL PR D                                                PWF+D-T       37659    20000814
 POWER FINL PR E                                                PWF+E-T       37658    20000814
 POWER FINL PR F                                                PWF+F-T       37657    20020912
-PowerComm Inc                                                  PCG-T         69666    20071025
 PowerShares DB Agriculture Double Long E                       DAA-T         90344    20091029
 PowerShares DB Gold Dbl Lng Exch Trd Nts                       DGU-T         88480    20090128
 PowerShares DB Gold Dbl Shrt Ex Trd Nts                        DGJ-T         88481    20090128
@@ -1210,7 +1227,6 @@ Progress En Recs                                               PRQ-T         653
 Prometic Life Sciences Inc                                     PLI-T         38271    19980729
 Prosep Inc                                                     PRP-T         27358    19960808
 ProspEx Resources Ltd                                          PSX-T         65969    20041005
-Protective Products of America Inc                             PPA-T         25144    19960731
 PROTOX THERAPEUTICS INC                                        PRX-T         38708    20040714
 Provident Energy Tr Uts                                        PVEU-T        17558    19970519
 PRT Forest Regeneration Income Fd                              PRT.U-T       88449    20090128
@@ -1249,7 +1265,9 @@ Revett Minerals Inc                                            RVM-T         650
 RICHARDS PACKAGING INCOME FD                                   RPIU-T        65451    20060118
 Richelieu Hardware Ltd                                         RCH-T         10974    19960425
 Richmont Mines                                                 RIC-T         10975    19960425
+Ridgewood Canadian Investmnt Grd Bnd Fnd                       RIB.U-T       91859    20100216
 Ridley Canada Ltd                                              RCL-T         38197    19980603
+Rio Novo Gold Inc                                              RN-T          92145    20100308
 Riocan Real Est Inv Tr                                         REIU-T        10750    19960425
 RITCHIE BROS                                                   RBA-T         37956    20040507
 Rock Energy Inc                                                RE-T          27922    19960808
@@ -1302,6 +1320,7 @@ Sentry Select Blue-Chip Income Trust                           SIT.U-T       866
 Sentry Select Commodities Income Trust                         SSJ.U-T       86785    20080723
 Sentry Select Global Index Income Trust                        SGT.U-T       88479    20090128
 Sentry Select Global Real Estate Fund                          GRE.U-T       86750    20080725
+Sentry Select Global Real Estate Fund                          GREU-T        91572    20100121
 Senvest Capital Inc                                            SEC-T         17852    19960813
 SFK PULP FD UNIT                                               SFKU-T        38912    20031009
 Shaw Comm Cl B                                                 SJRB-T        10203    19950112
@@ -1338,6 +1357,7 @@ Solium Capital Inc                                             SUM-T         696
 South American Gold & Copper Company                           SAG-T         17839    19960813
 South American Silver Corp                                     SAC-T         69677    20071025
 Southgobi En Res                                               SGQ-T         37762    20031215
+Spartan Exploration Ltd                                        SPE-T         91573    20100121
 Spectra En Ca A                                                SPTA-T        38538    20020321
 SPECTRA ENGY EXCHG A                                           SPT.A-T       85207    20080515
 Spectral Diagnostics Inc                                       SDI-T         17848    19960813
@@ -1345,6 +1365,7 @@ Split Yield Corporation                                        YLD-T         382
 SPLIT YIELD PR                                                 YLD+A-T       37691    20000803
 SPLIT YIELD PR                                                 YLD+B-T       37690    20000720
 Sprott Inc                                                     SII-T         86760    20080724
+SPROTT PHYSICAL GOLD TR UNITS                                  PHY.U-T       92125    20100226
 Sprott Resources                                               SCP-T         10737    19960813
 Spur Ventures Inc                                              SVU-T         28113    19960808
 St Andrew Goldfields Ltd                                       SAS-T         17841    19960813
@@ -1384,6 +1405,7 @@ SXC Health Sol                                                 SXC-T         103
 Synergex                                                       SYX-T         37538    20020718
 Synex International Inc                                        SXI-T         17888    19960813
 
+T.Boone Pickens Energy Fund                                    TBP.U-T       91893    20100219
 Taiga Bldg Product                                             TBL-T         65548    20060509
 Talisman Energy                                                TLM-T         10121    19950112
 Talon Metals                                                   TLO-T         65292    20050413
@@ -1408,6 +1430,7 @@ Tethys Petroleum Ltd                                           TPL-T         696
 Thallion Pharm                                                 TLN-T         38451    20001010
 The Adjustable Rate MBS Trust                                  ADJ.U-T       86814    20080723
 The Brick Group Income Fund                                    BRK.U-T       86757    20080723
+The Canadian Shield Fund                                       MSP.U-T       91855    20100216
 The Keg Royalties Income Fund                                  KEG.U-T       86782    20080723
 Theratechnologies Inc                                          TH-T          26458    19960806
 Third Canadian General Investment Trust                        THD-T         17908    19960813
@@ -1421,7 +1444,6 @@ Timberwest Forest Corp Units                                   TWFU-T        383
 Timminco Ltd                                                   TIM-T         17914    19960813
 Tiomin Resources Inc                                           TIO-T         17915    19960813
 Tirex Resources Ltd                                            TXX-T         82264    20071025
-TLC Vision Corp                                                TLC-T         17680    19960813
 Tmx Group Inc                                                  X-T           38648    20031001
 Top 10 Canadian Financial Trust                                TCT.U-T       86803    20080723
 Top 10 Split                                                   TXTU-T        38771    20031009
@@ -1447,12 +1469,13 @@ TRANSITION THERAPEUTICS INC                                    TTH-T         386
 Tranzeo Wireless Technologies Inc                              TZT-T         69691    20071025
 TREASURY METALS IN COM NPV                                     TML-T         88434    20080819
 TREE ISLAND WIRE Incm FD TR UNIT                               TILU-T        38945    20031009
+TriAusMin                                                      TOR-T         91851    20100216
 TRIAX DIVERSIFIED HI-YIELD TTR UNIT                            TRHU-T        38948    20031009
 Tribune Uranium Corp                                           TCB-T         82239    20071025
 Trican Well Service Ltd                                        TCW-T         38236    19980603
 Trident Performance Corp                                       TCP-T         86758    20080724
 Trident Performance Corp II                                    TCZ-T         90375    20091029
-TRILOGY ENERGY TRUST                                           TETU-T        65505    20050406
+TRILOGY ENERGY TRUST                                           TET-T         65505    20050406
 Trimac Income Fund                                             TMA.U-T       86738    20080723
 Trinidad Driling                                               TDG-T         38938    20031009
 Troy Energy Corp                                               TEG.H-T       89292    20040726
@@ -1550,11 +1573,11 @@ World Color Press Inc                                          WC-T          903
 World Energy Sol                                               XWE-T         65727    20061116
 WORLD FIN SPLIT                                                WFS-T         37932    20040507
 World Point Terminals Inc                                      WPO-T         38258    19980603
+Woulfe Mining Corp                                             WOF-T         25492    19960731
 
 X-Cal Resources Ltd                                            XCL-T         17989    19960813
 XCEED MORTGAGE COMPANY                                         XMC-T         65605    20040608
 Xebec Adsorption                                               XBC-T         38754    20041221
-XENOS GROUP INC                                                XNS-T         38462    20001012
 XINERGY LTD                                                    XRG-T         90822    20091224
 Xtreme Coil Drilling Corp                                      XDC-T         65675    20060905
 

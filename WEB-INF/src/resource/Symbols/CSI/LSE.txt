@@ -31,13 +31,12 @@ Acal plc                                                       ACL-L         161
 ACCESS INTELLIG GB                                             ACC-L         51098    20031215
 Accident Exchange Group                                        ACE-L         63326    20031015
 Accsys Technologies                                            AXS-L         51417    20061017
-Accuma Group                                                   ACG-L         63460    20050331
 Acencia Debt Strategies Ltd                                    ACD-L         77580    20080701
 ACM Shipping Group                                             ACMG-L        77371    20070521
 Acorn Income Fd Ld Ord 25p                                     AIF-L         16515    19991110
 ACP CAPITAL                                                    APL-L         63790    20060112
 Active Capital                                                 AIT-L         48124    20010516
-Acuity VCT 2                                                   AQT2-L        77312    20070521
+ACUITY GR VCT                                                  AQT2-L        77312    20070521
 ADALTA REAL                                                    ADAR-L        48476    20031015
 AdEPT Telecom                                                  ADT-L         51550    20061017
 ADMIRAL GROUP GB                                               ADM-L         63028    20041001
@@ -64,7 +63,7 @@ African Medical Investments                                    AMEI-L        775
 AGA Foodserve Group                                            AGA-L         16058    19960110
 Aggreko                                                        AGK-L         39127    19990210
 AGI Therapeutics                                               AGI-L         51549    20061017
-AGRITERRA                                                      AGTAR-L       63416    20050222
+AGRITERRA                                                      AGTA-L        63416    20050222
 AI Claims Sol                                                  ACS-L         48370    20031015
 AIM Distribution Trust                                         AMD-L         77169    20070521
 AIM Investment                                                 AIMA-L        63591    20050331
@@ -239,6 +238,7 @@ BEGBIES TRAYNOR GB                                             BEG-L         630
 Belgravium Tech                                                BVM-L         16505    19960223
 Bellway plc                                                    BWY-L         16269    19960223
 BEOWULF MINING                                                 BEM-L         63647    20050518
+Berkeley Group                                                 BKG-L         91900    20080304
 Berkeley Resources                                             BKY-L         77295    20070521
 Berkeley Tech                                                  BEK-L         39618    19990210
 Berkly Min Res                                                 BMRB-L        51016    20011004
@@ -261,7 +261,6 @@ Biofutures International                                       BIP-L         638
 Bioquell Plc                                                   BQE-L         39598    19990210
 Biotech Growth Trust                                           BIOG-L        17422    19970801
 Bisichi Mining                                                 BISI-L        39243    19990210
-Black Arrow                                                    BLKA-L        39245    19990210
 Black Sea Property Fund                                        BKSA-L        63503    20050331
 BlackRock Absolute Return Strat                                BARS-L        77588    20080701
 BlackRock Comms Income Inv Tst                                 BRCI-L        77660    20090430
@@ -315,7 +314,7 @@ BRIGHTSIDE GROUP                                               BRT-L         639
 Brinkley Mining                                                BRM-L         51462    20061017
 BRISTOL & WEST                                                 BRS-L         63648    20050518
 Bristol and West Building Soc                                  BWS+-L        77339    20070521
-BRIT INSURANCE HOLDINGS PLC                                    BRE-L         39235    19990210
+BRIT INSURANCE                                                 BRE-L         39235    19990210
 British Airways plc                                            BAY-L         16028    19960110
 BRITISH AMERICAN TOBACCO PLC                                   BATS-L        16011    19960110
 British Assets Trust                                           BSET-L        17298    19970408
@@ -357,6 +356,7 @@ CAP & REGIONAL                                                 CAL-L         484
 Cap-XX                                                         CPX-L         63869    20060511
 CAPCON HOLDINGS                                                CPC-L         48425    20031015
 CAPE                                                           CIU-L         48426    20031015
+CAPE RESOURCES                                                 CAPE-L        77669    20100216
 Capita Group plc                                               CPI-L         16365    19960223
 Capital Gearing                                                CGT-L         39283    19990210
 Capital Management & Investment                                CMIP-L        63526    20050331
@@ -470,7 +470,6 @@ CML Microsystems plc                                           CML-L         164
 Coal Of Africa                                                 CZA-L         63843    20060209
 Coastal Energy Company                                         CEO-L         51474    20061017
 Cobham plc                                                     COB-L         16426    19960223
-COBRA BIO MANU                                                 CBF-L         48450    20031015
 COBURG GROUP                                                   CGG-L         48451    20031015
 Coe Group                                                      COE-L         39439    19990210
 COFFEEHEAVEN INT                                               COH-L         48453    20031015
@@ -482,7 +481,6 @@ Colt Telecom                                                   COLT-L        391
 COMM BROKING GRP                                               CB-L          63339    20031124
 Commoditrade Inc                                               CMM-L         51472    20061017
 Communisis                                                     CMS-L         39578    19990210
-Company Health                                                 CHT-L         63295    20031015
 Compass Group plc                                              CPG-L         16041    19960110
 Computacenter                                                  CCC-L         39135    19990210
 Coms                                                           COMS-L        63491    20050331
@@ -570,7 +568,6 @@ Devro Int'l plc                                                DVO-L         164
 Dewhurst 'A'                                                   DWHA-L        39332    19990210
 Dewhurst plc                                                   DWHT-L        16490    19960223
 DEXION ABSOLUTE                                                DAB-L         48480    20031015
-DEXION COM EUR                                                 DCL-L         63875    20060511
 Dexion Eq Alt                                                  DEA-L         51162    20040406
 DEXION TRADING                                                 DTL-L         63411    20050222
 Diageo Plc                                                     DGE-L         17478    19980123
@@ -582,13 +579,20 @@ Dillistone Group                                               DSG-L         515
 Dimension Data                                                 DDT-L         17296    20000720
 Diploma plc                                                    DPLM-L        16493    19960223
 Direct Wonen N.V.                                              DIWO-L        77084    20070501
+DIRECTEX REAL                                                  DXR-L         63314    20041214
 DIRECTORS INV                                                  DDIT-L        39350    19990210
 Discover Leisure                                               DISL-L        63683    20050518
 Discovery Metals                                               DME-L         77411    20070829
 DJ Stoxx 600 Banks Short ETF                                   XS7S-L        77636    20080805
+DJ Stoxx 600 ETF                                               XSX6-L        92032    20090217
 DJ Stoxx 600 Health Care                                       XSDR-L        77641    20080805
+DJ STOXX 600 Healthcare Short Daily ETF                        XSDS-L        92029    20080805
+DJ Stoxx 600 Ind Goods Short Daily ETF                         XIGS-L        92027    20090908
+DJ Stoxx 600 Insurance Short Daily ETF                         XSIS-L        92030    20090908
 DJ Stoxx 600 Oil & Gas Short ETF                               XSES-L        77635    20080805
 DJ Stoxx 600 Technology Short ETF                              XS8S-L        77633    20080805
+DJ STOXX 600 Telecoms Short Daily ETF                          XSKS-L        92031    20080805
+DJ Stoxx 600 Utilities Short Daily ETF                         XS6S-L        92028    20090908
 DM Plc                                                         DMP-L         48029    20000830
 DOLPHIN CAP INV                                                DCI-L         63788    20051208
 Dominion Petroleum                                             DPL-L         63980    20061212
@@ -614,7 +618,6 @@ DYSON GROUP                                                    DYS-L         484
 
 E2V Technologies                                               E2V-L         63541    20050331
 Eaga                                                           EAGA-L        77313    20070620
-Eagle Eye Telematics                                           EIT-L         77222    20070521
 EARTHPORT                                                      EPO-L         48492    20031015
 East European Trust                                            EST-L         39155    19990210
 Eastern European Property                                      EEP-L         51528    20061017
@@ -657,7 +660,6 @@ ENERGY XXI                                                     EXXS-L        637
 Energybuild Group                                              EBG-L         77170    20070521
 Enfis Group                                                    ENF-L         77086    20070323
 ENGEL EAST EUR                                                 EEE-L         63836    20060209
-Enova Systems                                                  ENV-L         77463    20071003
 ENSOR HOLDINGS                                                 ESR-L         63002    20031015
 Enterprise Inns                                                ETI-L         39372    19990210
 Entertainment One                                              ETO-L         77064    20070411
@@ -667,7 +669,6 @@ EPE SPL OPPRT                                                  ESOE-L        635
 Epicure Qatar Equity Opp.                                      EQEO-L        77601    20080701
 Epistem Holdings                                               EHP-L         77069    20070411
 EQUEST BALK PRP                                                EBP-L         63834    20060209
-Equest Investments Balkans                                     EIB-L         77599    20080701
 Equity Part Cap                                                EQP-L         51160    20040325
 EREDENE CAPITAL                                                ERE-L         63415    20050222
 Eros International                                             EROS-L        77382    20070521
@@ -729,6 +730,7 @@ ETFS SOYBN.OIL                                                 SOYO-L        770
 ETFS SUGAR                                                     SUGA-L        77024    20061220
 ETFS WHEAT                                                     WEAT-L        77025    20061220
 ETFS ZINC                                                      ZINC-L        77026    20061220
+EUR INVT TRUST                                                 EUTP-L        39140    19990210
 EURASIA MINING PLC ORD 5P                                      EUA-L         48305    20030910
 Eurasian Natural Resources Corp                                ENRC-L        77523    20071212
 Euro. Assets                                                   EAT-L         39378    19990210
@@ -745,13 +747,13 @@ Experian Group                                                 EXPN-L        639
 F & C Smlr.                                                    FCS-L         39383    19990210
 F&C Asset Mngt                                                 FCAM-L        16708    19960223
 F&C Cap & Inc It                                               FCI-L         39429    19990210
+F&C Commercial Property Trust                                  FCPL-L        91901    20090707
 F&C PRIVAT EQ B                                                FPEB-L        16771    19990909
 F&C UK Select Trust                                            FUS-L         77195    20070521
 F&C US SMALL CO                                                FSC-L         63012    20031015
 Fairpoint Grp                                                  FRPG-L        48212    20030130
 Falkland Islands Hldgs                                         FKL-L         17484    19980123
 Faroe Petro                                                    FPM-L         48247    20030630
-FDM Group                                                      FDMG-L        77343    20070521
 Feedback                                                       FDBK-L        39387    19990210
 Fenner plc                                                     FENR-L        16554    19960223
 Ferrexpo                                                       FXPO-L        77326    20070620
@@ -781,7 +783,6 @@ FITBUG HLD                                                     FITB-L        634
 Fletcher King                                                  FLK-L         39421    19990210
 Flying Brands Ltd Shares                                       FBDU-L        16572    19990909
 Focus Solutions Group                                          FSG-L         16196    20000317
-For. & Col. Euro.                                              FCU-L         39140    19990210
 FORBIDDEN TECH ORD 0.8P                                        FBT-L         16693    20000614
 Foreign Colonial Investment Trust                              FRCL-L        17323    19970408
 Foresight 2 VCT                                                FTN-L         77308    20070521
@@ -789,7 +790,6 @@ Foresight 3 VCT                                                FTD-L         771
 Foresight 4 VCT                                                FTF-L         39179    19990210
 Foresight Technology VCT                                       FTV-L         77046    20070117
 Formation Group                                                FRM-L         48273    20030730
-FORMJET GB                                                     FMJ-L         51282    20040913
 Formula Telecom Solutions                                      FTS-L         63726    20050818
 Forth Ports plc                                                FPT-L         16577    19960223
 Fortune Oil plc                                                FTO-L         16578    19960223
@@ -837,7 +837,6 @@ Gem Biofuels                                                   GBF-L         775
 Gem Diamonds                                                   GEMD-L        77094    20070214
 Gemfields Resources                                            GEM-L         51486    20061017
 Genesis E.M.F.                                                 GSS-L         39470    19990210
-GENETIX GROUP                                                  GTX-L         63035    20031015
 GENUS                                                          GNS-L         63036    20031015
 Geong International                                            GNG-L         77606    20080701
 Geopark Holdings                                               GPK-L         51572    20061017
@@ -849,7 +848,6 @@ Glanbia                                                        GLB-L         635
 Glaxo Smithkline plc                                           GSK-L         16057    19960110
 Gleeson (M.J.) Group plc                                       GLE-L         16602    19960223
 GLISTEN                                                        GLI-L         48159    20020807
-GLOBAL BRANDS SA                                               GBR-L         63779    20051020
 Global Coal Mgmt                                               GCM-L         63483    20050331
 GlobeOp Financial Services S.A.                                GO-L          77413    20070829
 Globus Maritime                                                GLBS-L        77334    20070620
@@ -869,6 +867,7 @@ GR Holdings                                                    GRH-L         771
 GRAFTON GRP UT 1C OR 0.00025P                                  GRFU-L        48221    20030131
 Grainger Trust plc                                             GRI-L         16612    19960223
 GRAPHITE ENTERPRISE TRT PLC                                    GPE-L         48230    20030306
+Great Bear Resrc                                               GBR-L         63779    20051020
 Great Portland Estates plc                                     GPOR-L        16617    19960223
 Greatland Gold                                                 GGP-L         51418    20061017
 GREEN CO2                                                      GCO-L         48129    20010516
@@ -890,7 +889,6 @@ H&T Group                                                      HAT-L         638
 Haike Chemical Group                                           HAIK-L        77096    20070214
 HALFORDS GROUP GB                                              HFD-L         51216    20040617
 HALIFAX                                                        HAL+-L        77207    20070521
-HALLIN MARINE                                                  HMS-L         63660    20050518
 Halma plc                                                      HLMA-L        16632    19960223
 HAMBLEDON MINING GB                                            HMB-L         51215    20040617
 Hammerson Property plc                                         HMSO-L        16067    19960110
@@ -999,7 +997,6 @@ IMPAX ASST MNG                                                 IPX-L         630
 IMPAX ENMTL MKTS                                               IEM-L         63077    20031015
 Impellam Group                                                 IPEL-L        77618    20080701
 Imperial Tobacco Group                                         IMT-L         16833    19971203
-IN HOUSE GROUP                                                 IHGP-L        77613    20080701
 INCAGOLD                                                       IGD-L         63705    20050627
 Inchcape plc                                                   INCH-L        16074    19960110
 INDEPENDENT INV TST PLC ORD 25                                 IIT-L         63357    20031204
@@ -1034,7 +1031,6 @@ Intelek                                                        ITK-L         395
 INTELLEGO HLDGS GB                                             IHP-L         63385    20041221
 INTELLEXIS                                                     ILX-L         63088    20031015
 INTELLIGENT ENVIROMENTS GROUP                                  IEN-L         48264    20030714
-INTERACTIVE PROSP GB                                           IPH-L         63314    20041214
 INTERBULK INV GB                                               INB-L         63394    20050106
 INTERCEDE GRP PLC ORD 25P                                      IGP-L         48057    20010126
 Interior Svcs Group Plc Ord 1p                                 ISG-L         39095    19980821
@@ -1128,13 +1124,11 @@ Jacques Vert plc                                               JQV-L         167
 James Halstead plc                                             JHD-L         16633    19960223
 Japan Leisure Hotels                                           JPLH-L        77551    20080117
 Japan Residential Inv. Co.                                     JRIC-L        63963    20061016
-Japnse Accel Fund                                              JAP-L         51102    20031219
 Jardine Lloyd Thompson                                         JLT-L         16755    19960223
 Jarvis plc                                                     JRVS-L        16711    19960223
 JARVIS SECURITIES GB                                           JIM-L         63395    20050106
 Jelf Group                                                     JLF-L         63578    20050331
 Jersey Electricity                                             JEL-L         77282    20070521
-JESSOPS                                                        JSP-L         63422    20050222
 JETION SOLR HLDS                                               JHL-L         77417    20070829
 JJB Sports                                                     JJB-L         39143    19990210
 JKX Oil & Gas plc                                              JKX-L         16718    19960223
@@ -1142,7 +1136,7 @@ JOHN SWAN                                                      SWJ-L         631
 Johnson Mathey plc                                             JMAT-L        16075    19960110
 Johnson Services plc                                           JSG-L         16721    19960223
 Johnston Press plc                                             JPR-L         16723    19960223
-JOURNEY GRP                                                    JNYJ-L        39880    19990210
+JOURNEY GRP                                                    JNY-L         39880    19990210
 JP Morgan Amer Invest                                          JAM-L         39138    19990210
 JP Morgan Euro Growth In Trust                                 JETG-L        77520    20071026
 JP Morgan Fleming Chinese Inv Tst                              JMC-L         63579    20050331
@@ -1175,6 +1169,7 @@ Kalimantan Gold Corp                                           KLG-L         771
 KARELIAN DIAM                                                  KDR-L         63744    20051020
 KAZAKHMYS WI                                                   KAZ-L         63757    20051020
 KBC Adv Tech PLC                                               KBC-L         17401    19970801
+KEA PETROLEUM                                                  KEA-L         77671    20100216
 Kefi Minerals                                                  KEFI-L        77104    20070515
 Kellan Group                                                   KLN-L         63239    20041214
 Keller Group plc                                               KLR-L         16728    19960223
@@ -1231,7 +1226,6 @@ Lincat Group plc                                               LCT-L         167
 Lindsell Train Investment Trust                                LTI-L         63586    20050331
 Liontrust Asset Management plc ord 1p                          LIO-L         16746    19990909
 Lipoxen                                                        LPX-L         63564    20050331
-Litcomp                                                        LIN-L         51478    20061017
 Litho Supplies                                                 LTS-L         39610    19990210
 Livermore  Inc Grp                                             LIV-L         63698    20050627
 Lloyds Bank plc                                                LLOY-L        16083    19960110
@@ -1248,7 +1242,6 @@ London & Stamford Property                                     LSP-L         775
 LONDON CAP GRP                                                 LCG-L         63849    20060209
 London Security                                                LSC-L         77330    20070521
 LONDON STK EXCH PLC ORD 5P                                     LSE-L         51003    20011004
-LONDON TOWN                                                    LTW-L         63125    20031015
 Lonmin Plc Ord                                                 LMI-L         39919    19990428
 Lonrho Africa                                                  LONR-L        39619    19990210
 Lonzim                                                         LZM-L         77530    20071212
@@ -1339,6 +1332,7 @@ Melorio                                                        MLO-L         775
 MELROSE PLC                                                    MRO-L         63335    20031124
 MELROSE RESOURCES ORDINARY SHA                                 MRS-L         48227    20030226
 Menzies (John) plc                                             MNZS-L        16807    19960223
+Mercantile Investment Trust                                    MRC-L         91902    20080304
 MERCHANT HSE GRP                                               MHG-L         63139    20031015
 Merchant Sec                                                   MERC-L        63534    20050331
 Merchants Trust                                                MRCH-L        17341    19970408
@@ -1472,7 +1466,6 @@ NTHN PETROLEUM                                                 NOP-L         631
 Nthn. Investors                                                NRI-L         39688    19990210
 Nthn. Venture                                                  NVT-L         39689    19990210
 NUMIS CORP                                                     NUM-L         63175    20031015
-Nviro Cleantech                                                NVR-L         77425    20070829
 NWF GROUP                                                      NWF-L         63177    20031015
 NXT PLC                                                        NTX-L         16098    19990909
 NYOTA MINER NPV                                                NYO-L         51111    20040107
@@ -1511,6 +1504,7 @@ Osmetech Plc                                                   OMH-L         162
 OTTOMAN FD                                                     OTM-L         63858    20060209
 Ovoca Resources                                                OVG-L         63599    20050331
 Oxeco                                                          OXE-L         77113    20070515
+OXF NUTRASCI GRP                                               ONG-L         77670    20100216
 Oxford Adv Surf                                                OXA-L         77103    20070515
 Oxford Biomedica                                               OXB-L         17413    19970801
 Oxford Catalysts Group                                         OCG-L         63908    20060511
@@ -1582,7 +1576,6 @@ Pinnacle Staffing Group                                        PCL-L         514
 PINNACLE TEL                                                   PINN-L        63282    20041214
 PIPEHAWK PLC ORD 1P                                            PIP-L         48067    20010126
 Pittards                                                       PTD-L         39725    19990210
-Pixel Interactive Media                                        PIXL-L        77279    20070521
 Planet Group                                                   PPT-L         77360    20070521
 PLANT HEALTH CARE GB                                           PHC-L         51227    20040712
 Plant Impact                                                   PIM-L         63945    20061016
@@ -1696,7 +1689,6 @@ Redhall Group                                                  RHL-L         639
 Redrow Group plc                                               RDW-L         16968    19960223
 REDSTONE TELECOM PLC ORD 5P                                    RED-L         17138    20000614
 Reed Elsevier                                                  REL-L         16113    19960110
-REENERGY GROUP                                                 RGY-L         63871    20060209
 REGAL PETROLEUM                                                RPT-L         51074    20021029
 REGEN THERAPEUT                                                RGT-L         63222    20031015
 Regenersis                                                     RGS-L         63656    20050518
@@ -1714,6 +1706,7 @@ Rensburg                                                       RBG-L         163
 Rensburg Aim Vct                                               RSB-L         48417    20031015
 Rentokil Group plc                                             RTO-L         16114    19960110
 Res In Insurance                                               RIIG-L        48328    20031014
+Resolution                                                     RSL-L         91903    20081205
 Restaurants Group plc                                          RTN-L         16409    19960223
 REXAM plc                                                      REX-L         16106    19960110
 Rheochem                                                       RHEP-L        63612    20050331
@@ -1775,7 +1768,6 @@ Schroder Japan                                                 SJG-L         397
 Schroder M&S Fd                                                SCP-L         39669    19990210
 Schroder Oriental Income Fund                                  SOI-L         63839    20060410
 Schroder UK                                                    SDU-L         39773    19990210
-Schroder Ven. I.T.                                             SVI-L         39774    19990210
 Schroders N/V                                                  SDRC-L        17355    19970408
 Schroders plc                                                  SDR-L         16120    19960110
 SCISYS                                                         SSY-L         48452    20031015
@@ -1857,6 +1849,7 @@ Southern Cross Healthcare                                      SCHE-L        775
 Sovereign Rev                                                  SVN-L         51180    20040416
 SPACEANDPEOPLE GB                                              SAL-L         63397    20050106
 Spark Ventures                                                 SPK-L         48326    20031007
+SPECIALIST ENER                                                SEGR-L        77425    20070829
 Spectris PLC                                                   SXS-L         48137    20010522
 SPECTRUM INTER                                                 SIN-L         63678    20050518
 Speedy Hire                                                    SDY-L         16195    19960223
@@ -1916,6 +1909,7 @@ Supporta                                                       SOR-L         511
 SURFACE TRNFORM                                                SCE-L         51075    20021029
 SURGICAL INNOV                                                 SUN-L         63263    20031015
 SUTTON HARBOUR                                                 SUH-L         63264    20031015
+SVG Capital                                                    SVI-L         39774    19990210
 SVM Global Fund PLC                                            SVG-L         63431    20050222
 SVM OFEX FUND PLC                                              SVM-L         39102    19980821
 SVM UK Active                                                  SVU-L         17425    19970801
@@ -1958,11 +1952,13 @@ TEN ALPS COMMS                                                 TAL-L         632
 TERRACE HILL GROUP PLC                                         THG-L         16223    20000614
 Tesco plc                                                      TSCO-L        16147    19960110
 Tex Holdings                                                   TXH-L         39837    19990210
+Thames River Multi Hedge PCC                                   TRMA-L        91904    20080304
+Thames River Multi Hedge PCC                                   TRM-L         91906    20080304
 THB GROUP                                                      THB-L         51080    20021029
 The Mission Marketing Group                                    TMMG-L        63916    20060511
 THEO FENNELL                                                   TFL-L         63281    20031015
 THIRD POINT OFFSHORE INVESTORS                                 TPOU-L        90551    20090102
-Thirdforce                                                     THF-L         63630    20050331
+THIRD QUAD CAP                                                 TQC-L         51282    20040913
 Thomas Cook Group                                              TCG-L         77405    20070620
 Thor Mining                                                    THR-L         51438    20061017
 Thorntons plc                                                  THT-L         17108    19960223
@@ -1976,7 +1972,6 @@ TITANIUM RES                                                   TXR-L         637
 Titon Holdings plc                                             TON-L         17116    19960223
 TLN Group                                                      TTV-L         17144    20000614
 TOLEDO MINING GB                                               TMC-L         51167    20040416
-TOLENT                                                         TLT-L         63288    20031015
 TOLUNA                                                         TOL-L         63721    20050627
 Tomkins plc                                                    TOMK-L        16150    19960110
 TOP LEVEL DOMAIN                                               TLDH-L        77526    20071212
@@ -1992,6 +1987,7 @@ Tower Resources                                                TRP-L         514
 TOWN CENTRE SECURITIES PLC                                     TCSC-L        17122    19960223
 TOYE                                                           TOYE-L        63293    20031015
 Tr Eur. Growth                                                 TRG-L         39154    19990210
+TR Property Investment Trust Sigma                             TRYA-L        91905    20080304
 Tr. Prop. Inv. Trust                                           TRY-L         39846    19990210
 Tracsis                                                        TRCS-L        77534    20071212
 TRADING EMMISION                                               TRE-L         63684    20050518
@@ -2077,12 +2073,12 @@ VINACAP VIETNAM                                                VOF-L         510
 VINDON HEALTH                                                  VDN-L         63686    20050518
 Viridas                                                        VIR-L         39276    19990210
 Vislink                                                        VLK-L         17259    19960920
-VISONIC LD IL                                                  VSC-L         51202    20040520
 Vitec Group plc                                                VTC-L         17474    19971211
 VITESSE MED PLC ORD 10P EX-ENT                                 VIS-L         51020    20011004
 Vodafone Group plc                                             VOD-L         16157    19960110
 Volex Group plc                                                VLX-L         17178    19960223
 Volga Gas                                                      VGAS-L        77123    20070515
+VOLKSWAGEN AG                                                  VKW-L         77668    20100216
 Volvere PLC Ord 0.00001p                                       VLE-L         48217    20030130
 VP Plc                                                         VP-L          17171    19960223
 VT GROUP                                                       VTG-L         63307    20031015
@@ -2127,7 +2123,7 @@ Workplace Systems                                              WSI-L         480
 Works Media                                                    WKS-L         17151    20000614
 Workspace Group                                                WKP-L         16760    19960223
 WORLD CAREERS                                                  WOR-L         63322    20031015
-World Trust Fd.                                                WTR-L         39889    19990210
+WORLD TRUST FUND                                               WTR-L         39889    19990210
 Worthington Group plc                                          WRN-L         17226    19960223
 WPP Group plc                                                  WPP-L         16158    19960110
 WREN EXTRA CARE                                                WREN-L        77171    20070521
@@ -2153,11 +2149,11 @@ YOUR SPACE PLC ORD 1P                                          YSP-L         482
 Yule Catto & Co plc                                            YULC-L        17240    19960223
 
 Zamano                                                         ZMNO-L        77126    20070515
+ZCCM INV HLDGS                                                 ZCC-L         77666    20100216
 Zenergy Power                                                  ZEN-L         63950    20061016
 Zest Group                                                     ZEST-L        63643    20050331
 ZETAR GB                                                       ZTR-L         63401    20050118
 ZINCOX RESOURCES                                               ZOX-L         48189    20020807
-Zirax                                                          ZRX-L         63926    20060511
 ZOO DIGITAL GRP                                                ZOO-L         63330    20031015
 Zotefoams plc                                                  ZTF-L         17241    19960223
 ZYTRONIC PLC ORD 1P                                            ZYT-L         48084    20010126
