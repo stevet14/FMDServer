@@ -21,11 +21,12 @@ public class BuySignals {
 	/**
 	 * Logger for this class
 	 */
-	private static final Logger logger = Logger.getLogger(BuySignals.class);
+	private static final Logger log = Logger.getLogger(BuySignals.class);
 
 	private static CSVWriter writer;
 	private static Session session;
 
+	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws IOException {
 
 		session = HibernateUtil.getSessionFactory().getCurrentSession();
@@ -53,9 +54,8 @@ public class BuySignals {
 				String breakoutSignal = getBreakoutSignal(prices);
 
 				if (breakoutSignal.equals("Buy")) {
-					System.out.println(symbol.getSymbol() + " - "
-							+ symbol.getDescription());
-					System.out.println();
+					log.info(symbol.getSymbol() + " - "
+							+ symbol.getDescription() + "\n");
 
 					// CSV Output
 					String[] entries = new String[3];
@@ -65,9 +65,6 @@ public class BuySignals {
 					writer.writeNext(entries);					
 				}
 				session.evict(symbol);
-
-//				System.out.println(symbol.getExchange() + " - "
-//						+ symbol.getSymbol());
 			}
 		session.clear();
 		}
@@ -80,23 +77,23 @@ public class BuySignals {
 		double previous40WeekMA = getMovingAverage(prices, 2, 41);
 		Price price = prices.iterator().next();
 		double close = price.getClose();
-		double high = get12WeekHigh(prices);
+		double high = getPrior11WeekHigh(prices);
 		String breakoutSignal = (close > current40WeekMA)
 				&& (current40WeekMA > previous40WeekMA) && (close > high) ? "Buy"
 				: "Hold";
 
 		if (breakoutSignal.equals("Buy")) {
-			System.out.println("Close - " + close + "| Current 40wMA - "
+			log.info("Close - " + close + "| Current 40wMA - "
 					+ current40WeekMA + "|  Previous 40wMA - "
 					+ previous40WeekMA);
-			System.out.println("Breakout Signal: " + breakoutSignal
-					+ "    (Previous 12-wk high: " + high + ")");
+			log.info("Breakout Signal: " + breakoutSignal
+					+ "    (Previous 11-wk high: " + high + ")");
 			
 			//Generate signal.
 			//TODO...Need to check for pre-existing signals...
 			Signal signal = new Signal();
 			signal.setSymbol(price.getSymbol());
-			signal.setSignalType("Breakout");
+			signal.setSignalType("Upside Breakout");
 			signal.setBuyDate(price.getDate());
 			signal.setBuyPrice(price.getClose());
 			session.save(signal);
@@ -119,18 +116,18 @@ public class BuySignals {
 		for (int i = 1; i < startWeek; i++) {
 			it.next();
 		}
-		for (int i = startWeek - 1; i <= weeks; i++) {
+		for (int i = startWeek - 1; i < weeks; i++) {
 			Price price = it.next();
 			ma += price.getClose();
 		}
 		return ma / (weeks - startWeek + 1);
 	}
 
-	private static double get12WeekHigh(Set<Price> prices) {
+	private static double getPrior11WeekHigh(Set<Price> prices) {
 		double high = 0;
 		Iterator<Price> it = prices.iterator();
 		it.next(); // skip 'this week'
-		for (int i = 1; i <= 12; i++) {
+		for (int i = 1; i < 12; i++) {
 			Price price = it.next();
 			if (price.getHigh() > high)
 				high = price.getHigh();
