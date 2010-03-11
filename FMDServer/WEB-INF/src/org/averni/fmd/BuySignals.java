@@ -77,7 +77,7 @@ public class BuySignals {
 		double previous40WeekMA = getMovingAverage(prices, 2, 41);
 		Price price = prices.iterator().next();
 		double close = price.getClose();
-		double high = getPrior11WeekHigh(prices);
+		double high = getPrior12WeekHigh(prices);
 		String breakoutSignal = (close > current40WeekMA)
 				&& (current40WeekMA > previous40WeekMA) && (close > high) ? "Buy"
 				: "Hold";
@@ -87,7 +87,7 @@ public class BuySignals {
 					+ current40WeekMA + "|  Previous 40wMA - "
 					+ previous40WeekMA);
 			log.info("Breakout Signal: " + breakoutSignal
-					+ "    (Previous 11-wk high: " + high + ")");
+					+ "    (Previous 12-wk high: " + high + ")");
 			
 			//Generate signal.
 			//TODO...Need to check for pre-existing signals...
@@ -123,11 +123,11 @@ public class BuySignals {
 		return ma / (weeks - startWeek + 1);
 	}
 
-	private static double getPrior11WeekHigh(Set<Price> prices) {
+	private static double getPrior12WeekHigh(Set<Price> prices) {
 		double high = 0;
 		Iterator<Price> it = prices.iterator();
 		it.next(); // skip 'this week'
-		for (int i = 1; i < 12; i++) {
+		for (int i = 1; i <= 12; i++) {
 			Price price = it.next();
 			if (price.getHigh() > high)
 				high = price.getHigh();
