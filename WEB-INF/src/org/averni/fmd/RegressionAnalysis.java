@@ -5,6 +5,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
+import java.util.TreeSet;
 
 import org.apache.log4j.Logger;
 import org.averni.fmd.domain.Price;
@@ -19,6 +20,7 @@ public class RegressionAnalysis {
 			.getLogger(RegressionAnalysis.class);
 
 	private static Session session;
+	private static Signal signal;
 
 	public static void main(String[] args) throws IOException {
 
@@ -26,7 +28,8 @@ public class RegressionAnalysis {
 		session.beginTransaction();
 
 		Query q = session
-				.createQuery("from Symbol as symbol where symbol.symbol = 'BGS.L'");
+				.createQuery("from Symbol as symbol");
+		// .createQuery("from Symbol as symbol where symbol.symbol = 'BGS.L'");
 
 		// Pageing logic (per 1000 results)
 		for (int i = 0; i < 1000000; i += 1000) {
@@ -44,31 +47,24 @@ public class RegressionAnalysis {
 				String signal = "Sold";
 				Price[] pricesArray = new Price[prices.size()];
 				prices.toArray(pricesArray);
-				for(Price price : pricesArray) {
-					System.out.println("Date: " + price.getDate());
-				}
-				for (int index = prices.size() - 42; index >= 0; index--) {
-					//2008-12-15 (correct)
-					Set<Price> pricesSubSet = new HashSet<Price>();
-					System.out.println("Symbol: " + symbol.getSymbol()
-							+ " Date: " + pricesArray[index].getDate());
-					for (int j = index; j <= index + 41; j++) {
+				for (int index = prices.size() - 41; index >= 0; index--) {
+					Set<Price> pricesSubSet = new TreeSet<Price>(
+							new PriceComparator());
+					for (int j = index; j <= index + 40; j++) {
 						pricesSubSet.add(pricesArray[j]);
 					}
-					if(signal.equals("Bought")) {
+					if (signal.equals("Bought")) {
 						String sellSignal = getSellSignal(pricesSubSet);
-						if(sellSignal.equals("Sell")) {
-							signal = "sold";
+						if (sellSignal.equals("Sell")) {
+							signal = "Sold";
 						}
 					}
-					if(signal.equals("Sold")) { 
+					if (signal.equals("Sold")) {
 						String breakoutSignal = getBreakoutSignal(pricesSubSet);
 						if (breakoutSignal.equals("Buy")) {
 							signal = "Bought";
-							log.info(symbol.getSymbol() + " - "
-									+ symbol.getDescription() + "\n");
-						}	
-					}					
+						}
+					}
 				}
 				session.evict(symbol);
 			}
@@ -88,15 +84,15 @@ public class RegressionAnalysis {
 				: "Hold";
 
 		if (breakoutSignal.equals("Buy")) {
-			log.info("Date - " + price.getDate() + "| Close - " + close + "| Current 40wMA - "
-					+ current40WeekMA + "|  Previous 40wMA - "
-					+ previous40WeekMA);
+			log.info("Date - " + price.getDate() + "| Close - " + close
+					+ "| Current 40wMA - " + current40WeekMA
+					+ "|  Previous 40wMA - " + previous40WeekMA);
 			log.info("Breakout Signal: " + breakoutSignal
 					+ "    (Previous 12-wk high: " + high + ")");
 
 			// Generate signal.
 			// TODO...Need to check for pre-existing signals...
-			Signal signal = new Signal();
+			signal = new Signal();
 			signal.setSymbol(price.getSymbol());
 			signal.setSignalType("Upside Breakout");
 			signal.setBuyDate(price.getDate());
@@ -114,29 +110,25 @@ public class RegressionAnalysis {
 		}
 		return breakoutSignal;
 	}
+
 	private static String getSellSignal(Set<Price> prices) {
 		double current40WeekMA = getMovingAverage(prices, 1, 40);
 		double previous40WeekMA = getMovingAverage(prices, 2, 41);
 		Price price = prices.iterator().next();
 		double close = price.getClose();
 		String sellSignal = (close < current40WeekMA)
-				|| (current40WeekMA < previous40WeekMA) ? "Sell"
-				: "Hold";
+				|| (current40WeekMA < previous40WeekMA) ? "Sell" : "Hold";
 
 		if (sellSignal.equals("Sell")) {
-			log.info("Date - " + price.getDate() + "| Close - " + close + "| Current 40wMA - "
-					+ current40WeekMA + "|  Previous 40wMA - "
-					+ previous40WeekMA);
+			log.info("Date - " + price.getDate() + "| Close - " + close
+					+ "| Current 40wMA - " + current40WeekMA
+					+ "|  Previous 40wMA - " + previous40WeekMA);
 			log.info("Sell Signal: " + sellSignal);
 
-			// Generate signal.
-			// TODO...Need to check for pre-existing signals...
-			Signal signal = new Signal();
-			signal.setSymbol(price.getSymbol());
-			signal.setSignalType("Upside Breakout");
-			signal.setBuyDate(price.getDate());
-			signal.setBuyPrice(price.getClose());
-			session.save(signal);
+			// Update signal.
+			signal.setSellDate(price.getDate());
+			signal.setSellPrice(price.getClose());
+			session.update(signal);
 
 			Symbol symbol = price.getSymbol();
 			Set<Signal> signals = symbol.getSignals();
