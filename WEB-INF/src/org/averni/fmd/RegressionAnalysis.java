@@ -81,7 +81,7 @@ public class RegressionAnalysis {
 		double high = getPrior12WeekHigh(prices);
 		double gradient = getGradient(prices);
 		String breakoutSignal = (close > current40WeekMA)
-				&& (current40WeekMA > previous40WeekMA) && (close > high) && gradient > 5
+				&& (current40WeekMA > previous40WeekMA) && (close > high) && gradient > 15
 				? "Buy"	: "Hold";
 
 		if (breakoutSignal.equals("Buy")) {
