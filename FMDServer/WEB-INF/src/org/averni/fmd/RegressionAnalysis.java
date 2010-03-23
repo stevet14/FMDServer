@@ -11,6 +11,7 @@ import org.apache.log4j.Logger;
 import org.averni.fmd.domain.Price;
 import org.averni.fmd.domain.Signal;
 import org.averni.fmd.domain.Symbol;
+import org.averni.fmd.fit.FitLine;
 import org.averni.fmd.util.HibernateUtil;
 import org.hibernate.Query;
 import org.hibernate.Session;
@@ -27,8 +28,7 @@ public class RegressionAnalysis {
 		session = HibernateUtil.getSessionFactory().getCurrentSession();
 		session.beginTransaction();
 
-		Query q = session
-				.createQuery("from Symbol as symbol");
+		Query q = session.createQuery("from Symbol as symbol where exchange = 'FUTURES'");
 		// .createQuery("from Symbol as symbol where symbol.symbol = 'BGS.L'");
 
 		// Pageing logic (per 1000 results)
@@ -79,14 +79,17 @@ public class RegressionAnalysis {
 		Price price = prices.iterator().next();
 		double close = price.getClose();
 		double high = getPrior12WeekHigh(prices);
+		double gradient = getGradient(prices);
 		String breakoutSignal = (close > current40WeekMA)
-				&& (current40WeekMA > previous40WeekMA) && (close > high) ? "Buy"
-				: "Hold";
+				&& (current40WeekMA > previous40WeekMA) && (close > high) && gradient > 5
+				? "Buy"	: "Hold";
 
 		if (breakoutSignal.equals("Buy")) {
+			log.info("Symbol - " + price.getSymbol().getSymbol() + " - " + price.getSymbol().getDescription());
 			log.info("Date - " + price.getDate() + "| Close - " + close
 					+ "| Current 40wMA - " + current40WeekMA
 					+ "|  Previous 40wMA - " + previous40WeekMA);
+			log.info("Gradient - " + gradient + "%");
 			log.info("Breakout Signal: " + breakoutSignal
 					+ "    (Previous 12-wk high: " + high + ")");
 
@@ -109,6 +112,25 @@ public class RegressionAnalysis {
 			session.flush();
 		}
 		return breakoutSignal;
+	}
+
+	private static double getGradient(Set<Price> prices) {
+		// Fit points to a straight line. Use constant error.
+		double[] fitParams = new double[4];
+		double[] x = new double[prices.size()];
+		double[] y = new double[prices.size()];
+		Price[] pricesArray = new Price[prices.size()];
+		prices.toArray(pricesArray);
+		for (int i=0; i<prices.size(); i++) {
+			Price price = pricesArray[i];
+			x[i] = price.getDate().getTime() / 86400000; //Convert date into days since 1970...
+			y[i] = price.getClose();
+		}
+		FitLine.fit(fitParams, x, y, null, null, prices.size());
+		double deltaY = (x[0] - x[prices.size()-1]) * fitParams[1];
+		double y1 = (fitParams[1] * x[prices.size()-1]) + fitParams[0];
+		double gradient = deltaY * 100 / y1;
+		return gradient;
 	}
 
 	private static String getSellSignal(Set<Price> prices) {
