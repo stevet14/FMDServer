@@ -95,8 +95,8 @@ public class SymbolLoader {
 		Set<Price> prices = new HashSet<Price>();
 		//Use 'Factory' to get appropriate 'prices' class...
 		URLPrices urlPrices = URLPrices.getPricesClass(Exchange.valueOf(symbol.getExchange()));
+		//Get the data by scraping form the relevant website URL and pass to the text parser...
 		getPricesFromText(symbol, prices, urlPrices.getPrices(symbol));
-//		log.info("Found: " + symbol.getSymbol());
 		return prices;
 	}
 
