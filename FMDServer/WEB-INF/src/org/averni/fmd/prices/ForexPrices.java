@@ -8,9 +8,9 @@ public class ForexPrices extends URLPrices {
 
 	@Override
 	public String[] getPrices(Symbol symbol) throws Exception {
-		
+
 		String[] lines = new String[0];
-		
+
 		String[] monthName = { "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul",
 				"Aug", "Sep", "Oct", "Nov", "Dec" };
 		// We need to iterate a few times to get all the data we need...
@@ -21,9 +21,8 @@ public class ForexPrices extends URLPrices {
 					&& cal.get(Calendar.DAY_OF_WEEK) < Calendar.SATURDAY)
 				cal.add(Calendar.DATE, -cal.get(Calendar.DAY_OF_WEEK) - 1);
 			else
-				cal
-						.add(Calendar.DATE,
-								(-cal.get(Calendar.DAY_OF_WEEK) % 7) - 1);
+				cal.add(Calendar.DATE,
+					(-cal.get(Calendar.DAY_OF_WEEK) % 7) - 1);
 
 			int endYear = cal.get(Calendar.YEAR);
 			String endMonth = monthName[cal.get(Calendar.MONTH)];
@@ -55,28 +54,28 @@ public class ForexPrices extends URLPrices {
 					+ endYear
 					+ "&ehour=&emin=&Img+Type=png&drsi=0&ma1=0&dmacd=0&ma2=0&bol=0&dstoch=0&Submit=Submit";
 
-			lines = join(lines, getSymbolDatafromURL(urlString));			
+			lines = join(lines, getSymbolDatafromURL(urlString));
 		}
 		return lines;
 	}
 
 	@SuppressWarnings("unchecked")
 	String[] join(String[]... arrays) {
-		  // calculate size of target array
-		  int size = 0;
-		  for (String[] array : arrays) {
-		    size += array.length;
-		  }
-
-		  // create list of appropriate size
-		  java.util.List <String> list = new java.util.ArrayList(size);
-
-		  // add arrays
-		  for (String[] array : arrays) {
-		    list.addAll(java.util.Arrays.asList(array));
-		  }
-
-		  // create and return final array
-		  return list.toArray(new String[size]);
+		// calculate size of target array
+		int size = 0;
+		for (String[] array : arrays) {
+			size += array.length;
 		}
+
+		// create list of appropriate size
+		java.util.List<String> list = new java.util.ArrayList(size);
+
+		// add arrays
+		for (String[] array : arrays) {
+			list.addAll(java.util.Arrays.asList(array));
+		}
+
+		// create and return final array
+		return list.toArray(new String[size]);
+	}
 }
