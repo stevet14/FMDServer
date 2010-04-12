@@ -1,4 +1,4 @@
-<project name="FMDServer" basedir="." default="package">
+<project name="FMDServer" basedir="." default="archive">
 
 	<property name="WEB-INF" value="${basedir}/WEB-INF" />
 	<property name="OUT" value="${basedir}/out" />
@@ -33,10 +33,6 @@
 			<classes dir="${TEMP}" />
 			<lib dir="${WEB-INF}/lib" excludes="servlet-api*.jar,*.src.jar" />
 		</war>
-	</target>
-
-	<target name="package">
-		<delete dir="${TEMP}" />
 	</target>
 
 </project>

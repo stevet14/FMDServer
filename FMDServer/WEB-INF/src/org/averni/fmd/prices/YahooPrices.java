@@ -17,6 +17,7 @@ public class YahooPrices extends URLPrices {
 	@Override
 	public String[] getPrices(Symbol symbol) throws Exception {
 		Calendar gc = Calendar.getInstance();
+		int dayOfWeek = gc.get(Calendar.DAY_OF_WEEK);
 		Date endDate = gc.getTime();
 		gc.add(Calendar.WEEK_OF_MONTH, -100);
 		Date startDate = gc.getTime();
