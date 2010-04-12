@@ -51,7 +51,7 @@ public class SymbolLoader {
 				String symbolCode = entries[0];
 				String description = entries[1];
 
-				session = HibernateUtil.getSessionFactory().getCurrentSession();
+				session = HibernateUtil.getSessionFactory().openSession();
 				session.beginTransaction();
 				Symbol symbol = (Symbol) session.createQuery(
 						"from Symbol as symbol where symbol.symbol = ?")

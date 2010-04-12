@@ -35,7 +35,7 @@ public class UpdateScheduler {
 		Calendar cal = Calendar.getInstance();
 		cal.set(Calendar.DAY_OF_WEEK, Calendar.SATURDAY);
 		
-		long ts = TriggerUtils.getDateOf(0, 0, 01, cal.get(Calendar.DATE), cal.get(Calendar.MONTH)+1,
+		long ts = TriggerUtils.getDateOf(0, 15, 13, cal.get(Calendar.DATE), cal.get(Calendar.MONTH)+1,
 				cal.get(Calendar.YEAR)).getTime();
 
 		// job1 will only fire once at date/time "ts"
