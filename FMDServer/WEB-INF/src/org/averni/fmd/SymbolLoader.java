@@ -51,7 +51,7 @@ public class SymbolLoader {
 				String symbolCode = entries[0];
 				String description = entries[1];
 
-				session = HibernateUtil.getSessionFactory().openSession();
+				session = HibernateUtil.getSessionFactory().getCurrentSession();
 				session.beginTransaction();
 				Symbol symbol = (Symbol) session.createQuery(
 						"from Symbol as symbol where symbol.symbol = ?")
@@ -63,8 +63,12 @@ public class SymbolLoader {
 					symbol.setSymbol(symbolCode);
 					symbol.setDescription(description);
 					symbol.setMarketType("<unknown>");
+				} 				
+/*				else {
+					Date lastDate = symbol.getPrices().iterator().next().getDate();
+					//test if the date is recent (and continue).
 				}
-				session.save(symbol);
+*/				session.save(symbol);
 				try {
 					addPrices(symbol);
 				} catch (Exception e) {
