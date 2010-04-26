@@ -36,7 +36,7 @@ public class ForexPrices extends URLPrices {
 			String startMonth = monthName[cal.get(Calendar.MONTH)];
 			int startDay = cal.get(Calendar.DATE);
 
-			String urlString = "http://forex.tradingcharts.com/charts/index.php?sym="
+			String urlString = "http://forex.tradingcharts.com/charts/chart_script.php4?sym="
 					+ symbol.getSymbol()
 					+ "&data=b&tz=GMT&type=b&cs=1&period=1d&defdates=0"
 					+ "&bmonth="
@@ -52,7 +52,7 @@ public class ForexPrices extends URLPrices {
 					+ endDay
 					+ "&eyear="
 					+ endYear
-					+ "&ehour=&emin=&Img+Type=png&drsi=0&ma1=0&dmacd=0&ma2=0&bol=0&dstoch=0&Submit=Submit";
+					+ "&ehour=&emin=&Img+Type=png&drsi=0&ma1=0&dmacd=0&ma2=0&bol=0&dstoch=0&Submit=Submit&r=1";
 
 			lines = join(lines, getSymbolDatafromURL(urlString));
 		}
