@@ -43,8 +43,8 @@ public class UpdateScheduler {
 		JobDetail job = new JobDetail("job1", "group1", SymbolManager.class);
 		SimpleTrigger trigger = new SimpleTrigger("trigger1", "group1", "job1",
 				"group1", ts, null,
-				//SimpleTrigger.REPEAT_INDEFINITELY, 7L * 24L * 60L * 60L * 1000L);
-				SimpleTrigger.REPEAT_INDEFINITELY, 20L * 60L * 1000L);
+				SimpleTrigger.REPEAT_INDEFINITELY, 7L * 24L * 60L * 60L * 1000L);
+				//SimpleTrigger.REPEAT_INDEFINITELY, 20L * 60L * 1000L);
 
 		// schedule it to run!
 		Date ft = sched.scheduleJob(job, trigger);
