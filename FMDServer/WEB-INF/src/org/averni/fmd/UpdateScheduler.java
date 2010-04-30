@@ -35,14 +35,16 @@ public class UpdateScheduler {
 		Calendar cal = Calendar.getInstance();
 		cal.set(Calendar.DAY_OF_WEEK, Calendar.SATURDAY);
 		
-		long ts = TriggerUtils.getDateOf(0, 15, 13, cal.get(Calendar.DATE), cal.get(Calendar.MONTH)+1,
-				cal.get(Calendar.YEAR)).getTime();
+//		Date ts = TriggerUtils.getDateOf(0, 35, 9, cal.get(Calendar.DATE), cal.get(Calendar.MONTH)+1,
+		Date ts = TriggerUtils.getDateOf(00, 00, 01, cal.get(Calendar.DATE), cal.get(Calendar.MONTH)+1,
+				cal.get(Calendar.YEAR));
 
-		// job1 will only fire once at date/time "ts"
+		// job1 will only fire once a week on Saturdays at 1am.
 		JobDetail job = new JobDetail("job1", "group1", SymbolManager.class);
 		SimpleTrigger trigger = new SimpleTrigger("trigger1", "group1", "job1",
-				"group1", new Date(ts), null,
-				SimpleTrigger.REPEAT_INDEFINITELY, 7L * 24L * 60L * 60L * 1000L);
+				"group1", ts, null,
+				//SimpleTrigger.REPEAT_INDEFINITELY, 7L * 24L * 60L * 60L * 1000L);
+				SimpleTrigger.REPEAT_INDEFINITELY, 20L * 60L * 1000L);
 
 		// schedule it to run!
 		Date ft = sched.scheduleJob(job, trigger);
