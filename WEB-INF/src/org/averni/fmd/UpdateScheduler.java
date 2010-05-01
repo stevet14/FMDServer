@@ -36,7 +36,7 @@ public class UpdateScheduler {
 		cal.set(Calendar.DAY_OF_WEEK, Calendar.SATURDAY);
 		
 //		Date ts = TriggerUtils.getDateOf(0, 35, 9, cal.get(Calendar.DATE), cal.get(Calendar.MONTH)+1,
-		Date ts = TriggerUtils.getDateOf(00, 30, 11, cal.get(Calendar.DATE), cal.get(Calendar.MONTH)+1,
+		Date ts = TriggerUtils.getDateOf(00, 45, 18, cal.get(Calendar.DATE), cal.get(Calendar.MONTH)+1,
 				cal.get(Calendar.YEAR));
 
 		// job1 will only fire once a week on Saturdays at 1am.

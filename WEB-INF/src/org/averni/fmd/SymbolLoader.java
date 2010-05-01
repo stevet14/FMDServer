@@ -54,8 +54,9 @@ public class SymbolLoader {
 				session = HibernateUtil.getSessionFactory().getCurrentSession();
 				session.beginTransaction();
 				Symbol symbol = (Symbol) session.createQuery(
-						"from Symbol as symbol where symbol.symbol = ?")
-						.setString(0, symbolCode).uniqueResult();
+						"from Symbol as symbol where symbol.symbol = '^FTSE'")
+						//.setString(0, symbolCode)
+						.uniqueResult();
 
 				if (symbol == null) {
 					symbol = new Symbol();
