@@ -33,6 +33,7 @@
 			<classes dir="${TEMP}" />
 			<lib dir="${WEB-INF}/lib" excludes="servlet-api*.jar,*.src.jar" />
 		</war>
+		<delete dir="${TEMP}" />
 	</target>
 
 </project>
