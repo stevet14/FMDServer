@@ -1,5 +1,6 @@
 package org.averni.fmd;
 
+import java.io.IOException;
 import java.util.Date;
 
 import org.apache.commons.logging.Log;
@@ -57,6 +58,12 @@ public class SymbolManager implements Job {
 		sl.loadSymbols(Exchange.FOREX);
 		System.out.println("\nExchange: " + Exchange.FUTURES + "\n");
 		sl.loadSymbols(Exchange.FUTURES);
+		
+		try {
+			BuySignals.main(null);
+		} catch (IOException e) {
+			log.error(e.getMessage());
+		}
 	}
 
 }
