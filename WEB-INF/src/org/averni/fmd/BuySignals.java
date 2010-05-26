@@ -2,6 +2,7 @@ package org.averni.fmd;
 
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Calendar;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
@@ -14,6 +15,8 @@ import org.averni.fmd.domain.Symbol;
 import org.averni.fmd.util.HibernateUtil;
 import org.hibernate.Query;
 import org.hibernate.Session;
+import org.hibernate.criterion.Order;
+import org.hibernate.criterion.Restrictions;
 
 import au.com.bytecode.opencsv.CSVWriter;
 
@@ -29,6 +32,10 @@ public class BuySignals {
 	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws IOException {
 
+		String buySignals = getBuySignals();
+		log.info(buySignals);
+		if(true) return;
+		
 		session = HibernateUtil.getSessionFactory().getCurrentSession();
 		session.beginTransaction();
 		writer = new CSVWriter(new FileWriter("BuySignals.csv"), ',',
@@ -133,5 +140,37 @@ public class BuySignals {
 				high = price.getHigh();
 		}
 		return high;
+	}
+	
+	public static String getBuySignals() {
+		String buySignals = "";
+		
+		//Set scheduled daterange to be last full Monday-to-Friday.
+		Calendar cal = Calendar.getInstance();
+		
+		log.info("Current date: " + cal.getTime());
+
+		if(cal.get(Calendar.DAY_OF_WEEK)==Calendar.SATURDAY) 
+			cal.add(Calendar.DAY_OF_MONTH, -5);
+		else
+			cal.add(Calendar.DAY_OF_MONTH, -cal.get(Calendar.DAY_OF_WEEK) - 5);
+		
+		log.info("BuySignals as at: " + cal.getTime());
+		
+		session = HibernateUtil.getSessionFactory().getCurrentSession();
+		log.info("BuySignals:\n" + buySignals);
+		session.beginTransaction();
+
+		List<Signal> signals = session.createCriteria(Signal.class)
+			.add( Restrictions.ge("buyDate", cal.getTime()))
+	    	.addOrder( Order.desc("symbol.exchange") )
+	    	.addOrder( Order.asc("symbol.description") )
+	    .list();
+		
+		for(Signal signal : signals) {
+			buySignals.concat(signal.getSymbol().getSymbol() + "," + signal.getSymbol().getDescription()+ "\n");
+		}
+		log.info("BuySignals:\n" + buySignals);
+		return buySignals;
 	}
 }
