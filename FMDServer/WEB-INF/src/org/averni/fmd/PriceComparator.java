@@ -6,7 +6,6 @@ import org.averni.fmd.domain.Price;
 
 public class PriceComparator implements Comparator<Price> {
 
-	@Override
 	public int compare(Price price1, Price price2) {
 		if (price1.getDate().before(price2.getDate()))
 			return 1;
