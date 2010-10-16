@@ -35,7 +35,6 @@ public class BuySignals {
 
     String buySignals = getBuySignals();
     log.info(buySignals);
-    if (true) return;
 
     session = HibernateUtil.getSessionFactory().getCurrentSession();
     session.beginTransaction();
