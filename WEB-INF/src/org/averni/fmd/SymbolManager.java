@@ -59,11 +59,11 @@ public class SymbolManager implements Job {
 		System.out.println("\nExchange: " + Exchange.FUTURES + "\n");
 		sl.loadSymbols(Exchange.FUTURES);
 		
-		try {
+/*		try {
 			BuySignals.main(null);
 		} catch (IOException e) {
 			log.error(e.getMessage());
 		}
-	}
+*/	}
 
 }
