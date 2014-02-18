@@ -31,5 +31,8 @@
 	<classpathentry kind="var" path="TOMCAT_HOME/lib/el-api.jar"/>
 	<classpathentry kind="var" path="TOMCAT_HOME/lib/annotations-api.jar"/>
 	<classpathentry kind="lib" path="WEB-INF/lib/jsch-0.1.50.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/bonecp-0.8.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/bonecp-provider-0.7.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/guava-15.0.jar"/>
 	<classpathentry kind="output" path="WEB-INF/classes"/>
 </classpath>
