@@ -72,14 +72,15 @@ public class SymbolLoader {
 */				session.save(symbol);
 				try {
 					addPrices(symbol);
+					log.info("Saved symbol and prices for: "
+							+ symbol.getDescription());
 				} catch (Exception e) {
 					// skip the symbol if we can't get any prices.
 					log.error(e.getMessage() + symbol.getSymbol() + " - " + symbol.getDescription());
 					continue;
-				}
+				} finally {
 				session.getTransaction().commit();
-				log.info("Saved symbol and prices for: "
-						+ symbol.getDescription());
+				}
 			}
 			br.close();
 			isr.close();
