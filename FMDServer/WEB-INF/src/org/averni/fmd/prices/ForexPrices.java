@@ -68,7 +68,7 @@ public class ForexPrices extends URLPrices {
 		}
 
 		// create list of appropriate size
-		java.util.List<String> list = new java.util.ArrayList(size);
+		java.util.List<String> list = new java.util.ArrayList<String>(size);
 
 		// add arrays
 		for (String[] array : arrays) {
