@@ -110,7 +110,7 @@ public class SymbolLoader {
 			String[] lines) throws ParseException {
 		for (String line : lines) {
 			String[] entries = line.split(",");
-			DateFormat formatter = new SimpleDateFormat("MM/dd/yy");
+			DateFormat formatter = new SimpleDateFormat("yyyy-MM-dd");
 			Date priceDate = (Date) formatter.parse(entries[0]);
 			Price price = (Price) session
 					.createQuery(
@@ -119,11 +119,11 @@ public class SymbolLoader {
 
 			if (price == null) {
 				price = new Price();
-				price.setDate(priceDate);
+				price.setDate(priceDate); 
 				price.setOpen(Double.parseDouble(entries[1]));
 				price.setHigh(Double.parseDouble(entries[2]));
 				price.setLow(Double.parseDouble(entries[3]));
-				price.setClose(Double.parseDouble(entries[4]));
+				price.setClose(Double.parseDouble(entries[5])); //temporarily changed from 4 to 5.
 				price.setVolume(0);
 				if (symbol.getExchange().equals("FOREX"))
 					price.setPeriod("Daily");

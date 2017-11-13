@@ -12,13 +12,9 @@ import org.apache.commons.logging.LogFactory;
 import org.averni.fmd.SymbolLoader.Exchange;
 import org.averni.fmd.domain.Symbol;
 
-import de.hdtconsulting.yahoo.finance.Yapi;
-import de.hdtconsulting.yahoo.finance.csv.connection.YHost;
-
 public abstract class URLPrices {
 
 	private static Log log = LogFactory.getLog(URLPrices.class);
-	static Yapi yapi = new Yapi();
 	
 	public abstract String[] getPrices(Symbol symbol) throws Exception; 
 
@@ -29,7 +25,7 @@ public abstract class URLPrices {
 		case FUTURES:
 			return new FuturesPrices();
 		default:
-			return new YahooPrices();
+			return new AlphaAdvantagePrices();
 		}
 	}
 	
@@ -74,10 +70,10 @@ public abstract class URLPrices {
 			System.setProperty("http.proxyHost", "webproxy.svr.chp.co.uk");
 			System.setProperty("http.proxyPort", "3128");
 
-			YHost proxy = new YHost();
-			proxy.setServer("webproxy.svr.chp.co.uk");
-			proxy.setPort(3128);
-			yapi.setProxy(proxy);
+//			YHost proxy = new YHost();
+//			proxy.setServer("webproxy.svr.chp.co.uk");
+//			proxy.setPort(3128);
+//			yapi.setProxy(proxy);
 
 		} catch (UnknownHostException e) {
 			System.err.println("Unable to lookup proxy");
